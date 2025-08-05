@@ -5,7 +5,7 @@
 
 ### 본문
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="215" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 이 영상 사실인가요?
 주한미군이 우리 안지키고 대만 지키러 간다는게? 사실이라면 지금 짐싸서 제주도로 대피하려구요...ㅠㅠ
