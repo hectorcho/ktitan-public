@@ -878,8 +878,8 @@
             }
         ],
         "url": "https://gall.dcinside.com/board/view/?id=army&no=1868606&exception_mode=recommend&list_num=100&page=1",
-        "fakeProbability": 100,
-        "resolved": true,
+        "fakeProbability": 90,
+        "resolved": false,
         "resolutionUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/community_training_resolution_2025-08-18.md"
     },
     {
