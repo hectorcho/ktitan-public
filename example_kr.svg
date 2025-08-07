@@ -1,0 +1,31 @@
+
+    <div style="
+        display: inline-flex;
+        align-items: flex-end;
+        font-family: sans-serif;"
+    >
+      <img
+        src="https://flagcdn.com/kr.svg"
+        width="150"
+        alt="KR flag"
+        style="margin-right: 12px;"
+      />
+      <div style="
+        position: relative;
+        width: 25px;
+        height: 100px;
+        background: #eee;
+        border-radius: 4px;
+        overflow: hidden;
+        display: flex;
+        align-items: flex-end;
+      ">
+        <div style="
+          width: 100%;
+          height: 50%;
+          background: yellow;
+        "></div>
+      </div>
+      <span style="font-weight: bold; font-size: 32px; margin-left: 12px;">50</span>
+    </div>
+    
