@@ -1,154 +1,146 @@
 [
     {
-        "title": "Une canicule « d’un niveau exceptionnel » dans le sud de la France, des records de températures de plus de 41 °C à Bordeaux et Toulouse",
-        "summary": "La vigilance reste maximale dans les 12 départements du Sud-Ouest placés en vigilance rouge. Mardi, cette dernière s’étendra à quatre départements de la région lyonnaise. Le phénomène devrait durer « au moins » jusqu’au week-end du 15 août.",
+        "title": "La canicule fait de nouveau suffoquer la France : « 43 °C franchement, je savais à peine que cela existait »",
+        "summary": "Quatorze départements sont placés en vigilance rouge canicule mardi 12 août, et les deux tiers du pays sont en vigilance orange. Des records de températures ont été battus dans le Sud-Ouest.",
         "source": "lemonde",
-        "date": "Mon, 11 Aug 2025 11:34:40 +0200",
-        "url": "https://www.lemonde.fr/planete/article/2025/08/11/la-canicule-monte-d-un-cran-dans-le-sud-ouest-je-ne-joue-pas-avec-la-chaleur_6628050_3245.html",
+        "date": "2025-08-12T13:09:05+09:00",
+        "url": "https://www.lemonde.fr/planete/article/2025/08/12/la-canicule-fait-de-nouveau-suffoquer-la-france-43-c-franchement-je-savais-a-peine-que-cela-existait_6628333_3244.html",
+        "reportUrl": ""
+    },
+    {
+        "title": "Budget 2026 : François Bayrou braque les partenaires sociaux",
+        "summary": "Les syndicats et le patronat doivent se prononcer, d’ici au 1ᵉʳ septembre, sur leur participation à des négociations sur la suppression de deux jours fériés et le lancement d’une nouvelle réforme de l’assurance-chômage.",
+        "source": "lemonde",
+        "date": "2025-08-12T12:45:03+09:00",
+        "url": "https://www.lemonde.fr/politique/article/2025/08/12/budget-2026-francois-bayrou-braque-les-partenaires-sociaux_6628325_823448.html",
         "reportUrl": ""
     },
     {
         "title": "Donald Trump ne veut pas de Volodymyr Zelensky pendant sa rencontre avec Vladimir Poutine en Alaska",
         "summary": "A quatre jours d’un sommet avec le chef de l’Etat russe pour négocier la paix en Ukraine, le président américain s’est agacé du refus du président ukrainien de céder une partie de son territoire à la Russie.",
         "source": "lemonde",
-        "date": "Tue, 12 Aug 2025 00:27:10 +0200",
+        "date": "2025-08-12T07:27:06+09:00",
         "url": "https://www.lemonde.fr/international/article/2025/08/12/donald-trump-ne-veut-pas-de-volodymyr-zelensky-pendant-sa-rencontre-avec-vladimir-poutine-en-alaska_6628311_3210.html",
         "reportUrl": ""
     },
     {
-        "title": "Incendies : de l’Italie aux Balkans, des feux brûlent l’Europe, traversée par une vague de chaleur « étonnamment puissante »",
-        "summary": "En Espagne, la canicule qui frappe depuis une semaine, avec des températures avoisinant les 40 °C, devrait se prolonger jusqu’à dimanche. En Albanie, au Monténégro ainsi qu’en Croatie, les pompiers sont débordés.",
+        "title": "Loi Duplomb : Emmanuel Macron promulgue le texte après la censure partielle du Conseil constitutionnel",
+        "summary": "La loi ne contient plus la réintroduction de l’acétamipride, un pesticide de la famille des néonicotinoïdes. Mais le sénateur qui a porté le texte n’a pas exclu une nouvelle proposition de loi tenant compte des critères imposés par l’institution.",
         "source": "lemonde",
-        "date": "Mon, 11 Aug 2025 20:39:13 +0200",
-        "url": "https://www.lemonde.fr/planete/article/2025/08/11/de-l-espagne-aux-balkans-les-incendies-font-rage-en-europe-traversee-par-une-vague-de-chaleur-etonnamment-puissante_6628304_3244.html",
+        "date": "2025-08-12T10:53:45+09:00",
+        "url": "https://www.lemonde.fr/politique/article/2025/08/12/loi-duplomb-emmanuel-macron-promulgue-le-texte-apres-la-censure-partielle-du-conseil-constitutionnel_6628316_823448.html",
+        "reportUrl": ""
+    },
+    {
+        "title": "Municipales 2026 : la nouvelle loi « PLM » bouscule les stratégies de la gauche parisienne",
+        "summary": "L’élection du maire de la capitale au scrutin direct incite les partis à envisager une union de la gauche dès le premier tour. Ce que refuse La France insoumise, exclue d’emblée des discussions par le Parti socialiste.",
+        "source": "lemonde",
+        "date": "2025-08-12T12:00:18+09:00",
+        "url": "https://www.lemonde.fr/politique/article/2025/08/12/municipales-2026-la-nouvelle-loi-plm-bouscule-les-strategies-de-la-gauche-parisienne_6628319_823448.html",
+        "reportUrl": ""
+    },
+    {
+        "title": "Trois séries pour l’été : « Alien. Earth », « Wolf Hall. Le miroir et la lumière », « Mercredi »",
+        "summary": "« La Matinale » vous propose une sélection de séries à (re)découvrir sur le petit écran : aujourd’hui, l’arrivée sur la Terre d’une créature familière, l’effacement d’un homme puissant et la rentrée d’une lycéenne.",
+        "source": "lemonde",
+        "date": "2025-08-12T11:00:02+09:00",
+        "url": "https://www.lemonde.fr/culture/article/2025/08/12/trois-series-pour-l-ete-alien-earth-wolf-hall-le-miroir-et-la-lumiere-mercredi_6628317_3246.html",
+        "reportUrl": ""
+    },
+    {
+        "title": "En direct, Gaza : Benyamin Nétanyahou est « dans le déni » concernant la situation humanitaire dans l’enclave, d’après le premier ministre australien",
+        "summary": "L’Australie avait annoncé lundi son intention de reconnaître l’Etat de Palestine lors de l’assemblée générale de l’Organisation des Nations unies, en septembre à New York.",
+        "source": "lemonde",
+        "date": "2025-08-12T14:44:07+09:00",
+        "url": "https://www.lemonde.fr/international/live/2025/08/12/en-direct-gaza-benyamin-netanyahou-est-dans-le-deni-concernant-la-situation-humanitaire-dans-l-enclave-d-apres-le-premier-ministre-australien_6626647_3210.html",
+        "reportUrl": ""
+    },
+    {
+        "title": "En Charente, l’incendie qui a brûlé 230 hectares et conduit à plusieurs évacuations est fixé",
+        "summary": "Plus de 200 sapeurs-pompiers avaient été mobilisés, aidés d’avions bombardiers d’eau Dash et Canadair.",
+        "source": "lemonde",
+        "date": "2025-08-12T14:38:16+09:00",
+        "url": "https://www.lemonde.fr/planete/article/2025/08/12/en-charente-l-incendie-qui-a-brule-230-hectares-et-conduit-a-plusieurs-evacuations-est-fixe_6628310_3245.html",
+        "reportUrl": ""
+    },
+    {
+        "title": "Donald Trump nomme E. J. Antoni à la tête du bureau des statistiques après le renvoi controversé de son ex-patronne",
+        "summary": "Le président américain avait demandé le licenciement, le 1ᵉʳ août, de la responsable des statistiques, l’accusant notamment d’avoir publié de mauvais chiffres de l’emploi.",
+        "source": "lemonde",
+        "date": "2025-08-12T14:18:15+09:00",
+        "url": "https://www.lemonde.fr/international/article/2025/08/12/donald-trump-nomme-e-j-antoni-a-la-tete-du-bureau-des-statistiques-de-l-emploi-apres-le-renvoi-controverse-de-son-ex-patronne_6628367_3210.html",
+        "reportUrl": ""
+    },
+    {
+        "title": "Affaire Joël Chenal : accusé de harcèlement et d’agression sexuelle sur mineures, l’entraîneur de ski s’excuse pour des faits « impardonnables »",
+        "summary": "L’ancien skieur français affirme avoir entamé une thérapie depuis 2021, tandis que 12 femmes l’accusent, dont une qui a porté plainte pour « agression » concernant des faits présumés remontant à 2015, alors qu’elle avait 17 ans.",
+        "source": "lemonde",
+        "date": "2025-08-12T08:23:40+09:00",
+        "url": "https://www.lemonde.fr/sport/article/2025/08/12/affaire-joel-chenal-accuse-de-harcelement-et-d-agression-sexuelle-sur-mineures-l-entraineur-de-ski-s-excuse-pour-des-faits-impardonnables_6628312_3242.html",
+        "reportUrl": ""
+    },
+    {
+        "title": "En direct, guerre en Ukraine : les Ukrainiens doivent pouvoir « décider de leur avenir », selon les dirigeants européens",
+        "summary": "Alors que Donald Trump et Vladimir Poutine doivent se rencontrer en Alaska vendredi 15 août, les dirigeants européens estiment que des négociations substantielles requièrent « un cessez-le-feu ou une réduction des hostilités ».",
+        "source": "lemonde",
+        "date": "2025-08-12T14:38:06+09:00",
+        "url": "https://www.lemonde.fr/international/live/2025/08/12/en-direct-guerre-en-ukraine-les-ukrainiens-doivent-pouvoir-decider-de-leur-avenir-selon-les-dirigeants-europeens_6627648_3210.html",
         "reportUrl": ""
     },
     {
         "title": "Le prélèvement fédéral de 15 % sur les exportations de Nvidia en Chine, nouveau signe de l’ingérence de Donald Trump dans la vie économique",
-        "summary": "La stratégie du président américain consterne les partisans d’une ligne dure face à Pékin, alors qu’il a également décrété, lundi, une nouvelle trêve de 90 jours dans la guerre commerciale entre les deux pays.",
+        "summary": "La stratégie du président américain consterne les partisans d’une ligne dure face à Pékin, alors qu’il a également décrété, lundi, une nouvelle trêve de quatre-vingt-dix jours dans la guerre commerciale entre les deux pays.",
         "source": "lemonde",
-        "date": "Tue, 12 Aug 2025 02:03:15 +0200",
+        "date": "2025-08-12T09:03:15+09:00",
         "url": "https://www.lemonde.fr/economie/article/2025/08/12/le-prelevement-federal-de-15-sur-les-exportations-de-nvidia-en-chine-nouveau-signe-de-l-ingerence-de-donald-trump-dans-la-vie-economique_6628314_3234.html",
         "reportUrl": ""
     },
     {
-        "title": "Ces « bibliothèques de l’ombre » où les scientifiques du monde entier partagent gratuitement des articles",
-        "summary": "« Un monde de pirates » (2/5). Les sites sur lesquels les articles scientifiques sont mis à disposition, en toute illégalité, sont très populaires au sein de la communauté universitaire. Rapides, efficaces, ils incarnent l’utopie d’un savoir accessible à tous.",
-        "source": "lemonde",
-        "date": "Mon, 11 Aug 2025 19:00:07 +0200",
-        "url": "https://www.lemonde.fr/series-d-ete/article/2025/08/11/les-bibliotheques-de-l-ombre-a-la-pointe-du-piratage-scientifique_6628300_3451060.html",
-        "reportUrl": ""
-    },
-    {
-        "title": "A69 : une opposante au projet d’autoroute convoquée au commissariat après une « poignée de main longue et intense » avec Carole Delga",
-        "summary": "Magali Farenc, 50 ans, directrice adjointe d’une société de conseil, a été entendue après un signalement de la présidente socialiste de la région Occitanie, soutien du projet. L’affaire a finalement été classée.",
-        "source": "lemonde",
-        "date": "Mon, 11 Aug 2025 18:01:16 +0200",
-        "url": "https://www.lemonde.fr/planete/article/2025/08/11/a69-quand-une-poignee-de-mains-longue-et-intense-conduit-une-interlocutrice-de-carole-delga-au-commissariat_6628293_3244.html",
-        "reportUrl": ""
-    },
-    {
-        "title": "En direct, Gaza : l’Union européenne condamne le « meurtre de cinq journalistes d’Al-Jazira » dans une frappe israélienne, dit la cheffe de la diplomatie de l’UE",
-        "summary": "Réagissant aux déclarations d’Israël qui a accusé Anas Al-Sharif, l’un des correspondants de la chaîne qatarie tué dans ce bombardement, d’avoir dirigé une « cellule terroriste » du Hamas,  Kaja Kallas a estimé que «  dans ce genre de cas, il est nécessaire de fournir des preuves claires, dans le respect de l’Etat de droit, afin d’éviter que des journalistes ne soient pris pour cible. »",
-        "source": "lemonde",
-        "date": "Mon, 11 Aug 2025 22:58:31 +0200",
-        "url": "https://www.lemonde.fr/international/live/2025/08/11/en-direct-gaza-l-union-europeenne-condamne-le-meurtre-de-cinq-journalistes-d-al-jazira-dans-une-frappe-israelienne-a-gaza-dit-la-cheffe-de-la-diplomatie-de-l-ue_6626647_3210.html",
-        "reportUrl": ""
-    },
-    {
-        "title": "En Charente, un incendie en cours a déjà brûlé 230 hectares et conduit à plusieurs évacuations",
-        "summary": "Alors que la nuit complique l’intervention des secours, plus de 200 sapeurs-pompiers luttent contre un feu toujours actif, qui a forcé des évacuations préventives et provoqué des coupures d’électricité dans douze communes.",
-        "source": "lemonde",
-        "date": "Mon, 11 Aug 2025 23:51:49 +0200",
-        "url": "https://www.lemonde.fr/planete/article/2025/08/11/en-charente-un-incendie-en-cours-a-deja-brule-230-hectares-et-conduit-a-plusieurs-evacuations_6628310_3244.html",
-        "reportUrl": ""
-    },
-    {
-        "title": "En Angleterre, une pénurie d’eau « d’importance nationale », après le début d’année le plus sec depuis 1976",
+        "title": "En Angleterre, une pénurie d’eau d’« importance nationale », après le début d’année le plus sec depuis 1976",
         "summary": "Face à une sécheresse inédite, cinq régions doivent composer avec des restrictions d’eau inédites et des récoltes menacées. Les niveaux des réservoirs n’atteignaient ces derniers jours que 67,7 % de leur capacité.",
         "source": "lemonde",
-        "date": "Tue, 12 Aug 2025 01:59:36 +0200",
+        "date": "2025-08-12T08:59:32+09:00",
         "url": "https://www.lemonde.fr/planete/article/2025/08/12/en-angleterre-une-penurie-d-eau-d-importance-nationale-apres-le-debut-d-annee-le-plus-sec-depuis-1976_6628313_3244.html",
-        "reportUrl": ""
-    },
-    {
-        "title": "En direct, guerre en Ukraine : l’Allemagne annonce une réunion « virtuelle » mercredi entre Donald Trump, les dirigeants européens, ceux de l’OTAN et Volodymyr Zelensky",
-        "summary": "Ces « discussions », deux jours avant le sommet entre le président américain et Vladimir Poutine en Alaska, porteront sur « la préparation de possibles négociations de paix » et les questions « relatives aux revendications territoriales et aux garanties de sécurité ». Donald Trump dit s’attendre à une rencontre « constructive » avec le président russe.",
-        "source": "lemonde",
-        "date": "Mon, 11 Aug 2025 21:24:19 +0200",
-        "url": "https://www.lemonde.fr/international/live/2025/08/11/en-direct-guerre-en-ukraine-l-allemagne-annonce-une-reunion-virtuelle-mercredi-entre-donald-trump-les-dirigeants-europeens-ceux-de-l-otan-et-volodymyr-zelensky_6627648_3210.html",
         "reportUrl": ""
     },
     {
         "title": "Donald Trump place la ville de Washington sous maintien de l’ordre fédéral et y déploie la garde nationale",
         "summary": "Le président américain a parlé d’« une situation d’anarchie complète et totale » dans une capitale « envahie par des gangs violents », alors que les statistiques officielles montrent une baisse de la criminalité violente.",
         "source": "lemonde",
-        "date": "Mon, 11 Aug 2025 17:18:14 +0200",
+        "date": "2025-08-12T00:18:14+09:00",
         "url": "https://www.lemonde.fr/international/article/2025/08/11/etats-unis-donald-trump-place-le-maintien-de-l-ordre-a-washington-sous-controle-federal_6628288_3210.html",
         "reportUrl": ""
     },
     {
-        "title": "Affaire Joël Chenal : accusé de harcèlement et d’agression sexuelle sur mineures, l’entraîneur de ski s’excuse pour des faits « impardonnables »",
-        "summary": "L’ancien skieur français affirme avoir entamé une thérapie depuis 2021, tandis que douze femmes l’accusent, dont une qui a porté plainte pour « agression » pour des faits présumés remontant à 2015 alors qu’elle avait 17 ans.",
+        "title": "Nucléaire iranien : le directeur adjoint de l’AIEA attendu à Téhéran",
+        "summary": "Il s’agit de la première visite de l’Agence internationale de l’énergie atomique depuis la « guerre de douze jours » avec Israël en juin. Affaibli et privé de ses alliés régionaux, l’Iran fait ainsi un geste en faveur des négociations.",
         "source": "lemonde",
-        "date": "Tue, 12 Aug 2025 01:23:40 +0200",
-        "url": "https://www.lemonde.fr/sport/article/2025/08/12/affaire-joel-chenal-accuse-de-harcelement-et-d-agression-sexuelle-sur-mineures-l-entraineur-de-ski-s-excuse-pour-des-faits-impardonnables_6628312_3242.html",
+        "date": "2025-08-12T13:00:05+09:00",
+        "url": "https://www.lemonde.fr/international/article/2025/08/12/nucleaire-iranien-le-directeur-adjoint-de-l-aiea-attendu-a-teheran_6628327_3210.html",
         "reportUrl": ""
     },
     {
-        "title": "La suppression de « jours fériés spécifiques à l’Alsace » n’est « pas négociable », répondent les autorités locales au projet de François Bayrou",
-        "summary": "La collectivité territoriale dénonce « le risque d’un démantèlement progressif des jours fériés spécifiques à l’Alsace », où la loi du 9 décembre 1905 séparant les Eglises et l’Etat ne s’applique pas.",
+        "title": "De quoi Rachida Dati est-elle accusée ? Comprendre en trois minutes",
+        "summary": "La ministre de la culture est impliquée dans cinq affaires et mise en examen pour « corruption et trafic d’influence passifs » dans l’une d’entre elles.",
         "source": "lemonde",
-        "date": "Mon, 11 Aug 2025 18:32:28 +0200",
-        "url": "https://www.lemonde.fr/politique/article/2025/08/11/suppression-de-deux-jours-feries-l-alsace-farouchement-opposee-au-projet-de-francois-bayrou_6628295_823448.html",
+        "date": "2025-08-12T13:00:19+09:00",
+        "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2025/08/12/de-quoi-rachida-dati-est-elle-accusee-comprendre-en-trois-minutes_6628329_6176282.html",
         "reportUrl": ""
     },
     {
-        "title": "SFR sanctionnée d’une amende de 860 000 euros pour des retards de paiement à ses fournisseurs",
-        "summary": "La Direction générale de la concurrence, de la consommation et de la répression des fraudes avait lancé une enquête visant l’entreprise « sur le respect des règles du code de commerce en matière de délais de paiement »",
+        "title": "Incendies : de l’Italie aux Balkans, des feux brûlent l’Europe, traversée par une vague de chaleur « étonnamment puissante »",
+        "summary": "En Espagne, la canicule qui frappe depuis une semaine, avec des températures avoisinant les 40 °C, devrait se prolonger jusqu’à dimanche. En Albanie, au Monténégro ainsi qu’en Croatie, les pompiers sont débordés.",
         "source": "lemonde",
-        "date": "Mon, 11 Aug 2025 22:18:11 +0200",
-        "url": "https://www.lemonde.fr/economie/article/2025/08/11/sfr-sanctionnee-d-une-amende-de-860-000-euros-pour-des-retards-de-paiement-a-ses-fournisseurs_6628308_3234.html",
+        "date": "2025-08-12T03:39:13+09:00",
+        "url": "https://www.lemonde.fr/planete/article/2025/08/11/de-l-espagne-aux-balkans-les-incendies-font-rage-en-europe-traversee-par-une-vague-de-chaleur-etonnamment-puissante_6628304_3244.html",
         "reportUrl": ""
     },
     {
-        "title": "Le fonds souverain de Norvège, le plus important au monde, annonce vendre ses parts dans 11 entreprises israéliennes",
-        "summary": "Le journal norvégien « Aftenposten » a révélé en juin que ce fonds avait investi dans la société israélienne Bet Shemesh Engines Holdings, qui fabrique des pièces pour les moteurs utilisés dans les avions de chasse israéliens.",
+        "title": "Droits de douane : les Etats-Unis prolongent de quatre-vingt-dix jours leur trêve avec la Chine",
+        "summary": "Le président américain a signé un décret pour officialiser le prolongement de cette trêve. Cet accord a temporairement fixé à 30 % la surtaxe américaine sur les produits chinois, tandis que les taxes de Pékin sur les produits américains s’élèvent à 10 %.",
         "source": "lemonde",
-        "date": "Mon, 11 Aug 2025 17:11:22 +0200",
-        "url": "https://www.lemonde.fr/international/article/2025/08/11/le-fonds-souverain-de-norvege-le-plus-important-au-monde-annonce-vendre-ses-parts-dans-11-entreprises-israeliennes_6628287_3210.html",
-        "reportUrl": ""
-    },
-    {
-        "title": "Etats-Unis : en Pennsylvanie, une explosion dans une usine de charbon à coke fait un mort et deux disparus, selon la police",
-        "summary": "Plusieurs personnes ont aussi été blessées dans l’incident qui est survenu lundi à Clairton Coke Works, propriété de la compagnie sidérurgique américaine US Steel, à quelque 25 kilomètres de Pittsburgh.",
-        "source": "lemonde",
-        "date": "Mon, 11 Aug 2025 21:53:15 +0200",
-        "url": "https://www.lemonde.fr/economie/article/2025/08/11/etats-unis-en-pennsylvanie-une-explosion-dans-une-usine-de-charbon-a-coke-fait-un-mort-et-deux-disparus-selon-la-police_6628307_3234.html",
-        "reportUrl": ""
-    },
-    {
-        "title": "« On commence à les connaître, au point de voir des mariages mixtes » : Casablanca, ville refuge pour les migrants subsahariens au Maroc",
-        "summary": "La capitale économique accueille de nombreux immigrés originaires d’Afrique de l’Ouest. Face aux difficultés pour rejoindre l’Europe, certains ont décidé de faire leur vie dans cette métropole où ils sont « tolérés ».",
-        "source": "lemonde",
-        "date": "Mon, 11 Aug 2025 17:00:05 +0200",
-        "url": "https://www.lemonde.fr/afrique/article/2025/08/11/casablanca-ville-refuge-pour-les-migrants-subsahariens-au-maroc-on-a-besoin-d-eux_6628286_3212.html",
-        "reportUrl": ""
-    },
-    {
-        "title": "Vieillir dans une banlieue populaire, une triple peine et un « impensé » politique",
-        "summary": "Les plus de 60 ans représentent aujourd’hui 18 % des habitants dans ces quartiers qui n’ont jamais été pensés pour les personnes âgées. Un défi pour les villes et pour les régies HLM.",
-        "source": "lemonde",
-        "date": "Mon, 11 Aug 2025 05:15:00 +0200",
-        "url": "https://www.lemonde.fr/societe/article/2025/08/11/vieillir-dans-les-quartiers-populaires-un-impense-politique_6628042_3224.html",
-        "reportUrl": ""
-    },
-    {
-        "title": "AOL éteindra ses derniers modems Internet le 30 septembre",
-        "summary": "L’entreprise a fait savoir qu’elle avait « décidé d’abandonner l’accès à Internet par connexion commutée », sans préciser combien d’utilisateurs seraient concernés. Selon le média américain CNBC, AOL comptait 2,1 millions de clients modem en 2015, un chiffre réduit à quelques milliers en 2021.",
-        "source": "lemonde",
-        "date": "Mon, 11 Aug 2025 22:45:35 +0200",
-        "url": "https://www.lemonde.fr/pixels/article/2025/08/11/aol-eteindra-ses-derniers-modems-internet-le-30-septembre_6628309_4408996.html",
+        "date": "2025-08-12T09:35:36+09:00",
+        "url": "https://www.lemonde.fr/economie/article/2025/08/12/droits-de-douane-les-etats-unis-prolongent-de-90-jours-leur-treve-avec-la-chine_6628315_3234.html",
         "reportUrl": ""
     }
 ]
