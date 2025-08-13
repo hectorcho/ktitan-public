@@ -196,5 +196,86 @@
         "date": "2025-08-13T06:23:14+09:00",
         "url": "https://www.nytimes.com/2025/08/12/arts/television/danielle-spencer-dead.html",
         "reportUrl": ""
+    },
+    {
+        "id": "f351d8d124a2d6620881fc97bc56c472ac7e4af8ab9c32485bdf7d7b6bcab3df",
+        "title": "Fact-Checking Trump’s False and Misleading Claims About Crime in D.C.",
+        "summary": "The president cited a number of false and misleading claims about homicides and youth crime in the nation’s capital.",
+        "source": "nytimes",
+        "date": "2025-08-13T10:31:50+09:00",
+        "url": "https://www.nytimes.com/2025/08/12/us/politics/trump-dc-crime-data-fact-check.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "b2dd68181959f2e0cf5e9f14d825b6e46ee0e851e7879e8e4f934bd297c7c380",
+        "title": "Rollout of Trump’s D.C. Crackdown Included Fox News Stars and Charts",
+        "summary": "Jeanine Pirro had a starring role in promoting the president’s federal takeover on TV, and Will Cain’s charts made a cameo.",
+        "source": "nytimes",
+        "date": "2025-08-13T06:11:36+09:00",
+        "url": "https://www.nytimes.com/2025/08/12/us/politics/trump-dc-takeover-crime-fox-news.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "2b632363a057f89fbc5b1caa34fcf51707679ffe3034f07aa470840c4a38a7b1",
+        "title": "Trump Will Discuss Ukraine With European Leaders Ahead of Putin Meeting",
+        "summary": "Chancellor Friedrich Merz and several allies will host the president for a video call, the latest in a summer-long effort to hold ranks in supporting Ukraine.",
+        "source": "nytimes",
+        "date": "2025-08-13T13:01:08+09:00",
+        "url": "https://www.nytimes.com/2025/08/13/world/europe/trump-europe-ukraine-talks-putin.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "34206f1d0edd2c56600c16e0a3bdadb4acf3b5bc36d293b709c050ed6d6c958c",
+        "title": "Trump to Meet Putin at U.S. Military Base in Anchorage",
+        "summary": "The American and Russian presidents will meet face to face at Joint Base Elmendorf-Richardson in Alaska on Friday, according to a White House official.",
+        "source": "nytimes",
+        "date": "2025-08-13T11:58:47+09:00",
+        "url": "https://www.nytimes.com/2025/08/12/us/politics/trump-putin-summit-alaska.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "7c10265cc85775b89ace8d7848c361ca056c03b105207e7928ecd23300b25778",
+        "title": "Human Rights Report Under Trump Blunts Language on Israel and El Salvador",
+        "summary": "A collection of U.S. reports on human rights offenses trimmed or omitted past language on violations in El Salvador, Hungary, Saudi Arabia, the U.A.E. and Israel, all seen as partners by President Trump.",
+        "source": "nytimes",
+        "date": "2025-08-13T11:46:20+09:00",
+        "url": "https://www.nytimes.com/2025/08/12/us/politics/trump-human-rights-israel-saudi-arabia-china.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "d063556f2aa60cddbf2081791864faa56e9393d6288859e3878bb2a539d50ae3",
+        "title": "New Video Shows Uvalde School Chief Trying to Negotiate With Gunman",
+        "summary": "The video, part of a trove of materials that authorities had refused to release, shows the minutes in which a commander tried to talk to a gunman barricaded in a room with dozens of children.",
+        "source": "nytimes",
+        "date": "2025-08-13T09:56:57+09:00",
+        "url": "https://www.nytimes.com/2025/08/12/us/uvalde-documents-video-arredondo.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "3f9e5546dc22b151816611888222856ad4b35f4553a25ad79d5cbec67a24103c",
+        "title": "What A.I. Really Means for Learning",
+        "summary": "A.I. is fueling a ‘poverty of imagination.’ Here’s how we can fix it.",
+        "source": "nytimes",
+        "date": "2025-08-13T10:09:51+09:00",
+        "url": "https://www.nytimes.com/2025/08/12/opinion/ai-college-classrooms-chatgpt.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "d99c625cdd4f6f2338d6096a3e0d31c7488206f6de4ed8a65a6cd252e9d97096",
+        "title": "Heavy Rain Causes Flash Flooding in Chattanooga",
+        "summary": "The mayor of Hamilton County, Tenn., declared a state of emergency as rescue crews pulled people out of submerged cars and homes.",
+        "source": "nytimes",
+        "date": "2025-08-13T12:57:01+09:00",
+        "url": "https://www.nytimes.com/2025/08/12/us/flooding-chattanooga-tennessee.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "1b1ffb60d47febe87814b847a07744135de38f027856ff8fa5a7c1819aade2ae",
+        "title": "Six Convicted in 2017 Fire That Killed 41 Girls in Guatemala Group Home",
+        "summary": "The girls were locked in a classroom in a government-run group home for at-risk youth. The officials were charged with child abuse, dereliction of duty, manslaughter and other counts.",
+        "source": "nytimes",
+        "date": "2025-08-13T09:28:52+09:00",
+        "url": "https://www.nytimes.com/2025/08/12/world/americas/guatemala-convictions-deadly-fire.html",
+        "reportUrl": ""
     }
 ]

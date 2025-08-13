@@ -169,5 +169,77 @@
         "date": "2025-08-13T02:36:27+09:00",
         "url": "https://www.lemonde.fr/sport/article/2025/08/12/le-perchiste-armand-duplantis-ameliore-son-record-du-monde-pour-la-troisieme-fois-en-2025_6628570_3242.html",
         "reportUrl": ""
+    },
+    {
+        "id": "01690a650a41684cc0069a65aafceeed9873a88b53171afcece82c4c27521194",
+        "title": "Guerre en Ukraine : l’armée russe réussit une percée dans la région de Donetsk avant le sommet Trump-Poutine",
+        "summary": "Des petits groupes de saboteurs parviennent à s’infiltrer à travers des lignes de défense ukrainiennes, rendues poreuses par le manque d’effectifs. Le président Volodymyr Zelensky a reconnu une « avancée de dix kilomètres » d’infanterie à pied, sans blindés.",
+        "source": "lemonde",
+        "date": "2025-08-13T12:01:53+09:00",
+        "url": "https://www.lemonde.fr/international/article/2025/08/13/guerre-en-ukraine-l-armee-russe-reussit-une-percee-dans-la-region-de-donetsk-avant-le-sommet-trump-poutine_6628781_3210.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "02205794c81f0ff9fb34d5af2487a8e9981ffd67cc21a6a40670c11f798cb338",
+        "title": "Nouvelle-Calédonie : le FLNKS rejette officiellement l’accord de Bougival",
+        "summary": "Le texte prévoit la création d’un « Etat de Nouvelle-Calédonie » et d’une nationalité calédonienne, mais pas de nouveau référendum sur l’indépendance. « Nous lançons un appel pacifique à nos forces vives pour dire stop à l’Etat s’il entend passer en force », a affirmé Marie-Pierre Goyetche, membre du bureau politique.",
+        "source": "lemonde",
+        "date": "2025-08-13T09:49:21+09:00",
+        "url": "https://www.lemonde.fr/politique/article/2025/08/13/nouvelle-caledonie-le-flnks-rejette-officiellement-l-accord-de-bougival_6628677_823448.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "6d05375afdbf4ebf3fc7e55af91f16279a1915380d892e4c8fbcae1c0c8f29cf",
+        "title": "Nucléaire iranien : les Européens accordent un sursis à Téhéran avant la possible réactivation des sanctions",
+        "summary": "Le Royaume-Uni, l’Allemagne et la France, dits les « E3 », ont informé le Conseil de sécurité de l’ONU et l’AIEA qu’ils donnent à l’Iran jusqu’à la fin du mois d’août pour répondre aux inquiétudes de la communauté internationale.",
+        "source": "lemonde",
+        "date": "2025-08-13T11:37:58+09:00",
+        "url": "https://www.lemonde.fr/international/article/2025/08/13/nucleaire-iranien-les-europeens-accordent-un-sursis-a-teheran-avant-la-possible-reactivation-des-sanctions_6628743_3210.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "26cea741a80dfadfd894175548bc44ccdaeb1133d8be5fe231f42e53e987ebba",
+        "title": "Ariane-6 : décollage réussi en Guyane pour le lanceur européen",
+        "summary": "La fusée doit mettre en orbite le satellite MetOp-SG-A1, destiné à améliorer la précision des prévisions météorologiques et la compréhension du climat.",
+        "source": "lemonde",
+        "date": "2025-08-13T10:59:58+09:00",
+        "url": "https://www.lemonde.fr/sciences/article/2025/08/13/ariane-6-decollage-reussi-en-guyane-pour-le-lanceur-europeen_6628710_1650684.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "5625938e64a27b64f384248e25245291a363f9776f447e249872ddc2c6995d70",
+        "title": "Tour préliminaire de la Ligue des champions : Nice, battu par le Benfica Lisbonne, éliminé en qualifications",
+        "summary": "Surpassés par les Portugais à Lisbonne, mardi, au troisième tour préliminaire retour de la compétition, les Niçois devront désormais se concentrer sur la Ligue Europa.",
+        "source": "lemonde",
+        "date": "2025-08-13T06:50:32+09:00",
+        "url": "https://www.lemonde.fr/sport/article/2025/08/12/tour-preliminaire-de-ligue-des-champions-l-ogc-nice-battu-par-le-benfica-lisbonne-elimine-en-qualification_6628578_3242.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "f72587d57dd970f874fbe280aeafcdb5dab28b3ded0f7e60ecff0b29366ea15d",
+        "title": "En direct, Gaza : une délégation est arrivée au Caire en vue de discussions sur une trêve dans l’enclave palestinienne, confirme le Hamas",
+        "summary": "Le ministre des affaires étrangères égyptien avait déclaré, mardi, que Le Caire travaillait avec Doha et Washington en vue d’un cessez-le-feu de soixante jours dans le territoire palestinien.",
+        "source": "lemonde",
+        "date": "2025-08-13T12:34:50+09:00",
+        "url": "https://www.lemonde.fr/international/live/2025/08/13/en-direct-gaza-une-delegation-est-arrivee-au-caire-en-vue-de-discussions-sur-une-treve-dans-l-enclave-palestinienne-confirme-le-hamas_6628849_3210.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "209d38a9cb3caf6115b449d1146aaa05e18af73cb9c36ed64c4d0e235a95fc83",
+        "title": "Vladimir Poutine et Kim Jong-un s’engagent à « renforcer » leur coopération, avant le sommet avec Donald Trump sur l’Ukraine",
+        "summary": "A quelques jours du déplacement du président russe en Alaska pour rencontrer son homologue américain, le chef du Kremlin et le leader nord-coréen se sont félicités de leur partenariat stratégique « dans tous les domaines », signé en 2024, impliquant notamment un pacte de défense mutuelle.",
+        "source": "lemonde",
+        "date": "2025-08-13T09:00:47+09:00",
+        "url": "https://www.lemonde.fr/international/article/2025/08/13/vladimir-poutine-et-kim-jong-un-s-engagent-a-renforcer-leur-cooperation-avant-le-sommet-avec-donald-trump-sur-l-ukraine_6628644_3210.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "6b3b3d4154b83184b09eeb498b1c5cd76046021ff32aafdc9d2fbc4d35ec9a34",
+        "title": "Le Mexique extrade vers les Etats-Unis vingt-six personnes accusées de trafic de drogue",
+        "summary": "Sous pression de Donald Trump pour lutter contre le fentanyl, Mexico accélère les extraditions de narcotrafiquants.",
+        "source": "lemonde",
+        "date": "2025-08-13T08:32:25+09:00",
+        "url": "https://www.lemonde.fr/international/article/2025/08/13/le-mexique-extrade-vers-les-etats-unis-26-personnes-accusees-de-trafic-de-drogue_6628611_3210.html",
+        "reportUrl": ""
     }
 ]
