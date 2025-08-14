@@ -1,0 +1,902 @@
+[
+    {
+        "id": "12fb8e9f0879c67d0d31500635dbdc4500433c9a9c3c902558d729681d9b44b5",
+        "title": "PREVIEW: Russian, US leaders to meet in Alaska",
+        "summary": "This summit will be Vladimir Putin’s first meeting with Donald Trump after the latter returned to the White House in January 2025",
+        "source": "tass",
+        "date": "2025-08-14T08:58:40+09:00",
+        "url": "https://tass.com/world/2001989",
+        "reportUrl": ""
+    },
+    {
+        "id": "01633998a225a4037f95ffd6259b8876d91cc8155e7139072961ab3edf9ae89f",
+        "title": "Bitcoin price hits fresh all-time high exceeding $123,300 — Binance platform data",
+        "summary": "By 1:55 a.m. Moscow time, the price of the cryptocurrency had narrowed gains to 2.57% as it traded at $123,200",
+        "source": "tass",
+        "date": "2025-08-14T08:50:32+09:00",
+        "url": "https://tass.com/economy/2001987",
+        "reportUrl": ""
+    },
+    {
+        "id": "e8e12b45d2f3e1367f43dc0b7051e4fce10016800d5468105ec18d8acd60bfec",
+        "title": "Zelensky to lose power after conflict in Ukraine is settled — former PM",
+        "summary": "Vladimir Zelensky will have to answer for the crimes he has committed illegitimately occupying the presidential office, Ukraine’s former Prime Minister Nikolay Azarov noted",
+        "source": "tass",
+        "date": "2025-08-14T08:31:09+09:00",
+        "url": "https://tass.com/world/2001981",
+        "reportUrl": ""
+    },
+    {
+        "id": "3bbbbf2226cb41de35e36b2f0892fe1e4a80180ec55272bca022494047e19d3b",
+        "title": "Over 60 people hurt after attacks on Serbian ruling party offices in Novi Sad — Vucic",
+        "summary": "\"People are literally drowned in blood,\" the Serbian President Aleksandar Vucic said",
+        "source": "tass",
+        "date": "2025-08-14T07:54:55+09:00",
+        "url": "https://tass.com/world/2001979",
+        "reportUrl": ""
+    },
+    {
+        "id": "283b7c135278c9f5088ed3b7f4dee3609beec3a5e049c2b915d2040143c0882e",
+        "title": "Hamas ready to withdraw troops from Gaza if Israel pulls out its forces — TV",
+        "summary": "According to the sources, the Hamas delegation in Cairo has handed over its proposals on a potential Gaza ceasefire deal to the Egyptian mediators",
+        "source": "tass",
+        "date": "2025-08-14T07:30:24+09:00",
+        "url": "https://tass.com/world/2001977",
+        "reportUrl": ""
+    },
+    {
+        "id": "e42bf89d634e7e4c5794ad91438dde275666714e3fc1336d70d4896160dccc25",
+        "title": "Nearly 120 packages with aid from 6 countries airdropped to Gaza — IDF",
+        "summary": "The Israel Defense Forces pointed out that they will continue to work in order to improve the humanitarian response in the Gaza Strip",
+        "source": "tass",
+        "date": "2025-08-14T06:11:23+09:00",
+        "url": "https://tass.com/world/2001969",
+        "reportUrl": ""
+    },
+    {
+        "id": "cba6fa7677ffa1e5771c0990f9f550193c510560623cbb20eaf86be43bb53d08",
+        "title": "Ukraine received one million shells in 2025 under Czech initiative — agency",
+        "summary": "Czech Prime Minister Petr Fiala made this announcement following an online meeting of Western leaders, whose countries make up the 'Coalition of the Willing'",
+        "source": "tass",
+        "date": "2025-08-14T06:04:33+09:00",
+        "url": "https://tass.com/world/2001967",
+        "reportUrl": ""
+    },
+    {
+        "id": "ae6d14cb186c3d016a79389a3d419e4944554a7b72f51f58d2060194636353f3",
+        "title": "Trump says US to contribute to providing security guarantees to Kiev — top French diplomat",
+        "summary": "The US leader noted that negotiations on territorial issues will only be conducted in the presence of Vladimir Zelensky at a meeting, French Foreign Minister Jean-Noel Barrot said",
+        "source": "tass",
+        "date": "2025-08-14T05:59:07+09:00",
+        "url": "https://tass.com/world/2001965",
+        "reportUrl": ""
+    },
+    {
+        "id": "e94d0a8509e25a7783c1d62f2b95650ddff1f4b3dec4cffd339bb970633fa6e3",
+        "title": "Russian parliament speaker arrives in North Korea on official visit",
+        "summary": "The State Duma’s press service noted that agenda includes a series of meetings and participation in festive events marking the 80th anniversary of Korea’s liberation",
+        "source": "tass",
+        "date": "2025-08-14T05:45:11+09:00",
+        "url": "https://tass.com/politics/2001963",
+        "reportUrl": ""
+    },
+    {
+        "id": "e3c5ace20cc089b628bb22e3d5686aa7d9e881568f595ac94dd51e4d78cc5d83",
+        "title": "Israeli PM’s words about 'Greater Israel' require clear position from Arab states — Hamas",
+        "summary": "According to the radical Palestinian movement Hamas, these statements clearly confirm the danger that Israel poses to all countries and peoples in the region",
+        "source": "tass",
+        "date": "2025-08-14T05:35:55+09:00",
+        "url": "https://tass.com/world/2001961",
+        "reportUrl": ""
+    },
+    {
+        "id": "2da62dd06e81f358ff6289ce2febd9afe7107db702237b102a99fd20414f4a35",
+        "title": "This morning, Ukraine started massive artillery shelling of ZNPP sites — Rosatom",
+        "summary": "Fortunately, there was no damage or casualties, Russia’s state-run nuclear corporation Rosatom emphasized",
+        "source": "tass",
+        "date": "2025-08-14T05:27:37+09:00",
+        "url": "https://tass.com/politics/2001959",
+        "reportUrl": ""
+    },
+    {
+        "id": "5720768291e67490afe64452bb5df20d2782826400981c52f3a0f227f87dfeeb",
+        "title": "Iranian foreign minister discusses South Caucasus with Russia’s special envoy",
+        "summary": "Speaking about peace between Armenia and Azerbaijan, Abbas Araghchi noted the importance of resolving disputes in the Caucasus by the states themselves, and also through multilateral formats, including 3+3",
+        "source": "tass",
+        "date": "2025-08-14T04:58:29+09:00",
+        "url": "https://tass.com/world/2001957",
+        "reportUrl": ""
+    },
+    {
+        "id": "a6603828594d158d65e80d74f9ed5f3fc30401da4d9ad0d04437bf11c49edf00",
+        "title": "West proposes holding summit between Russia, US, Ukraine in Europe or Middle East",
+        "summary": "According to the Reuters, this issue was raised during a video conference on Wednesday with US President Donald Trump, European leaders, and Vladimir Zelensky",
+        "source": "tass",
+        "date": "2025-08-14T04:56:29+09:00",
+        "url": "https://tass.com/world/2001955",
+        "reportUrl": ""
+    },
+    {
+        "id": "1611ecbbbe3033b8a3a290baf2f13635104078684eb242fe5e76e5a0e1f00d48",
+        "title": "No trilateral meeting on Ukraine if Russia not cooperative with US — Trump",
+        "summary": "According to his assessment, \"there may be no second meeting\"",
+        "source": "tass",
+        "date": "2025-08-14T04:55:19+09:00",
+        "url": "https://tass.com/world/2001953",
+        "reportUrl": ""
+    },
+    {
+        "id": "ce6314b03841ef9876edbfcdf935365a4525201c2a768873b2d490aa4e428ed1",
+        "title": "US Treasury permits transactions with Russia necessary for Alaska summit until August 20",
+        "summary": "This refers to transactions that are \"ordinarily incident and necessary to the attendance at or support of meetings in the State of Alaska between the Government of the United States of America and the Government of the Russian Federation\"",
+        "source": "tass",
+        "date": "2025-08-14T04:54:38+09:00",
+        "url": "https://tass.com/economy/2001949",
+        "reportUrl": ""
+    },
+    {
+        "id": "b64cc4683eac356ea357c297745050e598a1aebf3da4286a3992495fed95883c",
+        "title": "Grain harvest in Russia since beginning of year amounts to almost 75 mln tons — ministry",
+        "summary": "Agriculture Minister Oksana Lut said earlier that the ministry’s grain harvest outlook for 2025 of 135 mln tons was unchanged",
+        "source": "tass",
+        "date": "2025-08-14T04:53:56+09:00",
+        "url": "https://tass.com/economy/2001947",
+        "reportUrl": ""
+    },
+    {
+        "id": "d934a9466666b3aee0f01034345e8671d348ff196ea23ec7c35a887213243e8e",
+        "title": "Annual GDP growth in Russia totals 1.2% in 1H — ministry",
+        "summary": "According to Rosstat’s preliminary estimation, GDP growth in Q2 2025 totaled 1.1% after 1.4% in Q1",
+        "source": "tass",
+        "date": "2025-08-14T03:59:36+09:00",
+        "url": "https://tass.com/economy/2001945",
+        "reportUrl": ""
+    },
+    {
+        "id": "5e3888ac089703bbd5aac65826a9c274e27498fad47cb3cd2b7034347cb96ddc",
+        "title": "Trump proposes to freeze front line in Ukraine, swap territories — news outlet",
+        "summary": "The US president noted that these de facto borders would not receive international recognition",
+        "source": "tass",
+        "date": "2025-08-14T03:52:24+09:00",
+        "url": "https://tass.com/world/2001939",
+        "reportUrl": ""
+    },
+    {
+        "id": "a52f7006bef7409b2e71ff7f3850fa42eab6a36a5b6f1e377e6d04b704b638fa",
+        "title": "Trump to offer Russia deal on rare earths mining in Alaska — Telegraph",
+        "summary": "Another proposal of the US leader, according to the newspaper’s sources, envisages the lifting of the ban on spare parts and equipment for civil aviation",
+        "source": "tass",
+        "date": "2025-08-14T03:41:40+09:00",
+        "url": "https://tass.com/world/2001937",
+        "reportUrl": ""
+    },
+    {
+        "id": "f8ed80ac4b526880573259665436f125d40f8fc7683eb2dc0de677eb5b8bcf69",
+        "title": "Annual inflation in Russia registered at 8.55% from August 5 to 11 — ministry",
+        "summary": "The inflation stood at 8.77% in the previous week",
+        "source": "tass",
+        "date": "2025-08-14T03:36:29+09:00",
+        "url": "https://tass.com/economy/2001935",
+        "reportUrl": ""
+    },
+    {
+        "id": "84849520d57d642a386f6c031f4f1c13daee46206e2a02892a8d470bc1da8781",
+        "title": "Rosstat preliminarily estimates Russia’s GDP growth in Q2 2025 at 1.1%",
+        "summary": "In calculating GDP dynamics, industry statistics indicators were used, which showed production growth in a number of types of economic activity",
+        "source": "tass",
+        "date": "2025-08-14T03:28:15+09:00",
+        "url": "https://tass.com/economy/2001933",
+        "reportUrl": ""
+    },
+    {
+        "id": "abee1debd6ba2b93cb76e44b62c4fe7db6a31d20bd953e9bbfb64e743704c10a",
+        "title": "Coalition of the Willing to toughen anti-Russian sanctions if Alaska talks bring no result",
+        "summary": "The participants have also spoken in favor of firm security guarantees for Ukraine",
+        "source": "tass",
+        "date": "2025-08-14T03:16:31+09:00",
+        "url": "https://tass.com/world/2001931",
+        "reportUrl": ""
+    },
+    {
+        "id": "9fa40ae7ad828190ac0dc5b53140afdc8417d5ca54b59e4e796ec88c3d223fe9",
+        "title": "India prepares export support plan to cushion impact of US tariffs — paper",
+        "summary": "Among the measures that have been developed to support Indian exports are preferential loans, especially for small and medium-sized enterprises",
+        "source": "tass",
+        "date": "2025-08-14T03:05:31+09:00",
+        "url": "https://tass.com/economy/2001929",
+        "reportUrl": ""
+    },
+    {
+        "id": "f366319899e5c3c9ef65c5b996483c890aa86f8b9ae48da05d496cbde6fc7f68",
+        "title": "Annual inflation in Russia totals 8.79% in July — Rosstat",
+        "summary": "Food prices went down by 0.64% in July month-on-month, and up by 10.79% year-on-year",
+        "source": "tass",
+        "date": "2025-08-14T02:59:33+09:00",
+        "url": "https://tass.com/economy/2001927",
+        "reportUrl": ""
+    },
+    {
+        "id": "475f04f66a22992a7a2748acc282852b2d91809b47da2ad5e3a447ccdecaf275",
+        "title": "Northern Fleet begins exercise involving 2,000 servicemen, 14 vessels",
+        "summary": "The exercise will run in several stages",
+        "source": "tass",
+        "date": "2025-08-14T02:50:13+09:00",
+        "url": "https://tass.com/defense/2001923",
+        "reportUrl": ""
+    },
+    {
+        "id": "70e5a4c64e3b4d57183da23ac35d08f6c790950a49c23c9d6c231a78d811f13d",
+        "title": "Trump says may raise cyberattacks topic with Putin",
+        "summary": "The US leader also admitted that the United States itself carried out hacking attacks",
+        "source": "tass",
+        "date": "2025-08-14T02:48:12+09:00",
+        "url": "https://tass.com/world/2001925",
+        "reportUrl": ""
+    },
+    {
+        "id": "9aa33adfa3a8eb6f849a363512f388dd8848299b84a2865b88b2fd35348e57f4",
+        "title": "Pope wishes sides to achieve ceasefire agreement on Ukraine",
+        "summary": "\"I always wish that there be a ceasefire, that there be no hostilities, and the sides reach an agreement,\" the pontiff said",
+        "source": "tass",
+        "date": "2025-08-14T02:24:18+09:00",
+        "url": "https://tass.com/world/2001921",
+        "reportUrl": ""
+    },
+    {
+        "id": "ff3e60f77cb4b365e5e0690564a59dd2b0c0a5d41595e296c0169657e66f74a6",
+        "title": "Russian stocks close mixed on Wednesday",
+        "summary": "The ruble-denominated MOEX Index lost 0.14%, while the dollar-denominated RTS Index gained 0.2%",
+        "source": "tass",
+        "date": "2025-08-14T02:23:30+09:00",
+        "url": "https://tass.com/economy/2001915",
+        "reportUrl": ""
+    },
+    {
+        "id": "07ed6711139b4e204bf68d27f41840829fbc4f42e1ffa15f9ecc8f3739462e98",
+        "title": "Deflation in Russia equals 0.08% from August 5 to 11 — Rosstat",
+        "summary": "Consumer prices in Russia have grown by 0.15% since the beginning of August, and by 4.2% year-to-date",
+        "source": "tass",
+        "date": "2025-08-14T02:22:22+09:00",
+        "url": "https://tass.com/economy/2001919",
+        "reportUrl": ""
+    },
+    {
+        "id": "0da4029695570f3569eb2050d9fe2c271b6444100d534f6d388c334b13346bd2",
+        "title": "Trump sought meeting with Putin for several months — The Atlantic",
+        "summary": "The story also says that Kiev has to act very cautiously in the current situation",
+        "source": "tass",
+        "date": "2025-08-14T02:13:27+09:00",
+        "url": "https://tass.com/world/2001911",
+        "reportUrl": ""
+    },
+    {
+        "id": "8fb334c307c1446599aceda6015ba6e6334b5baa166ab6d56cf18709773eab14",
+        "title": "Dialogue with Ukraine unrealistic as long as current regime is in place — ex-MP",
+        "summary": "Spiridon Kilinkarov emphasized that if the current Ukrainian leadership remains in power, they will continue to violate the Constitution",
+        "source": "tass",
+        "date": "2025-08-14T02:04:17+09:00",
+        "url": "https://tass.com/world/2001909",
+        "reportUrl": ""
+    },
+    {
+        "id": "7c2123c5376dd4cd5704fb07029ad7664b66fdfce0658d5e44abfdaad761d4d5",
+        "title": "Security experts recommend users to remain vigilant after blocking of calls in messengers",
+        "summary": "Maria Sergeyeva admitted that the restrictions will reduce the number of spam calls and requests allegedly from banks or government agencies",
+        "source": "tass",
+        "date": "2025-08-14T01:57:42+09:00",
+        "url": "https://tass.com/economy/2001905",
+        "reportUrl": ""
+    },
+    {
+        "id": "d166084f854b7754941188805483d9bb1b52dcd753961ee454b7bacfcac185ca",
+        "title": "Witkoff supports Russian control over liberated territories of Ukraine — Times",
+        "summary": "Such an agreement, the newspaper notes, would allow Kiev not to hold an all-Ukrainian referendum on the border changes, as required by the country's constitution",
+        "source": "tass",
+        "date": "2025-08-14T01:46:00+09:00",
+        "url": "https://tass.com/world/2001901",
+        "reportUrl": ""
+    },
+    {
+        "id": "801d2d3a3f263807be046b8c91910e22d065848784460e14398feb2ffde3181d",
+        "title": "Any Arctic projects should be implemented under Russian operational management — expert",
+        "summary": "\"Russia must assert itself as the undisputed leader in the Arctic region and insist on conditions that do not compromise its economic and strategic security,\" Maxim Dankin emphasized",
+        "source": "tass",
+        "date": "2025-08-14T01:35:48+09:00",
+        "url": "https://tass.com/economy/2001889",
+        "reportUrl": ""
+    },
+    {
+        "id": "66384e556c54f6feb750460feba591b1e17d3c1424f01403f105fc3e79bbb414",
+        "title": "Zelensky says will talk to Trump after Alaska summit",
+        "summary": "\"Trump suggested to me that, following the Alaska meeting, we would be in contact to discuss the results and outline our next steps,\" Vladimir Zelensky said after video talks with Trump and European leaders",
+        "source": "tass",
+        "date": "2025-08-14T01:12:29+09:00",
+        "url": "https://tass.com/world/2001871",
+        "reportUrl": ""
+    },
+    {
+        "id": "fa16724cb0030960f6cb0b7df4362a081d92b6e1d62983d2e1ed0df995f33e6b",
+        "title": "Restriction of calls in Telegram, WhatsApp needed for safety of citizens — Public Chamber",
+        "summary": "Rifat Sabitov noted that while these platforms cooperate with the intelligence services of France and the United Kingdom, they openly ignore the requests of the Russian authorities",
+        "source": "tass",
+        "date": "2025-08-14T00:59:32+09:00",
+        "url": "https://tass.com/economy/2001861",
+        "reportUrl": ""
+    },
+    {
+        "id": "bcdb61a0690de228288da2189e09f68ab69d81dbc026403b0f0fd0c2f9413ea1",
+        "title": "Iranian president slams Netanyahu’s pledge to help resolve Iran’s water problems",
+        "summary": "The day before, the Israeli PM recorded a video address to the people of Iran, in which he called upon the Iranians to rise up and stage a revolt against the Islamic Republic, pledging them assistance in resolving water supply issues",
+        "source": "tass",
+        "date": "2025-08-14T00:57:43+09:00",
+        "url": "https://tass.com/world/2001863",
+        "reportUrl": ""
+    },
+    {
+        "id": "81f2096f0c56ff97cbb892c793c030e67fa59efe01a85be75e4f4bedf749426d",
+        "title": "Telegram messenger combating malicious activity, including fraud, calls for sabotage",
+        "summary": "Telegram was also the first to implement detailed privacy settings for calls, so that each user could independently determine from whom to receive calls, or completely disable them, the service added",
+        "source": "tass",
+        "date": "2025-08-14T00:54:12+09:00",
+        "url": "https://tass.com/economy/2001857",
+        "reportUrl": ""
+    },
+    {
+        "id": "1fccb7fd4360c60fab77ed3815b95187b0af3311db5b0cd944b7fae46c490714",
+        "title": "Russia takes strong position ahead of Putin-Trump meeting — former US legislator",
+        "summary": "Richard Black drew attention to the steady advance of Russian troops, emphasizing that the Ukrainian \"defensive line is buckling\"",
+        "source": "tass",
+        "date": "2025-08-14T00:46:34+09:00",
+        "url": "https://tass.com/world/2001855",
+        "reportUrl": ""
+    },
+    {
+        "id": "013d4e0a67fe5c004aa36701afba4b1ff066ab63df562e70948c8434551ddfab",
+        "title": "Zelensky hopes ceasefire in Ukraine to be main topic of Alaska talks",
+        "summary": "The online meeting was held at the initiative of Merz at the the chancellor’s office in Berlin",
+        "source": "tass",
+        "date": "2025-08-14T00:43:55+09:00",
+        "url": "https://tass.com/world/2001853",
+        "reportUrl": ""
+    },
+    {
+        "id": "a1f99a3a54842c3d68c6247a1a3ea5cf747555e187cf156c87965b8e65aec793",
+        "title": "Trilateral Russia-US-Ukraine summit may be held next week — CBS",
+        "summary": "This information was confirmed by two sources, the channel said",
+        "source": "tass",
+        "date": "2025-08-14T00:31:16+09:00",
+        "url": "https://tass.com/world/2001851",
+        "reportUrl": ""
+    },
+    {
+        "id": "8d694d77bede5da9de44257d604e9b9425188df0539b4f573dfd7b8b296af0fe",
+        "title": "Number of Yemenis facing famine could rise to 18 mln by February 2026 — UN",
+        "summary": "\"Women and children bear the brunt of this disaster,\" spokesman for the UN Office for the Coordination of Humanitarian Affairs Ramesh Rajasingham said",
+        "source": "tass",
+        "date": "2025-08-14T00:29:24+09:00",
+        "url": "https://tass.com/world/2001849",
+        "reportUrl": ""
+    },
+    {
+        "id": "34522cb5cbdb58c1b490a35e4d77d17a7f28e737e29ad31f492925659694cfbc",
+        "title": "Territorial issues discussed during contacts with Trump — Zelensky",
+        "summary": "Vladimir Zelensky reiterated that the constitution of Ukraine prohibits violation of its territorial integrity",
+        "source": "tass",
+        "date": "2025-08-14T00:26:31+09:00",
+        "url": "https://tass.com/world/2001845",
+        "reportUrl": ""
+    },
+    {
+        "id": "ef04bbcd118afa29429c3c5a1af1be2a5d194e3bae2dfd0959874434b5625213",
+        "title": "Trump intends to seek ceasefire in Ukraine at Russia-US summit — Macron",
+        "summary": "The French leader also reiterated the European position that territorial issues should only be discussed with Ukraine's participation",
+        "source": "tass",
+        "date": "2025-08-14T00:24:44+09:00",
+        "url": "https://tass.com/world/2001843",
+        "reportUrl": ""
+    },
+    {
+        "id": "0d9369df4559d2d68965b55254d21c38e99e03bdaef190c2c5c38282854a44e4",
+        "title": "Merz says important decisions can be made at Putin-Trump summit",
+        "summary": "German Chancellor Friedrich Merz argued that \"the fundamental security interests of Europe and Ukraine must be respected\"",
+        "source": "tass",
+        "date": "2025-08-14T00:19:32+09:00",
+        "url": "https://tass.com/world/2001841",
+        "reportUrl": ""
+    },
+    {
+        "id": "3cadd18cb8517a737a43aefa58f8d41360c8cef053dc0941e957ecf76654b638",
+        "title": "Kiev ready to undertake any sinister acts to disrupt Russia-US-talks — diplomat",
+        "summary": "\"As soon as reports about preparations for the summit began to pop up, and the sides confirmed the possibility of the two leaders’ meeting in Alaska, shelling of the border territories intensified by at least 25%,\" Rodion Miroshnik said",
+        "source": "tass",
+        "date": "2025-08-14T00:17:11+09:00",
+        "url": "https://tass.com/politics/2001837",
+        "reportUrl": ""
+    },
+    {
+        "id": "5fcad816b74298f2072a63cbcf58a9cfcf1d146730aa0bc3bbd00ca9acc05056",
+        "title": "Szijjarto rejects Zelensky's reproaches against Hungary ahead of Russia-US summit",
+        "summary": "Vladimir Zelensky reproached Hungary for being the only EU country that did not support the statement of the community countries regarding Ukraine ahead of the meeting of the presidents of Russia and the United States",
+        "source": "tass",
+        "date": "2025-08-14T00:13:14+09:00",
+        "url": "https://tass.com/world/2001835",
+        "reportUrl": ""
+    },
+    {
+        "id": "15924de577ea003787e8530763fa9d636b37c6e1b833145cc02b2c5a38e156c2",
+        "title": "US, EU leaders agree to maintain close coordination on Ukraine — von der Leyen",
+        "summary": "European Council President Ursula von der Leyen also said Europe, the US and NATO \"have strengthened the common ground for Ukraine\"",
+        "source": "tass",
+        "date": "2025-08-14T00:08:40+09:00",
+        "url": "https://tass.com/world/2001833",
+        "reportUrl": ""
+    },
+    {
+        "id": "c9e37db0d5569b6d635a9e00945f982eb951b04806516263045e7db812c3b508",
+        "title": "FACTBOX: What is known about partial restriction of calls in Telegram, WhatsApp in Russia",
+        "summary": "The Ministry of Digital Development allowed the restoration of access to call services in these messengers if their owners comply with the requirements of the Russian law",
+        "source": "tass",
+        "date": "2025-08-14T00:05:40+09:00",
+        "url": "https://tass.com/economy/2001831",
+        "reportUrl": ""
+    },
+    {
+        "id": "3edfb0c4c400da975c8ac0b57ecc81e1d49726929a859633530bc956990c2aea",
+        "title": "Online meeting on Ukraine held with increased security measures for fear of leaks",
+        "summary": "The purpose of the online meeting is to find common ground with Donald Trump before his meeting with Russian President Vladimir Putin on August 15",
+        "source": "tass",
+        "date": "2025-08-14T00:03:16+09:00",
+        "url": "https://tass.com/world/2001829",
+        "reportUrl": ""
+    },
+    {
+        "id": "6540b845f42b515f640789d282b204e3db444520fb7291b80b52d43e11e5e3f9",
+        "title": "Bank of Russia lowers dollar exchange rate to 79.6 rubles for August 14",
+        "summary": "The official euro exchange rate has been raised by 53 kopecks to 93.3875 rubles",
+        "source": "tass",
+        "date": "2025-08-14T00:01:20+09:00",
+        "url": "https://tass.com/economy/2001827",
+        "reportUrl": ""
+    },
+    {
+        "id": "b1491367de4b92d4d59ff43e02d92aa05056ce5bdc3304e258fb98081d5d2952",
+        "title": "US oil inventories up 3 mln barrels over week — Department of Energy",
+        "summary": "The current stock level is 6% below the five-year average typical for this time of the year, the department added",
+        "source": "tass",
+        "date": "2025-08-14T00:01:01+09:00",
+        "url": "https://tass.com/economy/2001825",
+        "reportUrl": ""
+    },
+    {
+        "id": "0c581c519c30967a453ca837c9243c576513fd8657d05d67a0a6d595c92dee77",
+        "title": "Crimea would welcome Trump with open arms if Putin invites him — leader",
+        "summary": "\"We will be happy if Crimea gives a start to another Yalta treaty on a lasting and just peace,\" Sergey Aksyonov stressed",
+        "source": "tass",
+        "date": "2025-08-13T23:57:19+09:00",
+        "url": "https://tass.com/politics/2001823",
+        "reportUrl": ""
+    },
+    {
+        "id": "f8b0cf8cfd537dc3362688a2e223d003157cc1e4a155846710662b6c10eefbd5",
+        "title": "Typhoon hits Taiwan, injuring over 30 people",
+        "summary": "According to the Central Emergency Operation Center, more than 130,000 households lost electricity during the typhoon",
+        "source": "tass",
+        "date": "2025-08-13T23:56:57+09:00",
+        "url": "https://tass.com/emergencies/2001821",
+        "reportUrl": ""
+    },
+    {
+        "id": "f829cabd0670197e116dd50b08e63dfd4641302fe344c6f7fa0709ddd5380a73",
+        "title": "EU ready to ease anti-Russian sanctions if ceasefire in Ukraine laid down — Sky News",
+        "summary": "The plan for sanctions will be immediately reimplemented if any violations of the ceasefire occur, the sources said",
+        "source": "tass",
+        "date": "2025-08-13T23:50:17+09:00",
+        "url": "https://tass.com/world/2001819",
+        "reportUrl": ""
+    },
+    {
+        "id": "80fbcedb461e6d455c4381c5cb0b0cece29e75d76ade4ca69a417cc6d10d7f3c",
+        "title": "Main part of Zapad-2025 exercise due near Borisov in Minsk Region — defense minister",
+        "summary": "Belarusian Defense Minister Viktor Khrenin also noted that four of the five fortified areas, established on presidential directives for national defense operations, are fully prepared",
+        "source": "tass",
+        "date": "2025-08-13T23:47:00+09:00",
+        "url": "https://tass.com/world/2001815",
+        "reportUrl": ""
+    },
+    {
+        "id": "454800e43a98407b7caa04385e75d05e256a853ce418a8f62782930847032bfc",
+        "title": "Russia’s Finance Ministry completes offering of Issue 26249 federal loan bonds",
+        "summary": "The demand at the auction reached 17.422 bln rubles",
+        "source": "tass",
+        "date": "2025-08-13T23:46:23+09:00",
+        "url": "https://tass.com/economy/2001817",
+        "reportUrl": ""
+    },
+    {
+        "id": "d5cc8d6e31ab593c46b33310366ea884203a39c45a3f650f0b5eaf5abcb29e15",
+        "title": "Two Russian units arrive in Belarus to prepare for Zapad-2025 exercises",
+        "summary": "The Zapad-2025 exercises will be held on September 12-16 in Belarus",
+        "source": "tass",
+        "date": "2025-08-13T23:44:14+09:00",
+        "url": "https://tass.com/world/2001813",
+        "reportUrl": ""
+    },
+    {
+        "id": "a72a19cbeac845ccdced065275c3317f0fe9eca76cda350d5121c23c773dbd08",
+        "title": "All accommodations booked in Anchorage, locals take in journalists",
+        "summary": "Putin and Trump will meet in Anchorage on August 15",
+        "source": "tass",
+        "date": "2025-08-13T23:43:49+09:00",
+        "url": "https://tass.com/politics/2001809",
+        "reportUrl": ""
+    },
+    {
+        "id": "13b051b14c0bcf851029eb5871808ade6e7501568a4b57446f9513397774fedd",
+        "title": "Lavrov to hold talks with Indian foreign minister in Moscow on August 21",
+        "summary": "The heads of the foreign policy departments will discuss \"the most important issues on the bilateral agenda, as well as current aspects of interaction in international formats,\" Deputy Director of the Information and Press Department of the Russian Foreign Ministry Alexey Fadeyev said",
+        "source": "tass",
+        "date": "2025-08-13T23:41:20+09:00",
+        "url": "https://tass.com/politics/2001811",
+        "reportUrl": ""
+    },
+    {
+        "id": "08d6edb6362ea1c92ebb8cd86022653540294c8ef61451cd52be8fdcd4198082",
+        "title": "Russia’s defense chief discusses drone production, other projects with war reporters",
+        "summary": "\"As a result of the meetings far, the defense agency has implemented more than 130 initiatives proposed by war reporters,\" Russia’s Defense Ministry added",
+        "source": "tass",
+        "date": "2025-08-13T23:39:14+09:00",
+        "url": "https://tass.com/defense/2001807",
+        "reportUrl": ""
+    },
+    {
+        "id": "321a91feb1d4ada0f7e0f4612e5d94c0c9c07859cc8eadbf522b7f0934a89611",
+        "title": "Ukrainian lawmaker sees possibility of military coup in Ukraine after Russia-US summit",
+        "summary": "Anna Skorokhod warned that the Ukrainians will have to brace for tough decisions",
+        "source": "tass",
+        "date": "2025-08-13T23:22:53+09:00",
+        "url": "https://tass.com/world/2001805",
+        "reportUrl": ""
+    },
+    {
+        "id": "794385042a5ab4a6d14635da8bc2fa80bb213b70966168c3fdf1d774012f2287",
+        "title": "Russia produces over 35,000 Piranha drones that destroyed first Abrams tanks",
+        "summary": "A Pirahna-10 FPV drone destroyed the first US-made Abrams tank in the special military operation in Ukraine in February 2024",
+        "source": "tass",
+        "date": "2025-08-13T23:22:02+09:00",
+        "url": "https://tass.com/defense/2001797",
+        "reportUrl": ""
+    },
+    {
+        "id": "a07fa9e037c253b20a05460ce607af5365d3aeedbb18224e26ee05b77c619345",
+        "title": "Prisoner swap may be raised at Russian-US summit, Human Rights Council member says",
+        "summary": "\"Russia continues to maintain open channels of communication through diplomatic means, as these are of great importance,\" Alexander Ionov, a member of the Standing Commission on International Cooperation of the Presidential Council for Civil Society and Human Rights stated",
+        "source": "tass",
+        "date": "2025-08-13T23:18:59+09:00",
+        "url": "https://tass.com/politics/2001795",
+        "reportUrl": ""
+    },
+    {
+        "id": "4fb2ad8de0d25b1fed85075099bfb427d6df733a3d20ba77a147f9be6f76e5f7",
+        "title": "Trump’s peace efforts in Democratic Republic of Congo fall short — news outlet",
+        "summary": "According to the latest UN data, as of the end of July, two million people have been forced from their homes in the provinces of North and South Kivu in eastern Congo since the beginning of the year",
+        "source": "tass",
+        "date": "2025-08-13T23:16:55+09:00",
+        "url": "https://tass.com/world/2001801",
+        "reportUrl": ""
+    },
+    {
+        "id": "65b3abafa75b97e387170c6d31a1652362f21210844b204ac003d213c57dda57",
+        "title": "Russia says works with Azerbaijan on options for release of detained Russians",
+        "summary": "Alexey Fadeyev, Deputy Director of the Information and Press Department of the Russian Foreign Ministry, said that on July 1, Azerbaijani ambassador to Russia Rahman Mustafayev was summoned to the Russian Foreign Ministry, to whom \"a protest was filed in connection with Baku’s unfriendly actions",
+        "source": "tass",
+        "date": "2025-08-13T23:14:44+09:00",
+        "url": "https://tass.com/politics/2001791",
+        "reportUrl": ""
+    },
+    {
+        "id": "d873254f0fd4befceb3e7f64cf43513c3d41c4156f0c96aa5406f31be7c8e872",
+        "title": "Still no word from Kiev on setting up working groups for negotiations — ministry",
+        "summary": "\"We expect these groups to be formed and start their work as quickly as possible,\" Deputy Director of the Russian Foreign Ministry's Information and Press Department Alexey Fadeyev stressed",
+        "source": "tass",
+        "date": "2025-08-13T23:14:41+09:00",
+        "url": "https://tass.com/politics/2001799",
+        "reportUrl": ""
+    },
+    {
+        "id": "4957ac16262a1ab6015348e51feaec7462b4a87e0c42014362c00fa0b70ce27f",
+        "title": "Kiev deliberately steps up attacks on ZNPP ahead of crucial Ukraine talks — station",
+        "summary": "\"Regular shelling is aimed not so much at damaging infrastructure, but rather at information provocations carefully synchronized with the diplomatic calendar,\" Yevgeniya Yashina said",
+        "source": "tass",
+        "date": "2025-08-13T23:12:45+09:00",
+        "url": "https://tass.com/politics/2001793",
+        "reportUrl": ""
+    },
+    {
+        "id": "51e5542a6797bdc40628447a9a22aeb8286d29149d11a53a788fd3fd62be9f50",
+        "title": "Ukraine to have to swallow any deal made at Putin-Trump summit, expert says",
+        "summary": "\"European countries support Zelensky loudly, but they do not necessarily have the wherewithal to stand in the way of any potential agreement between the great powers,\" Zoltan Koshkovich, a leading researcher at the Budapest Center for Fundamental Rights, said",
+        "source": "tass",
+        "date": "2025-08-13T23:11:05+09:00",
+        "url": "https://tass.com/world/2001789",
+        "reportUrl": ""
+    },
+    {
+        "id": "39c94a640019ace9bdd8a153ad48feaddaddeae4f5ce7aede8118617e61f941e",
+        "title": "Russia may restore access to calls in foreign messengers if their owners comply with law",
+        "summary": "The Digital Development Ministry noted that the watchdog’s decision to restrict voice calls in foreign messengers can have a positive effect on reducing the number of fraudulent calls",
+        "source": "tass",
+        "date": "2025-08-13T23:06:50+09:00",
+        "url": "https://tass.com/economy/2001787",
+        "reportUrl": ""
+    },
+    {
+        "id": "ae29df3abc1032401b8b6bafe86948009c77188da5aa438895bd0008ac273b81",
+        "title": "Zelensky arrives in Berlin for consultations with EU leaders ahead of Russia-US summit",
+        "summary": "A conference call with Doanld Trump and US Vice President JD Vance is expected to be held",
+        "source": "tass",
+        "date": "2025-08-13T23:04:17+09:00",
+        "url": "https://tass.com/world/2001785",
+        "reportUrl": ""
+    },
+    {
+        "id": "3d77e7083859bcb21f2535b91f0711a54a3fe8eb6f3d2b7f66a26347bf0014d8",
+        "title": "Russia’s Finance Ministry completes offering of federal loan bonds",
+        "summary": "The demand at the auction reached 73.794 bln rubles",
+        "source": "tass",
+        "date": "2025-08-13T23:00:29+09:00",
+        "url": "https://tass.com/economy/2001783",
+        "reportUrl": ""
+    },
+    {
+        "id": "61a1bc57eb14bb67fc522cdb95d6add68068c49d67db99aa909adb160d2db973",
+        "title": "Serbian President Vucic says he won't run for re-election",
+        "summary": "Aleksandar Vucic emphasized that his time as president will end \"in 18 months\"",
+        "source": "tass",
+        "date": "2025-08-13T22:55:07+09:00",
+        "url": "https://tass.com/world/2001781",
+        "reportUrl": ""
+    },
+    {
+        "id": "5686c615ef69788d3b2fcd95640bc6f1df75fb4d0347884899ddb6c0598345f2",
+        "title": "Russia partially restricts calls in Telegram and WhatsApp messengers — watchdog",
+        "summary": "According to law enforcement agencies and numerous appeals from citizens, foreign messengers Telegram and WhatsApp have become the main voice services used to deceive and extort money, and to involve Russian citizens in sabotage and terrorist activities",
+        "source": "tass",
+        "date": "2025-08-13T22:46:20+09:00",
+        "url": "https://tass.com/economy/2001779",
+        "reportUrl": ""
+    },
+    {
+        "id": "bb3ee3e78684b3a39a79f9fce715d37d288d760a5556169238ee7fbd6f4aca14",
+        "title": "Federal Tax Service chief says transfers to Russian budget up 7% in January-July",
+        "summary": "Russia’s budget system received 34.3 trillion rubles in the first seven months of 2025",
+        "source": "tass",
+        "date": "2025-08-13T22:37:59+09:00",
+        "url": "https://tass.com/politics/2001777",
+        "reportUrl": ""
+    },
+    {
+        "id": "d05821576bf5059cee30b2d37b7a26743254217a1e106be7579a08fd6891bb8a",
+        "title": "All signatories to Vienna Document invited to monitor Zapad-2025 exercise",
+        "summary": "There are 56 countries that are party to the Vienna Document on security, Belarusian Defense Minister Viktor Khrenin said",
+        "source": "tass",
+        "date": "2025-08-13T22:36:41+09:00",
+        "url": "https://tass.com/defense/2001775",
+        "reportUrl": ""
+    },
+    {
+        "id": "16a4fd8da9dad5148d7b3dfc90303e7be159e4e17545b4a9aa5a7ae4c1c3c226",
+        "title": "Russian troops liberate two communities in Donetsk region over past day",
+        "summary": "\"Battlegroup Center units liberated the settlements of Suvorovo and Nikanorovka in the Donetsk People’s Republic through active and decisive operations,\" Russia’s Defense Ministry said",
+        "source": "tass",
+        "date": "2025-08-13T22:34:19+09:00",
+        "url": "https://tass.com/politics/2001771",
+        "reportUrl": ""
+    },
+    {
+        "id": "4786dbff99ff98686db82e8e43e26a2165dedd15007331bf95329e83eb3350df",
+        "title": "Trump says media won't give him fair shake in any Russia deal, no matter how good",
+        "summary": "\"If I got Moscow and Leningrad free, as part of the deal with Russia, the Fake News would say that I made a bad deal!\" the US leader lamented",
+        "source": "tass",
+        "date": "2025-08-13T22:34:15+09:00",
+        "url": "https://tass.com/world/2001773",
+        "reportUrl": ""
+    },
+    {
+        "id": "7c89aabedd850ef0125463412488b393bdbb16f5b68d3e2b13c508d7801789e7",
+        "title": "Foreigners who come to fight for Russia in special op are 'idealists' — Serbian sniper",
+        "summary": "Dejan Beric added that he came in 2014 to repay his \"debt to the Russian people,\" who volunteered to help the Serbs during the civil war in Yugoslavia",
+        "source": "tass",
+        "date": "2025-08-13T22:28:37+09:00",
+        "url": "https://tass.com/politics/2001769",
+        "reportUrl": ""
+    },
+    {
+        "id": "eba69d96ebc2e93a9a54b1b9189e1d4ee878f35b646ba4854deac18c2e35b3d9",
+        "title": "Aquatic bioresources catch in Russia about 3.2 mln tons YTD — federal agency",
+        "summary": "The total fish catch stood at more than 4.9 mln metric tons in 2024",
+        "source": "tass",
+        "date": "2025-08-13T22:25:36+09:00",
+        "url": "https://tass.com/economy/2001765",
+        "reportUrl": ""
+    },
+    {
+        "id": "76acf99bbc8568a62cf4eecb7a0e13d2701677f5fe44e27aec80634fca1ecb9c",
+        "title": "Putin-Trump meeting may back Zelensky into diplomatic corner — media",
+        "summary": "According to the media outlet, the leader of the Kiev regime and his team are doing everything in their power \"to influence\" Trump ahead of his meeting with Putin",
+        "source": "tass",
+        "date": "2025-08-13T22:20:45+09:00",
+        "url": "https://tass.com/world/2001767",
+        "reportUrl": ""
+    },
+    {
+        "id": "21b12037db1c731098fed08d32a935ba67e497a9b12c68f0463e6db254d04360",
+        "title": "Russia’s delegation to Alaska summit to be guided by national interests — MFA",
+        "summary": "\"Russia’s administrative structure is enshrined in the country’s Constitution,\" Foreign Ministry Deputy Spokesman Alexey Fadeyev pointed out",
+        "source": "tass",
+        "date": "2025-08-13T22:18:30+09:00",
+        "url": "https://tass.com/politics/2001763",
+        "reportUrl": ""
+    },
+    {
+        "id": "8c279d2c6b13919e333acd315eeb8508eb038ce8d3b848894caa7e32aadc8f13",
+        "title": "Bank of Russia sells currency worth $115.5 mln in domestic market",
+        "summary": "he volume of currency sold by the Bank of Russia with settlements on August 11 amounted to $116.7 mln",
+        "source": "tass",
+        "date": "2025-08-13T22:12:53+09:00",
+        "url": "https://tass.com/economy/2001761",
+        "reportUrl": ""
+    },
+    {
+        "id": "52060952ed441c88a2cd21b5356ee269137dbe202d7db6903e570044946d4469",
+        "title": "Russian diplomat questions value add from EU meetings with US officials",
+        "summary": "\"Brussels makes no secret that, \"regardless of the outcome of the Russian-US summit, the European Union will continue pumping the Kiev regime with weapons and money,\" Russian Foreign Ministry Deputy Spokesman Alexey Fadeyev stated",
+        "source": "tass",
+        "date": "2025-08-13T22:03:08+09:00",
+        "url": "https://tass.com/politics/2001759",
+        "reportUrl": ""
+    },
+    {
+        "id": "8f8b8ca8e5aad06624e126a830a186d28dba60966db5d8bc53cea1040685c900",
+        "title": "Russia’s oil exports up 1% in July, IEA says",
+        "summary": "Export revenues increased by 7% month on month or by $930 mln amid higher prices and reached $14.32 bln",
+        "source": "tass",
+        "date": "2025-08-13T21:56:27+09:00",
+        "url": "https://tass.com/economy/2001757",
+        "reportUrl": ""
+    },
+    {
+        "id": "fb7ad44930e9281d507cb1f9404b849d31f78d0f22316c3c97712919ba294b98",
+        "title": "European Commission is aiming to change power in Hungary, Russian intelligence says",
+        "summary": "The press bureau of the Russian Foreign Intelligence Service noted that \"Brussels is outraged by the attempts of Budapest to pursue independent policy and influence collective decision-making, primarily on Russia and Ukraine\"",
+        "source": "tass",
+        "date": "2025-08-13T21:39:06+09:00",
+        "url": "https://tass.com/politics/2001751",
+        "reportUrl": ""
+    },
+    {
+        "id": "439125f8130cfc39f1cbc8129aecb171101962a15b82047990d1ea5f9aae8ef3",
+        "title": "Total of 235 Gazans, including 106 kids, die of hunger since tensions escalate — ministry",
+        "summary": "According to the ministry's latest data, the total number of victims of the conflict escalation in the enclave since October 2023 has risen to 61,722",
+        "source": "tass",
+        "date": "2025-08-13T21:32:32+09:00",
+        "url": "https://tass.com/world/2001745",
+        "reportUrl": ""
+    },
+    {
+        "id": "1aead8136167869268ce8bfc54dcda805b796a8f79680678787d68d39369f035",
+        "title": "Trump believes European leaders interested in Ukraine deal",
+        "summary": "On August 13, the US president is scheduled to take part in a video conference with Vladimir Zelensky and the European leaders",
+        "source": "tass",
+        "date": "2025-08-13T21:26:00+09:00",
+        "url": "https://tass.com/world/2001743",
+        "reportUrl": ""
+    },
+    {
+        "id": "7346ffffecf9509b28126de44e92d3eb158973c4497951303404dd5248620899",
+        "title": "Supercam drone line to be presented at forum in Skolkovo",
+        "summary": "The Supercam S350 system with unmanned aerial vehicles is the flagship product",
+        "source": "tass",
+        "date": "2025-08-13T21:25:58+09:00",
+        "url": "https://tass.com/economy/2001741",
+        "reportUrl": ""
+    },
+    {
+        "id": "a5fe94b75362fb1f628717686f434fba2c03cd85c32c0d962b506831693afd20",
+        "title": "Moscow’s position on Ukraine unchanged ahead of Russia-US summit — MFA",
+        "summary": "\"It was set out in this very room a little over a year ago, on June 14, 2024,\" Russian Foreign Ministry Deputy Spokesman Alexey Fadeyev pointed out",
+        "source": "tass",
+        "date": "2025-08-13T21:05:32+09:00",
+        "url": "https://tass.com/politics/2001735",
+        "reportUrl": ""
+    },
+    {
+        "id": "0dcea4bc5d8419d1d0767ad1d5294aa6df6ddbea373a782c47e5e61aec92ff1a",
+        "title": "Russia promises to study details of 'Trump Route' project in South Caucasus",
+        "summary": "\"The involvement of extra-regional forces in the South Caucasus should promote a peaceful agenda, rather than create new problems and new dividing lines,\" Alexey Fadeyev noted",
+        "source": "tass",
+        "date": "2025-08-13T21:03:21+09:00",
+        "url": "https://tass.com/politics/2001733",
+        "reportUrl": ""
+    },
+    {
+        "id": "eed558b2c8027ffce0b12c7513e0bab2b0b529d0fbae38b567fa7c4eb64d85f4",
+        "title": "Seven nations endorse Trump for Nobel Peace Prize, White House reveals",
+        "summary": "The list includes Armenia, Azerbaijan, Gabon, Israel, Cambodia, Rwanda and Pakistan",
+        "source": "tass",
+        "date": "2025-08-13T21:03:06+09:00",
+        "url": "https://tass.com/world/2001731",
+        "reportUrl": ""
+    },
+    {
+        "id": "21de9342ec06952dda52148f937ae6d0c6efae8febe810888929bc7a8946c819",
+        "title": "Moscow to take countermeasures if EU illegally uses Russian assets — MFA",
+        "summary": "\"The EU's attempts to use Russian assets in the interests of the Kiev regime, which is already close to bankruptcy, will not help Ukraine, and most importantly, will not change the course of the special military operation,\" Alexey Fadeyev noted",
+        "source": "tass",
+        "date": "2025-08-13T20:53:08+09:00",
+        "url": "https://tass.com/economy/2001723",
+        "reportUrl": ""
+    },
+    {
+        "id": "fd371dd5f177669d40716919e865fc0809c70ac861ccc363fc5bdabff774dd32",
+        "title": "IEA revises upward oil supply growth outlook for 2025 amid OPEC+ decisions",
+        "summary": "In absolute terms, the global oil supply in 2025 is estimated by the IEA at 105.5 mln bpd in 2025 and 107.4 mln bpd in 2026",
+        "source": "tass",
+        "date": "2025-08-13T20:48:55+09:00",
+        "url": "https://tass.com/economy/2001719",
+        "reportUrl": ""
+    },
+    {
+        "id": "62031df0c69f212c904dbcbb4a7abdded7c8a4a81788749f7b001a847b4de66d",
+        "title": "Russia considers Israeli attacks on journalists unacceptable — Foreign Ministry",
+        "summary": "According to UN estimates, over 240 journalists have been killed in Gaza since October 2023",
+        "source": "tass",
+        "date": "2025-08-13T20:48:53+09:00",
+        "url": "https://tass.com/politics/2001721",
+        "reportUrl": ""
+    },
+    {
+        "id": "1a620c251422cc43e7a4c7e5e5679a401cd0e049f5c6c8182cfa6588494173e8",
+        "title": "Zapad 2025 exercise to practice planning use of nukes, Oreshnik missile — Belarus",
+        "summary": "The Russia-Belarus strategic drills dubbed Zapad 2025 will run on September 12-16 in Belarus",
+        "source": "tass",
+        "date": "2025-08-13T20:45:47+09:00",
+        "url": "https://tass.com/defense/2001709",
+        "reportUrl": ""
+    },
+    {
+        "id": "b6806c30e3308f17408a0e28c2554b75970825a14c9aa60079611494b5a190a2",
+        "title": "Russia says Norway's policy of militarization of Svalbard archipelago unacceptable",
+        "summary": "Alexey Fadeyev, Deputy Director of the Information and Press Department of the Russian Foreign Ministry added that Moscow views Oslo's efforts to build up militarily around the archipelago as a violation of the treaty and as an attack on Russia's interests",
+        "source": "tass",
+        "date": "2025-08-13T20:40:00+09:00",
+        "url": "https://tass.com/politics/2001701",
+        "reportUrl": ""
+    },
+    {
+        "id": "539ad844fad0866b097263b1f3ca9d4f2c0ddce33b29534435e8e4d976fb78ea",
+        "title": "OPEC+ production 1.15 barrels daily above target — IEA",
+        "summary": "Oil production was above the target by 400,000 bpd in Kazakhstan, 340,000 bpd in Iraq, 370,000 bpd in the UAE, and 180,000 bpd in Kuwait",
+        "source": "tass",
+        "date": "2025-08-13T20:39:23+09:00",
+        "url": "https://tass.com/economy/2001699",
+        "reportUrl": ""
+    },
+    {
+        "id": "46102e94e346a9f0311081fa7713902e04ba5ac134e28d003881cea4574ac8a7",
+        "title": "Romanian media spread fake news on Russia to divert attention from economy — expert",
+        "summary": "Ioana Baragan noted that at some point, people were indoctrinated with the idea that Russia is weak and does not have enough equipment",
+        "source": "tass",
+        "date": "2025-08-13T20:30:10+09:00",
+        "url": "https://tass.com/society/2001695",
+        "reportUrl": ""
+    },
+    {
+        "id": "6e7a81c8fdb8496848ede9c607a7ec592eb724b8b8ed2be960e585657a1c1c50",
+        "title": "Kazakhstan’s grain exports via Russia surge fourfold in 2025",
+        "summary": "Exports of vegetable oils reached 384,600 metric tons over seven months",
+        "source": "tass",
+        "date": "2025-08-13T20:27:22+09:00",
+        "url": "https://tass.com/economy/2001693",
+        "reportUrl": ""
+    }
+]
