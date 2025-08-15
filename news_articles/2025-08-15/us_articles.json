@@ -808,5 +808,284 @@
         "date": "2025-08-12T23:00:00+09:00",
         "url": "https://www.wsj.com/lifestyle/travel/air-travel-quiz-139276da",
         "reportUrl": ""
+    },
+    {
+        "id": "9a8629e83e70532f6bde259f885189c33ddbb7b89191ef710e1d946230d9873a",
+        "title": "Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes",
+        "summary": "Elon Musk’s rocket company relies on federal contracts, but years of losses have most likely let it avoid paying federal income taxes, according to internal company documents.",
+        "source": "nytimes",
+        "date": "2025-08-15T18:00:16+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/technology/spacex-musk-government-contracts-taxes.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "d5f4f86e177236970ee5b9f84bd6c056e85f547af96d53ad1aaaf6dce0d7d58f",
+        "title": "What Could Happen at the Trump-Putin Summit, and a Game of Chicken Over Voting Maps",
+        "summary": "Plus, your Friday news quiz.",
+        "source": "nytimes",
+        "date": "2025-08-15T19:00:37+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/podcasts/the-headlines/trump-putin-summit-voting-maps.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "e514ec4d45627c570536d08f1ee59f310e041b02f5d8135c9b81fe16e0338541",
+        "title": "How Trump’s Meeting With Putin Could Unfold, as Trump Seeks Cease-Fire in Ukraine",
+        "summary": "A sudden feud, an impasse or a first step toward a cease-fire are all possible at the summit in Alaska as the two leaders navigate thorny issues such as Ukraine’s territory and NATO expansion.",
+        "source": "nytimes",
+        "date": "2025-08-15T18:03:29+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-summit-ukraine.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "806cf167a6b56040b666819cbf5ed51905d08645ebcaedf5dcc417a264e73e71",
+        "title": "Trump-Putin Meeting: What Time, Where and How to Watch",
+        "summary": "The leaders of the United States and Russia will hold talks at an American military base in Alaska and are expected to hold a news conference afterward.",
+        "source": "nytimes",
+        "date": "2025-08-15T20:29:42+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-meeting-what-time-alaska.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "8b3a83ee865743ee5bcb0e237272ae3ea2cdcb9f70db6b61323451c3ead13b27",
+        "title": "Why Russia Sold Alaska to the U.S.",
+        "summary": "The Trump-Putin summit will take place in a former Russian colony that the United States bought for $7.2 million in 1867. Here’s how the deal came together and why its legacy matters.",
+        "source": "nytimes",
+        "date": "2025-08-15T20:00:42+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/world/europe/russia-alaska-purchase-ukraine.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "dcfcddc579276a044b3fe20c24b97bde37dfb6892e59d17665337bcc0eeb0c9e",
+        "title": "What to Know Ahead of the Trump-Putin Summit",
+        "summary": "We have a primer on today’s Trump-Putin summit in Alaska.",
+        "source": "nytimes",
+        "date": "2025-08-15T20:03:49+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/briefing/trump-putin-alaska-ukraine.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "d0627ed96f9390e4310cb6ade53709fb8460f1770397fb50b53ede0c7f01d05f",
+        "title": "Bondi Tightens Trump Administration’s Grip on D.C. Police and Names ‘Emergency’ Commissioner",
+        "summary": "The attorney general cleared the way for the police to aid in immigration enforcement and named an “emergency” commissioner, setting the stage for a conflict with local authorities.",
+        "source": "nytimes",
+        "date": "2025-08-15T13:49:02+09:00",
+        "url": "https://www.nytimes.com/2025/08/14/us/politics/dc-police-federal-immigration-enforcement.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "4d251232d447a248472aa22a5570cd459cb9ae0c0966d010ed19524dc77d0128",
+        "title": "Federal Raids Target D.C. Homeless Camps",
+        "summary": "It was unclear how widespread or effective the raids were, after district officials and advocates had spent much of the day trying to clear the camps, urging people to go to shelters ahead of the raids.",
+        "source": "nytimes",
+        "date": "2025-08-15T19:13:37+09:00",
+        "url": "https://www.nytimes.com/2025/08/14/us/politics/dc-homeless-camps-trump.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "c3d90c064db7eea74d24a1aaa5645218ae536296dc29c6fdca1077dcddd4b335",
+        "title": "Feds Turn Into Beat Cops in Trump’s D.C. Policing Surge",
+        "summary": "In the nation’s capital, federal agents have operated a sobriety checkpoint, made gun and drug busts and carried out other day-to-day police work. Some residents are uneasy.",
+        "source": "nytimes",
+        "date": "2025-08-15T18:03:22+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/us/dc-police-federal-night-scene.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "bafbe1c1bb142cc5f2f51271be1ceebecae2080f99b5cb1de25ab8f7274d5fa7",
+        "title": "Draft of ‘Make America Healthy Again’ Report Suggests RFK Jr. Won’t Push Pesticide Regulations",
+        "summary": "The report is not final, but indicates good news for the food and agriculture industries.",
+        "source": "nytimes",
+        "date": "2025-08-15T13:47:33+09:00",
+        "url": "https://www.nytimes.com/2025/08/14/well/rfk-jr-maha-report-draft.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "ac654a200275b756c37dfd4c9f71be5ec37e3dc037065b5b1111aa35c999fed1",
+        "title": "They’re Losing Their Vision. They Still Love Playing Tennis.",
+        "summary": "For the visually impaired people who participate in blind tennis, the sport delivers joy. “This is what I’ve been missing,” one player said.",
+        "source": "nytimes",
+        "date": "2025-08-15T16:00:06+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/nyregion/blind-tennis-new-york-city.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "1c4ef1b229b5668fd20683d593beae01cc056796e9dab890177c60efcd55218f",
+        "title": "How Ambitious Democratic Governors Are Navigating Trump’s Redistricting War",
+        "summary": "Some have emerged as a front line against Trump’s push to grab more seats in Congress, putting the issue at the center of their party’s politics. Others are ceding the spotlight.",
+        "source": "nytimes",
+        "date": "2025-08-15T18:02:10+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/us/politics/democrats-redistricting-trump.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "917aa6efb751fc6b9bef3175e166c80273222ea24b84d2b8aa8e2e3ba583c45f",
+        "title": "The Last Refugees Let Into the U.S. Wonder if Their New Country Wants Them",
+        "summary": "After President Trump suspended the refugee admissions program, some new arrivals found themselves out in the Wisconsin cold. With help, they have survived.",
+        "source": "nytimes",
+        "date": "2025-08-15T18:00:37+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/us/wisconsin-refugees-trump-cuts-migrants.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "1f848059f63c5e7b714e551eb02fbfd6f6bb474efbd46b98234eb586250aac8f",
+        "title": "Tariffs Are High. So Is the Stock Market.",
+        "summary": "Strong corporate earnings, mostly stable tariff rates and the expectation of interest rate cuts have eased worries of a market reckoning.",
+        "source": "nytimes",
+        "date": "2025-08-15T18:03:21+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/business/tariffs-stock-market-records.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "123765c9093d7205154730b4d71aff34adc51ed0361a9cf4f291f4499b503391",
+        "title": "China’s Economy Slows Broadly Even as Exports Keep Rising",
+        "summary": "Officials blamed U.S. “protectionism” for the dismal July data, but growth was likely held back by real estate and new policies aimed at slowing factory investments.",
+        "source": "nytimes",
+        "date": "2025-08-15T14:05:59+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/business/china-economy-july-tariffs.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "4b17e5f063f58da2102a925e50a200ddbdd48f1cbe914cf3cec821bd1ce4cc65",
+        "title": "Why Hands-Off Investing Pays Off",
+        "summary": "Put money into low-cost stock and bond funds, but don’t forget the rest of the recipe: Leave your investments alone.",
+        "source": "nytimes",
+        "date": "2025-08-15T18:01:52+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/business/investing-fund-returns-interfere.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "f3372926de8660bb22a200b3629e3849f361092d992a60847fa6951da9cc5753",
+        "title": "Tribal Colleges Rely on Federal Funding. Their Leaders Fear the Trump Years.",
+        "summary": "As the Trump administration has publicly targeted elite universities, it has also quietly pursued funding cuts for the nation’s tribal colleges, which rely on federal dollars to operate.",
+        "source": "nytimes",
+        "date": "2025-08-15T18:00:18+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/us/tribal-colleges-federal-funding-trump.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "a97147260c6329396e7de4486edd43518603e14dbe0be15ea7391d916d16bc75",
+        "title": "How Train Riders With Disabilities Are Faring on Amtrak",
+        "summary": "Passengers are facing blocked wheelchair space, getting stuck in doors and suffering other indignities 35 years after the Americans With Disabilities Act became law.",
+        "source": "nytimes",
+        "date": "2025-08-15T00:35:48+09:00",
+        "url": "https://www.nytimes.com/2025/08/14/travel/amtrak-riders-passengers-disabilities.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "294a407293035bfe121fd6c2e3e5b69b6dc5222a0bf4446c10a2d3732289c99e",
+        "title": "How Accessible Is Traveling by Amtrak?",
+        "summary": "Many people with disabilities depend on Amtrak to travel across the country, but the journey can still present obstacles. Gabe Castro-Root outlines some of the challenges disabled passengers encounter while traveling.",
+        "source": "nytimes",
+        "date": "2025-08-15T03:51:15+09:00",
+        "url": "https://www.nytimes.com/video/travel/100000010331128/how-accessible-is-traveling-by-amtrak.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "9b1c90677910cc228b83c7a664fa16011eb70bfa31e7352a9606875b7de53123",
+        "title": "St. Patrick’s Cathedral to Unveil Mural Celebrating City’s Immigrants",
+        "summary": "Cardinal Timothy M. Dolan’s art commission hits a hot button. “I thought they might say, ‘We don’t want to wade in these waters’ — and the opposite happened,” the painter said.",
+        "source": "nytimes",
+        "date": "2025-08-15T01:03:45+09:00",
+        "url": "https://www.nytimes.com/2025/08/14/arts/design/st-patricks-cathedral-mural-immigration-dolan.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "ecee98710014a402e8fb9d3e2eebad9de673cd1022a13c98de7f736d862b8b7e",
+        "title": "Sarah Jessica Parker on ‘And Just Like That ...’ and Carrie Bradshaw’s Legacy",
+        "summary": "The “Sex and the City” revival reached its bittersweet end this week. Does the actress like where Carrie Bradshaw landed? “Absolutely.”",
+        "source": "nytimes",
+        "date": "2025-08-15T18:02:19+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/arts/television/sarah-jessica-parker-and-just-like-that-finale.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "37567af79369d581c271fa29e85d4ae814ef3acde94f13fdf06023bb87b59010",
+        "title": "Even as ‘And Just Like That . . .’ Ends, Carrie Bradshaw’s Clothes Live On",
+        "summary": "Throughout the beloved series “Sex and the City” and its reboot “And Just Like That …,” the protagonist’s wardrobe was the most reliable through line.",
+        "source": "nytimes",
+        "date": "2025-08-15T18:02:14+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/style/carrie-bradshaw-and-just-like-that-fashion.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "21b9f6b3b8afa771215886bfb1b1d51261ffb778633bd17b9641f9159c20322f",
+        "title": "Trump’s Attempt to Make Museums Submit Feels Familiar",
+        "summary": "MAGA would fill museums with self-glorifying kitsch, the aesthetic lingua franca of all authoritarians.",
+        "source": "nytimes",
+        "date": "2025-08-15T18:54:32+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/opinion/trump-history-museums-censorship.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "c2860070e7e52008486d83bdfd6975ab9072948fcfb3b486088f426ad18c781c",
+        "title": "Boy Crisis of 2025, Meet the ‘Boy Problem’ of the 1900s",
+        "summary": "It takes a village to raise a child. But some of the villagers must be men.",
+        "source": "nytimes",
+        "date": "2025-08-15T18:02:02+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/opinion/men-boys-crisis-progressive-era.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "7ee9bd7363022fc250ebcaec5db5d6aac02e48afe101ffc46cc75414f26304d2",
+        "title": "With a Shovel and a Dream, Woman Finds 2.3 Carat Diamond in Arkansas",
+        "summary": "After three weeks, with bug bites and tattered hiking boots, Micherre Fox found the stone at Crater of Diamonds State Park.",
+        "source": "nytimes",
+        "date": "2025-08-15T18:02:07+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/us/arkansas-state-park-diamond-found-engagment-ring.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "f2b548b2df6db7fa395c53f3e956f19db408a7914c89dcb9fdadb3ad70d65330",
+        "title": "Evo Morales, Barred from Bolivia’s Election, Urges Null Votes",
+        "summary": "Despite being barred from running again for president and being sought for arrest, a towering figure of Bolivian politics is trying to rally supporters to cast null votes.",
+        "source": "nytimes",
+        "date": "2025-08-15T18:00:31+09:00",
+        "url": "https://www.nytimes.com/2025/08/15/world/americas/bolivia-election-evo-morales.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "c495eceb9e80c0a4140c08142417e3abb8b3f5d3431104937edc20a2357f40f0",
+        "title": "Jackie Bezos, Jeff Bezos’ Mother and an Early Amazon Investor, Dies at 78",
+        "summary": "Ms. Bezos and her husband invested about $245,000 in Amazon when the online bookstore was in its first year.",
+        "source": "nytimes",
+        "date": "2025-08-15T14:51:34+09:00",
+        "url": "https://www.nytimes.com/2025/08/14/obituaries/jackie-bezos-dead.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "fb1ff38038f355ab6085cea7acf22a2e22e01a3e68a0a2e50918c5d0f0d8a6d3",
+        "title": "Adams Pushes to Force Drug Users Off NYC Streets",
+        "summary": "As he runs a long-shot third-party bid for re-election, Mayor Eric Adams is proposing an aggressive approach, favored by conservatives, of combating open drug use.",
+        "source": "nytimes",
+        "date": "2025-08-15T11:53:38+09:00",
+        "url": "https://www.nytimes.com/2025/08/14/nyregion/adams-involuntary-drugs-treatment.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "1a6dd90740aa84a47190241868293cf7e16764636812a65ac163b6266dfbdf37",
+        "title": "President Trump, by meeting Vladimir Putin on Friday, is hoping to forge in person what he hasn’t been able to accomplish by phone—a partnership with the Kremlin leader to end the war in Ukraine",
+        "summary": "The two leaders are set to meet in person for the first time since the start of Russia’s full-scale invasion of Ukraine.",
+        "source": "wsj",
+        "date": "2025-08-15T10:00:00+09:00",
+        "url": "https://www.wsj.com/politics/national-security/trump-putin-head-to-high-stakes-alaska-summit-with-clashing-objectives-b380ca64",
+        "reportUrl": ""
+    },
+    {
+        "id": "a2c546b217de8d21a760fc62b18b3a9a3710af3464b5b50bbda14f2d56fe4972",
+        "title": "California Democrats are planning their own redistricting to counter President Trump’s push for a congressional map shake-up in Texas to create more Republican House seats",
+        "summary": "The state’s voters would need to approve redrawing of congressional maps in a special election Nov. 4.",
+        "source": "wsj",
+        "date": "2025-08-15T07:26:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/gavin-newsom-lays-out-california-redistricting-plan-to-counter-texas-republicans-2213541b",
+        "reportUrl": ""
+    },
+    {
+        "id": "55035d377faff9f82d32341705d12c648460fce8eb75e6c51500f432c91604c4",
+        "title": "D.C. Officials Reject Trump’s Latest Bid to Take Control of Police",
+        "summary": "Terry Cole becomes “emergency police commissioner” as the Trump administration takes over policing in the nation’s capital.",
+        "source": "wsj",
+        "date": "2025-08-15T14:09:00+09:00",
+        "url": "https://www.wsj.com/us-news/attorney-general-names-dea-chief-to-take-over-d-c-police-84372fff",
+        "reportUrl": ""
     }
 ]

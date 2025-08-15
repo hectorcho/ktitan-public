@@ -160,5 +160,167 @@
         "date": "2025-08-14T22:00:15+09:00",
         "url": "https://www.lemonde.fr/sciences/article/2025/08/14/aux-urgences-l-ia-peut-aider-les-medecins-face-aux-traumatises-severes_6629509_1650684.html",
         "reportUrl": ""
+    },
+    {
+        "id": "3e0889bbf542d037e04865d3caf9c0f34391e70c2bfe1ec7875a58f91007e9a9",
+        "title": "Canicule en France : comprendre la seconde vague de chaleur de l’été, en cartes et en graphiques",
+        "summary": "L’épisode de fortes températures que connaît depuis plusieurs jours le pays, notamment dans le Sud-Ouest, est d’une intensité remarquable. Il n’est pas sans conséquences sur l’environnement et la population.",
+        "source": "lemonde",
+        "date": "2025-08-15T20:25:30+09:00",
+        "url": "https://www.lemonde.fr/planete/article/2025/08/15/canicule-en-france-comprendre-la-seconde-vague-de-chaleur-de-l-ete-en-cartes-et-en-graphiques_6629911_3244.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "75c8d26e65909cfe367f08dfcc16cbc5b8ad2090703d628a18842eab823d47eb",
+        "title": "En direct, guerre en Ukraine : « Nous avons des arguments et notre position est claire et nette, nous l’exposerons », déclare Sergueï Lavrov, avant le sommet Trump-Poutine",
+        "summary": "Le ministre russe des affaires étrangères est arrivé vendredi en Alaska. Les présidents américain et russe doivent se rencontrer à Anchorage, à partir de 21 h 30, heure de Paris. Donald Trump a dit souhaiter qu’une rencontre incluant Volodymyr Zelensky soit organisée « très rapidement ».",
+        "source": "lemonde",
+        "date": "2025-08-15T15:56:17+09:00",
+        "url": "https://www.lemonde.fr/international/live/2025/08/15/en-direct-guerre-en-ukraine-pres-de-150-affrontements-avec-la-russie-recenses-par-l-armee-ukrainienne-a-quelques-heures-du-sommet-entre-donald-trump-et-vladimir-poutine_6627648_3210.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "daae6d486298963d4a2b1de403d3cb84ba08939ed21ee5f87dd5ddcd895a15aa",
+        "title": "De 65 000 prêtres en 1960 à 12 000 aujourd’hui : ces décennies de « crise des vocations » qui ont vidé les presbytères en France",
+        "summary": "Si l’appel aux étrangers et les regroupements de paroisses ont permis de pallier le phénomène de raréfaction, l’Eglise continue de s’interroger sur les moyens d’y répondre.",
+        "source": "lemonde",
+        "date": "2025-08-15T12:45:05+09:00",
+        "url": "https://www.lemonde.fr/societe/article/2025/08/15/de-65-000-pretres-en-1960-a-12-000-aujourd-hui-ces-decennies-de-crise-des-vocations-qui-ont-vide-les-presbyteres-en-france_6629680_3224.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "cb8f363970c0e79f53c4024928e9e8bc14c3906f26ed5a249382cf36c7f28ac4",
+        "title": "Classement de Shanghaï 2025 : « L’Europe doit affirmer ses priorités, en promouvant son propre classement des universités »",
+        "summary": "Stéphanie Balme, directrice du Centre de recherches internationales à Sciences Po, estime, dans un entretien au « Monde », que la souveraineté scientifique du continent européen pourrait être en péril si la vision chinoise techno-nationaliste de la science continue de s’imposer dans le monde.",
+        "source": "lemonde",
+        "date": "2025-08-15T19:33:00+09:00",
+        "url": "https://www.lemonde.fr/campus/article/2025/08/15/classement-de-shanghai-2025-l-europe-doit-affirmer-ses-priorites-en-promouvant-son-propre-classement-des-universites_6629908_4401467.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "c59cfbee539d6ecd077f45f626686b932846d6458e982ba6fa49c317c4a7fd27",
+        "title": "Pollution aux plastiques : les négociations sur un accord international échouent pour la deuxième fois",
+        "summary": "Présenté au milieu de la nuit de jeudi à vendredi, un nouveau texte de compromis comportait encore plus d’une centaine de points à clarifier. Après dix jours d’intenses négociations, les chefs de délégation n’ont pas réussi à se mettre d’accord.",
+        "source": "lemonde",
+        "date": "2025-08-15T14:51:49+09:00",
+        "url": "https://www.lemonde.fr/planete/article/2025/08/15/pollution-aux-plastiques-echec-des-negociations-pour-parvenir-a-un-accord-pour-un-traite-international_6629577_3245.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "6a37a1430a6984c0fd49cac61cff065a639f7b496a16338349e3ee9be9c473d5",
+        "title": "Quatre idées reçues sur le bronzage, les coups de soleil et leurs effets sur la peau",
+        "summary": "Crème solaire inutile pour les peaux mates, coups de soleil bénéfiques pour le bronzage, baignade comme remède contre les brûlures… Chaque été, les idées reçues sur l’exposition à l’astre du jour perdurent en dépit de la réalité scientifique.",
+        "source": "lemonde",
+        "date": "2025-08-15T17:00:09+09:00",
+        "url": "https://www.lemonde.fr/les-decodeurs/article/2025/08/15/quatre-idees-recues-sur-le-bronzage-les-coups-de-soleil-et-leurs-effets-sur-la-peau_6629894_4355770.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "3844ada4ead4de703525e4b24cd04130f4ad6d5a5cbf16fc7221ec3397c5d1ad",
+        "title": "En direct, Gaza : au moins quatre personnes tuées par l’armée israélienne vendredi matin, rapporte WAFa",
+        "summary": "Trois personnes, dont un enfant, sont mortes dans un bombardement israélien à l’ouest de Rafah, rapporte l’agence de presse palestinienne, et une autre dans le centre de la bande de Gaza.",
+        "source": "lemonde",
+        "date": "2025-08-15T18:25:59+09:00",
+        "url": "https://www.lemonde.fr/international/live/2025/08/15/en-direct-gaza-au-moins-quatre-personnes-tuees-par-l-armee-israelienne-vendredi-matin-rapporte-wafa_6628849_3210.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "dc3743fefe59d95be055c8851dbaeead67274093dccbc738abaacc9e6172a753",
+        "title": "Le Hezbollah accuse le gouvernement libanais, qui s’est engagé à désarmer le mouvement chiite, de « livrer » le pays à Israël",
+        "summary": "Début août, sous la pression des Etats-Unis et face aux craintes d’une intensification des attaques israéliennes au Liban, le gouvernement libanais a chargé l’armée de préparer un plan pour désarmer d’ici la fin 2025 le Hezbollah, fondé et financé par l’Iran, ennemi d’Israël.",
+        "source": "lemonde",
+        "date": "2025-08-15T19:42:57+09:00",
+        "url": "https://www.lemonde.fr/international/article/2025/08/15/le-hezbollah-accuse-le-gouvernement-libanais-qui-s-est-engage-a-desarmer-le-mouvement-chiite-de-livrer-le-pays-a-israel_6629910_3210.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "05ac737fda33ec87d55ecf77b3fa304f72b5ba10bdddcc6e7d5ed397765f77a9",
+        "title": "Le Français Térence Atmane s’offre une demi-finale de prestige face à Jannik Sinner au Masters 1000 de Cincinnati : « Je n’ai pas les mots pour décrire ce qui m’arrive »",
+        "summary": "Le tennisman boulonnais de 23 ans, 136ᵉ mondial et issu des qualifications, a battu Holger Rune, 9ᵉ mondial, jeudi (6-2, 6-3). Sa compatriote Varvara Gracheva s’est, elle, qualifiée pour les quarts de finale.",
+        "source": "lemonde",
+        "date": "2025-08-15T17:03:02+09:00",
+        "url": "https://www.lemonde.fr/sport/article/2025/08/15/masters-1000-de-cincinnati-terence-atmane-s-offre-une-demi-finale-de-prestige-face-a-jannik-sinner_6629895_3242.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "857972d0afc6d53d3098536bfc6ee2e2d78c26f1008d728860efdda65749cf2a",
+        "title": "Haitham Karajay, chef syrien : « Ma mère cuisinait quotidiennement. J’ai réussi à la faire venir en France et j’ai eu la chance de l’avoir à mes côtés jusqu’à sa mort »",
+        "summary": "« Recettes refuges » (6/6). Haitham Karajay s’est réfugié en France pour fuir la guerre civile en Syrie. Il s’est très vite tourné vers la cuisine, avec l’aide de Refugee Food, dont il est désormais salarié.",
+        "source": "lemonde",
+        "date": "2025-08-15T18:30:10+09:00",
+        "url": "https://www.lemonde.fr/series-d-ete/article/2025/08/15/haitham-karajay-chef-syrien-j-ai-eu-de-la-chance-de-pouvoir-avoir-ma-mere-a-mes-cotes-jusqu-a-sa-mort-je-connais-tant-de-gens-qui-n-ont-plus-jamais-revu-leurs-parents_6629902_3451060.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "cfcf1a0c3ec469456c4112e07b16457ad6b7ec0e1cb3ae9e579d78e9ba5bae52",
+        "title": "Los Angeles 2028 veut « générer des revenus importants » en donnant des noms de marques aux sites de compétitions, une pratique inédite dans l’histoire olympique",
+        "summary": "Le comité d’organisation des prochains Jeux d’été a annoncé, jeudi, la possibilité pour des marques de donner leur nom aux enceintes qui accueilleront les épreuves. Une mesure inédite dans l’histoire olympique.",
+        "source": "lemonde",
+        "date": "2025-08-15T17:51:15+09:00",
+        "url": "https://www.lemonde.fr/sport/article/2025/08/15/los-angeles-2028-ouvre-ses-sites-de-competitions-a-des-contrats-de-naming_6629898_3242.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "689dbc398d00dacdcbe6076125625a503c8b75291e552fbf269100044a4463d5",
+        "title": "Charlotte Caubel, ancienne secrétaire d’Etat à l’enfance, nommée procureure adjointe à Paris",
+        "summary": "Au printemps, sa nomination à la tête de l’important parquet de Créteil avait reçu un avis défavorable du Conseil supérieur de la magistrature. Son arrivée à Paris, approuvée par le CSM, a reçu le soutien d’Elisabeth Borne et de Gérald Darmanin.",
+        "source": "lemonde",
+        "date": "2025-08-15T18:48:04+09:00",
+        "url": "https://www.lemonde.fr/politique/article/2025/08/15/charlotte-caubel-ancienne-secretaire-d-etat-a-l-enfance-nommee-procureure-adjointe-a-paris_6629905_823448.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "0331b2c50534378e3299449329ebda8113ab7e9123189aaa59b9b31786bacbeb",
+        "title": "Que fêtent les catholiques et les orthodoxes le 15 août ?",
+        "summary": "La fête de l’Assomption, dite aussi « Dormition de la Vierge », célèbre la montée au ciel de Marie, mère de Jésus. Elle n’est pas commune à toutes les confessions chrétiennes, puisque les protestants la récusent.",
+        "source": "lemonde",
+        "date": "2025-08-15T13:30:10+09:00",
+        "url": "https://www.lemonde.fr/le-monde-des-religions/article/2025/08/15/que-fetent-les-catholiques-et-les-orthodoxes-le-15-aout_6629691_6038514.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "93ff78a7f9e9c2b2d493e81b1f3417d041208dddc46e7bce36a3da4f41199363",
+        "title": "Comment la Ligue 1 lutte face au « fléau » du piratage des matchs",
+        "summary": "Le championnat de France reprend, vendredi soir, avec la rencontre Rennes-Marseille. Depuis plusieurs années, les instances du football et les diffuseurs travaillent de concert pour endiguer les visionnages illégaux de matchs.",
+        "source": "lemonde",
+        "date": "2025-08-15T16:00:14+09:00",
+        "url": "https://www.lemonde.fr/sport/article/2025/08/15/comment-la-ligue-1-lutte-face-au-fleau-du-piratage-des-matchs_6629826_3242.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "23897adb91a5dd9f39b3b17a0167ef998707f642b85988c9df92c0fbc247a5a6",
+        "title": "Elon Musk accuse Apple de favoriser ChatGPT dans son App Store, au détriment de Grok",
+        "summary": "Considérant que son application n’est pas assez mise en avant sur la plateforme d’Apple par rapport à celle d’OpenAI, Elon Musk menace l’entreprise à la pomme de poursuite en justice. Cette dernière nie en bloc une quelconque manipulation.",
+        "source": "lemonde",
+        "date": "2025-08-15T17:57:37+09:00",
+        "url": "https://www.lemonde.fr/pixels/article/2025/08/15/elon-musk-accuse-apple-de-favoriser-chatgpt-dans-son-app-store-au-detriment-de-grok_6629899_4408996.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "494567c606a4bae925ff9c6944eea9ef34fccbb172a4aaa96d7694e94bc0bd68",
+        "title": "François Bayrou dénonce « la haine antisémite » après qu’un olivier rendant hommage à Ilan Halimi a été abattu à Epinay-sur-Seine",
+        "summary": "Le jeune homme de confession juive avait été séquestré et torturé à mort en 2006 par le « gang des barbares ». Le préfet de police de Paris a annoncé qu’une procédure était ouverte.",
+        "source": "lemonde",
+        "date": "2025-08-15T16:48:28+09:00",
+        "url": "https://www.lemonde.fr/societe/article/2025/08/15/olivier-rendant-hommage-a-ilan-halimi-abattu-a-epinay-sur-seine-francois-bayrou-denonce-la-haine-antisemite_6629542_3225.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "afce23228ddbe657eb55aae67ad6fdc6338bd327b08c20ab90080521de533438",
+        "title": "Crise grecque de la dette : dix ans après le référendum sur l’austérité, la population reste traumatisée",
+        "summary": "Dix ans après le référendum sur le troisième plan d’austérité proposé par les créanciers de la Grèce, l’économie du pays va mieux, mais une grande partie des habitants est encore dans une situation difficile.",
+        "source": "lemonde",
+        "date": "2025-08-15T12:00:21+09:00",
+        "url": "https://www.lemonde.fr/economie/article/2025/08/15/crise-grecque-de-la-dette-dix-ans-apres-le-referendum-sur-l-austerite-la-population-reste-traumatisee_6629645_3234.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "120312935408f7ca80f6c71567f9dd47d7b1bab03e695db9fbfc1d248c4a073f",
+        "title": "Au Pakistan, au moins 50 personnes sont mortes à cause des pluies liées à la mousson",
+        "summary": "La mousson estivale est qualifiée d’« inhabituelle ». En juillet, le Pendjab, où vivent près de la moitié des 255 millions de Pakistanais, a enregistré des précipitations de 73 % supérieures à celles de l’année précédente.",
+        "source": "lemonde",
+        "date": "2025-08-15T18:56:58+09:00",
+        "url": "https://www.lemonde.fr/planete/article/2025/08/15/au-pakistan-au-moins-50-personnes-sont-mortes-a-cause-des-pluies-liees-a-la-mousson_6629906_3244.html",
+        "reportUrl": ""
     }
 ]
