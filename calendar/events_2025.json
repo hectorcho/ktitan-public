@@ -1,162 +1,202 @@
 [
-  {
-    "title": "Counter UAS Summit 2025",
-    "start": "2025-08-19",
-    "end": "2025-08-20",
-    "location": "Arlington, Virginia, USA",
-    "description": "",
-    "eventUrl": "https://www.idga.org/events-counteruas-usa/agenda-mc"
-  },
-  {
-    "title": "Indo-Pacific Irregular Warfare Symposium 2025",
-    "start": "2025-08-19",
-    "end": "2025-08-21",
-    "location": "Bangkok, Thailand",
-    "description": "",
-    "eventUrl": "https://gsofindopacific.org/"
-  },
-  {
-    "title": "MSPO (International Defence Industry Exhibition)",
-    "start": "2025-09-02",
-    "end": "2025-09-05",
-    "location": "Kielce, Poland",
-    "description": "",
-    "eventUrl": "https://www.targikielce.pl/en/mspo"
-  },
-  {
-    "title": "DSEI (Defence and Security Equipment International)",
-    "start": "2025-09-09",
-    "end": "2025-09-12",
-    "location": "London, UK",
-    "description": "",
-    "eventUrl": "https://www.dsei.co.uk/"
-  },
-  {
-    "title": "Air, Space & Cyber Conference",
-    "start": "2025-09-22",
-    "end": "2025-09-24",
-    "location": "National Harbor, Maryland, USA",
-    "description": "",
-    "eventUrl": "https://www.afa.org/air-space-cyber-conference/"
-  },
-  {
-    "title": "GSOF Europe",
-    "start": "2025-10-07",
-    "end": "2025-10-09",
-    "location": "Athens, Greece",
-    "description": "",
-    "eventUrl": "https://gsofeurope.org/"
-  },
-  {
-    "title": "AUSA Annual Meeting & Exposition",
-    "start": "2025-10-13",
-    "end": "2025-10-15",
-    "location": "Washington D.C., USA",
-    "description": "",
-    "eventUrl": "https://meetings.ausa.org/annual/2025/"
-  },
-  {
-    "title": "ADEX",
-    "start": "2025-10-17",
-    "end": "2025-10-24",
-    "location": "Seoul, South Korea",
-    "description": "",
-    "eventUrl": "https://seouladex.com/kr/business/"
-  },
-  {
-    "title": "Indo Pacific Maritime",
-    "start": "2025-11-04",
-    "end": "2025-11-06",
-    "location": "Sydney, Australia",
-    "description": "",
-    "eventUrl": "https://indopacificexpo.com.au/"
-  },
-  {
-    "title": "Dubai Air Show",
-    "start": "2025-11-17",
-    "end": "2025-11-21",
-    "location": "Dubai, UAE",
-    "description": "",
-    "eventUrl": "https://www.dubaiairshow.aero/en/home.html"
-  },
-  {
-    "title": "I/ITSEC (Interservice/Industry Training, Simulation and Education Conference)",
-    "start": "2025-12-01",
-    "end": "2025-12-05",
-    "location": "Orlando, Florida, USA",
-    "description": "",
-    "eventUrl": "https://exhibits.iitsec.org/2025/Public/Enter.aspx"
-  },
-  {
-    "title": "EDEX",
-    "start": "2025-12-01",
-    "end": "2025-12-04",
-    "location": "New Cairo, Egypt",
-    "description": "",
-    "eventUrl": "https://www.egyptdefenceexpo.com/what-is-edex"
-  },
-  {
-    "title": "The Shanghai Cooperation Organization (SCO) Summit",
-    "start": "2025-08-31",
-    "end": "2025-09-01",
-    "location": "Tianjin (China)",
-    "description": "",
-    "eventUrl": "https://en.wikipedia.org/wiki/2025_Tianjin_SCO_summit"
-  },
-  {
-    "title": "UN General Assembly",
-    "start": "2025-09-09",
-    "end": "2025-09-23",
-    "location": "New York, NY, USA",
-    "description": "",
-    "eventUrl": "https://www.un.org/en/high-level-week-2025"
-  },
-  {
-    "title": "9/11 Terrorist Attack Anniversary",
-    "start": "2025-09-11",
-    "end": "2025-09-11",
-    "location": "New York, NY, USA",
-    "description": "",
-    "eventUrl": ""
-  },
-  {
-    "title": "World Bank and IMF Annual Meeting",
-    "start": "2025-10-13",
-    "end": "2025-10-18",
-    "location": "Washington D.C., USA",
-    "description": "",
-    "eventUrl": "https://www.worldbank.org/en/meetings/splash/annual"
-  },
-  {
-    "title": "Asia-Pacific Economic Cooperation (APEC) Summit",
-    "start": "2025-10-28",
-    "end": "2025-10-31",
-    "location": "Gyeongju, Republic of Korea",
-    "description": "",
-    "eventUrl": "https://en.wikipedia.org/wiki/APEC_South_Korea_2025"
-  },
-  {
-    "title": "IISS Manama Dialogue 2025",
-    "start": "2025-10-31",
-    "end": "2025-11-02",
-    "location": "Kingdom of Bahrain",
-    "description": "",
-    "eventUrl": "https://www.iiss.org/events/manama-dialogue/manama-dialogue-2025/"
-  },
-  {
-    "title": "US Election Day",
-    "start": "2025-11-04",
-    "end": "2025-11-04",
-    "location": "United States of America",
-    "description": "",
-    "eventUrl": "https://en.wikipedia.org/wiki/2025_United_States_elections"
-  },
-  {
-    "title": "G20 Leaders Summit",
-    "start": "2025-11-22",
-    "end": "2025-11-23",
-    "location": "Johannesburg, South Africa",
-    "description": "",
-    "eventUrl": "https://en.wikipedia.org/wiki/2025_G20_Johannesburg_summit"
-  }
+    {
+        "title": "Counter UAS Summit 2025",
+        "start": "2025-08-19",
+        "end": "2025-08-20",
+        "location": "Arlington, Virginia, USA",
+        "description": "",
+        "eventUrl": "https://www.idga.org/events-counteruas-usa/agenda-mc",
+        "id": "db80263b7c8d77896e57a3a2cb7f48908d72dff729ab39f43f4331571f745e47",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/db80263b7c8d77896e57a3a2cb7f48908d72dff729ab39f43f4331571f745e47.md"
+    },
+    {
+        "title": "Indo-Pacific Irregular Warfare Symposium 2025",
+        "start": "2025-08-19",
+        "end": "2025-08-21",
+        "location": "Bangkok, Thailand",
+        "description": "",
+        "eventUrl": "https://gsofindopacific.org/",
+        "id": "5dc1a7cba5aad18ad6a4f3c18995ceb982a2d1c9e616b9b74a465146a8ef1b6b",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/5dc1a7cba5aad18ad6a4f3c18995ceb982a2d1c9e616b9b74a465146a8ef1b6b.md"
+    },
+    {
+        "title": "MSPO (International Defence Industry Exhibition)",
+        "start": "2025-09-02",
+        "end": "2025-09-05",
+        "location": "Kielce, Poland",
+        "description": "",
+        "eventUrl": "https://www.targikielce.pl/en/mspo",
+        "id": "6dc4e3b93aeae2810ce402500dcaf742b0df064293e0903bec87135ec4586773",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/6dc4e3b93aeae2810ce402500dcaf742b0df064293e0903bec87135ec4586773.md"
+    },
+    {
+        "title": "DSEI (Defence and Security Equipment International)",
+        "start": "2025-09-09",
+        "end": "2025-09-12",
+        "location": "London, UK",
+        "description": "",
+        "eventUrl": "https://www.dsei.co.uk/",
+        "id": "0ed555e1c134b8956a94130a4b48345e34f74956cf2421887b8a60fc1ff65b1c",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/0ed555e1c134b8956a94130a4b48345e34f74956cf2421887b8a60fc1ff65b1c.md"
+    },
+    {
+        "title": "Air, Space & Cyber Conference",
+        "start": "2025-09-22",
+        "end": "2025-09-24",
+        "location": "National Harbor, Maryland, USA",
+        "description": "",
+        "eventUrl": "https://www.afa.org/air-space-cyber-conference/",
+        "id": "dc82e290abe228ce86ec8637b83700e32d27b9f0e1da6441b7b952d9975da133",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/dc82e290abe228ce86ec8637b83700e32d27b9f0e1da6441b7b952d9975da133.md"
+    },
+    {
+        "title": "GSOF Europe",
+        "start": "2025-10-07",
+        "end": "2025-10-09",
+        "location": "Athens, Greece",
+        "description": "",
+        "eventUrl": "https://gsofeurope.org/",
+        "id": "2f9410fe5f7704ee783484d1a4de9f08b5270928f7f30b15807c598c0072e19d",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/2f9410fe5f7704ee783484d1a4de9f08b5270928f7f30b15807c598c0072e19d.md"
+    },
+    {
+        "title": "AUSA Annual Meeting & Exposition",
+        "start": "2025-10-13",
+        "end": "2025-10-15",
+        "location": "Washington D.C., USA",
+        "description": "",
+        "eventUrl": "https://meetings.ausa.org/annual/2025/",
+        "id": "70c659e288075b04517b6ef062a7574bea77f3027343aa77f81172c09a56051f",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/70c659e288075b04517b6ef062a7574bea77f3027343aa77f81172c09a56051f.md"
+    },
+    {
+        "title": "ADEX",
+        "start": "2025-10-17",
+        "end": "2025-10-24",
+        "location": "Seoul, South Korea",
+        "description": "",
+        "eventUrl": "https://seouladex.com/kr/business/",
+        "id": "d2739ebca83267842c3f59b6c283c912cc356c72be6ad4a4f879fd3fbc3c51e5",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/d2739ebca83267842c3f59b6c283c912cc356c72be6ad4a4f879fd3fbc3c51e5.md"
+    },
+    {
+        "title": "Indo Pacific Maritime",
+        "start": "2025-11-04",
+        "end": "2025-11-06",
+        "location": "Sydney, Australia",
+        "description": "",
+        "eventUrl": "https://indopacificexpo.com.au/",
+        "id": "efaf880250ff052fea9fc8dd20b96c4a1e13756e54f20c0d253ce0fc9cadd4d5",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/efaf880250ff052fea9fc8dd20b96c4a1e13756e54f20c0d253ce0fc9cadd4d5.md"
+    },
+    {
+        "title": "Dubai Air Show",
+        "start": "2025-11-17",
+        "end": "2025-11-21",
+        "location": "Dubai, UAE",
+        "description": "",
+        "eventUrl": "https://www.dubaiairshow.aero/en/home.html",
+        "id": "0d260a9e0afb73a7c2f42041be64834b0b46f32ea7ce437944b2d7f34b4625a7",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/0d260a9e0afb73a7c2f42041be64834b0b46f32ea7ce437944b2d7f34b4625a7.md"
+    },
+    {
+        "title": "I/ITSEC (Interservice/Industry Training, Simulation and Education Conference)",
+        "start": "2025-12-01",
+        "end": "2025-12-05",
+        "location": "Orlando, Florida, USA",
+        "description": "",
+        "eventUrl": "https://exhibits.iitsec.org/2025/Public/Enter.aspx",
+        "id": "869cdc8e49ffd77bdd4d7d0e314b99e60fe3e36847360f651a2e98b3045f0591",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/869cdc8e49ffd77bdd4d7d0e314b99e60fe3e36847360f651a2e98b3045f0591.md"
+    },
+    {
+        "title": "EDEX",
+        "start": "2025-12-01",
+        "end": "2025-12-04",
+        "location": "New Cairo, Egypt",
+        "description": "",
+        "eventUrl": "https://www.egyptdefenceexpo.com/what-is-edex",
+        "id": "9362ddf951b90a7fee093e7456b5a1ec9c2068d447e2b0ec52f82a83f69b7bf7",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/9362ddf951b90a7fee093e7456b5a1ec9c2068d447e2b0ec52f82a83f69b7bf7.md"
+    },
+    {
+        "title": "The Shanghai Cooperation Organization (SCO) Summit",
+        "start": "2025-08-31",
+        "end": "2025-09-01",
+        "location": "Tianjin (China)",
+        "description": "",
+        "eventUrl": "https://en.wikipedia.org/wiki/2025_Tianjin_SCO_summit",
+        "id": "e97d5c65bdbda9858d39c2052341168ee7de8df4e0791720652c1dfbcad42199",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/e97d5c65bdbda9858d39c2052341168ee7de8df4e0791720652c1dfbcad42199.md"
+    },
+    {
+        "title": "UN General Assembly",
+        "start": "2025-09-09",
+        "end": "2025-09-23",
+        "location": "New York, NY, USA",
+        "description": "",
+        "eventUrl": "https://www.un.org/en/high-level-week-2025",
+        "id": "3b00c4f7b9133af85eed95b3183be85bfc12cad5af2df5deb55d23589c5c4280",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/3b00c4f7b9133af85eed95b3183be85bfc12cad5af2df5deb55d23589c5c4280.md"
+    },
+    {
+        "title": "9/11 Terrorist Attack Anniversary",
+        "start": "2025-09-11",
+        "end": "2025-09-11",
+        "location": "New York, NY, USA",
+        "description": "",
+        "eventUrl": "",
+        "id": "eb8eaf27fd8bbd1862b9a3cceef07c6ca71c191639cd1921329ab000c3745e57",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/eb8eaf27fd8bbd1862b9a3cceef07c6ca71c191639cd1921329ab000c3745e57.md"
+    },
+    {
+        "title": "World Bank and IMF Annual Meeting",
+        "start": "2025-10-13",
+        "end": "2025-10-18",
+        "location": "Washington D.C., USA",
+        "description": "",
+        "eventUrl": "https://www.worldbank.org/en/meetings/splash/annual",
+        "id": "61222c532dd589be96d1bb65f5ff239d4c28f25ffdef1129b4ffc6869839e87f",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/61222c532dd589be96d1bb65f5ff239d4c28f25ffdef1129b4ffc6869839e87f.md"
+    },
+    {
+        "title": "Asia-Pacific Economic Cooperation (APEC) Summit",
+        "start": "2025-10-28",
+        "end": "2025-10-31",
+        "location": "Gyeongju, Republic of Korea",
+        "description": "",
+        "eventUrl": "https://en.wikipedia.org/wiki/APEC_South_Korea_2025",
+        "id": "f8ffe370d9c15422d41cf90b8fabe0c590699838ec935cf7be56e3361db99a94",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/f8ffe370d9c15422d41cf90b8fabe0c590699838ec935cf7be56e3361db99a94.md"
+    },
+    {
+        "title": "IISS Manama Dialogue 2025",
+        "start": "2025-10-31",
+        "end": "2025-11-02",
+        "location": "Kingdom of Bahrain",
+        "description": "",
+        "eventUrl": "https://www.iiss.org/events/manama-dialogue/manama-dialogue-2025/",
+        "id": "b9a6cb1700d49ba81dfa9f267b86f9e33dffbf9ea6e6b1597ce17ecd6b3873fa",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/b9a6cb1700d49ba81dfa9f267b86f9e33dffbf9ea6e6b1597ce17ecd6b3873fa.md"
+    },
+    {
+        "title": "US Election Day",
+        "start": "2025-11-04",
+        "end": "2025-11-04",
+        "location": "United States of America",
+        "description": "",
+        "eventUrl": "https://en.wikipedia.org/wiki/2025_United_States_elections",
+        "id": "d469b932e9793905a5616daa00505600eaaefa395cf7129137b48704226654d6",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/d469b932e9793905a5616daa00505600eaaefa395cf7129137b48704226654d6.md"
+    },
+    {
+        "title": "G20 Leaders Summit",
+        "start": "2025-11-22",
+        "end": "2025-11-23",
+        "location": "Johannesburg, South Africa",
+        "description": "",
+        "eventUrl": "https://en.wikipedia.org/wiki/2025_G20_Johannesburg_summit",
+        "id": "a797a9630ccacc6ee30085c31dd88e20e5311ef96c6205f85296b33676943e54",
+        "summaryUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/calendar/summary/a797a9630ccacc6ee30085c31dd88e20e5311ef96c6205f85296b33676943e54.md"
+    }
 ]
