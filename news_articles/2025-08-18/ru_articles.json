@@ -1,0 +1,902 @@
+[
+    {
+        "id": "820d103634a8607759faafd78aba2d4849bd2ee2a5afbd603af1d0100f356c16",
+        "title": "German exports to Russia down 5.3% in April month-on-month",
+        "summary": "In annual terms, exports from Germany to Russia lost 9.3%",
+        "source": "tass",
+        "date": "2025-06-06T19:04:25+09:00",
+        "url": "https://tass.com/economy/1969687",
+        "reportUrl": ""
+    },
+    {
+        "id": "f00d4a5df7a31a3a5f6d7cf40b31b793d55f9cef91526828a1768e180471c904",
+        "title": "Khrunichev Center begins production of three Angara-A5M rockets for launching ROS modules",
+        "summary": "The next phase in the Angara-A5 modernization program involves adapting the rocket for launching manned spacecraft",
+        "source": "tass",
+        "date": "2025-06-06T19:03:51+09:00",
+        "url": "https://tass.com/science/1969671",
+        "reportUrl": ""
+    },
+    {
+        "id": "ca48a6dd45a99b1a4e9298d323dea2cf01f0b22a001a79c1d3d6fa4d967e7a42",
+        "title": "Gagauzia head faces court: recent developments",
+        "summary": "\"No matter what the pro-government media outlets say, I am tried today because I am Gagauzia's head,\" Evghenia Gutsul stated",
+        "source": "tass",
+        "date": "2025-06-06T19:03:02+09:00",
+        "url": "https://tass.com/world/1969667",
+        "reportUrl": ""
+    },
+    {
+        "id": "c52b1f8576a30b024ca6b8930bde5b3804729bc5294691590752e1ddfc7e9638",
+        "title": "Trump-Musk clash costs both hefty sums in one day — media",
+        "summary": "According to the news outlet, Elon Musk remains the world’s richest businessman, but his fortune declined by $33.9 billion",
+        "source": "tass",
+        "date": "2025-06-06T19:01:16+09:00",
+        "url": "https://tass.com/economy/1969669",
+        "reportUrl": ""
+    },
+    {
+        "id": "40b350911f06be7487db2cca7f7ab6021b1bd249f7ac92f2e7f0b6f5d6d56c7e",
+        "title": "Press review: Europe seeks to block US-Russia thaw as Russia eyes role in US-Iran talks",
+        "summary": "Top stories from the Russian press on Friday, June 6th",
+        "source": "tass",
+        "date": "2025-06-06T19:00:01+09:00",
+        "url": "https://tass.com/pressreview/1969589",
+        "reportUrl": ""
+    },
+    {
+        "id": "4785a55152c297531817bc3287c1f4562bf7be69234871db5526dad6a0de38fa",
+        "title": "Israel to continue striking Beirut until Lebanon disarms Hezbollah — defense minister",
+        "summary": "\"Agreements must be honored and the Lebanese government does not do what is required, Israel will continue to act, and with great force,\" Israel Katz said",
+        "source": "tass",
+        "date": "2025-06-06T18:45:53+09:00",
+        "url": "https://tass.com/world/1969663",
+        "reportUrl": ""
+    },
+    {
+        "id": "78d12c9f4e615369e90955d7cf6bce29b314df24ae76c9247d8f834eed615a4a",
+        "title": "WHO reports over 8,500 global attacks on health facilities since 2018 — director general",
+        "summary": "\"Attacks on health care have become the 'new normal' of conflict,\" WHO Director General Tedros Adhanom Ghebreyesus said",
+        "source": "tass",
+        "date": "2025-06-06T18:34:36+09:00",
+        "url": "https://tass.com/society/1969643",
+        "reportUrl": ""
+    },
+    {
+        "id": "44a1844ba0b07d11a877cba0764bb1009719387c6268a55ba577757ce48bd01e",
+        "title": "Shadow of 'potential brutal divorce' between Trump-Musk looms over Republicans — TV",
+        "summary": "According to the report, Republican lawmakers worry that Musk may try to oust them from power in midterm elections next year",
+        "source": "tass",
+        "date": "2025-06-06T18:31:08+09:00",
+        "url": "https://tass.com/world/1969641",
+        "reportUrl": ""
+    },
+    {
+        "id": "d5206ba7f672033a5d9ca716c94bf95f8f6efd083314538f087e7c3939694f09",
+        "title": "EU must conclude arms limitation agreement with Russia, says Orban",
+        "summary": "The Hungarian prime minister noted that Hungary agrees with the need to strengthen Europe’s defense capabilities, but this should not lead to an unrestrained arms race",
+        "source": "tass",
+        "date": "2025-06-06T18:18:57+09:00",
+        "url": "https://tass.com/world/1969637",
+        "reportUrl": ""
+    },
+    {
+        "id": "ed583204833059f1bf42b9689ff08409602b32b095c5f61660016cca6fe09188",
+        "title": "Bank of Russia sells yuan worth $83 mln with settlements on June 5",
+        "summary": "The Central Bank sold yuan on the domestic market with settlements on June 4, 2025 in the amount of 6.5 bln rubles",
+        "source": "tass",
+        "date": "2025-06-06T18:15:52+09:00",
+        "url": "https://tass.com/economy/1969635",
+        "reportUrl": ""
+    },
+    {
+        "id": "b7baa166118bc565315d6e8e491005848a04b92183ea5d271d9be55b243027c2",
+        "title": "Attacks ahead of meeting between IAEA, Rosatom chiefs 'pressure tool,' ZNPP believes",
+        "summary": "On June 5, Ukrainian troops launched several drone attacks on the training center of the Zaporozhye nuclear power plant",
+        "source": "tass",
+        "date": "2025-06-06T18:01:09+09:00",
+        "url": "https://tass.com/world/1969633",
+        "reportUrl": ""
+    },
+    {
+        "id": "c0a9258618e61690ce9af8aa1651cce47c0310af0476df31896c13f41203a8d8",
+        "title": "Dodon calls on Sandu, Recean not to succumb to Western attempts to drag Moldova into war",
+        "summary": "The former Moldovan president criticized Dorin Recean's statement in Brussels that Russia allegedly wants to deploy 10,000 of its soldiers in Transnistria",
+        "source": "tass",
+        "date": "2025-06-06T17:53:27+09:00",
+        "url": "https://tass.com/world/1969631",
+        "reportUrl": ""
+    },
+    {
+        "id": "12c62939383dd7d6a9706edddc464274e294cf5620a65ecfbe8b134e1b25b31d",
+        "title": "Zelensky’s regime bears all hallmarks of terrorist organization — Russian senator",
+        "summary": "The official designation of Kiev regime as a terrorist organization is merely a matter of time, Andrey Klischas stated",
+        "source": "tass",
+        "date": "2025-06-06T17:42:09+09:00",
+        "url": "https://tass.com/politics/1969627",
+        "reportUrl": ""
+    },
+    {
+        "id": "9be515855a81bccf7c02d406bfc5a2655f94df21e837ebba5cae4317c148b460",
+        "title": "Russian stocks down as main trading session opens",
+        "summary": "The yuan exchange rate was up by 3.1 kopecks at 10.999 rubles.",
+        "source": "tass",
+        "date": "2025-06-06T17:40:44+09:00",
+        "url": "https://tass.com/economy/1969629",
+        "reportUrl": ""
+    },
+    {
+        "id": "52a0a8f04477e5de764d006c478e717c32340b36280b1b765128eb7e85cc4742",
+        "title": "Rosatom CEO, IAEA chief meet in Kaliningrad",
+        "summary": "The meeting is taking place at Khrabrovo Airport",
+        "source": "tass",
+        "date": "2025-06-06T17:39:50+09:00",
+        "url": "https://tass.com/economy/1969625",
+        "reportUrl": ""
+    },
+    {
+        "id": "6135482966c45ca53bd03bf2f6869b9bb2e8ddecf0bc0f13f3a54f2aaf6e50b1",
+        "title": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone",
+        "summary": "Maxim Pukhov stressed that the hotel was non-operational, so no one was injured",
+        "source": "tass",
+        "date": "2025-06-06T17:22:03+09:00",
+        "url": "https://tass.com/emergencies/1969621",
+        "reportUrl": ""
+    },
+    {
+        "id": "45bcb019ef755ebf3eb6bdacb1a4076659162b730a0392ca8863bcccecb0b2c5",
+        "title": "Ukrainian army retreating from Komar community in western Donetsk region",
+        "summary": "The Ukrainian military tried to deploy reserves to that community but most of them were destroyed by Russia’s air strikes, the source added",
+        "source": "tass",
+        "date": "2025-06-06T17:20:31+09:00",
+        "url": "https://tass.com/politics/1969619",
+        "reportUrl": ""
+    },
+    {
+        "id": "bb3d1b40e8fc581e6c704d7140d5129535e038557ce0744fdd5988caac6195bf",
+        "title": "Putin enjoys strong support among Russian people, latest poll shows",
+        "summary": "\"When asked directly if they trusted Putin, 80% of participants responded affirmatively,\" the service said",
+        "source": "tass",
+        "date": "2025-06-06T17:16:22+09:00",
+        "url": "https://tass.com/politics/1969617",
+        "reportUrl": ""
+    },
+    {
+        "id": "6188898996149643dd6c8585f63ee91dbb0ff7de99af18a8d3b9507d98afbe49",
+        "title": "Orban sees EU bracing for another decade of countering Russia amid proxy war in Ukraine",
+        "summary": "Commenting on the Ukraine crisis, the Hungarian PM said that Brussels viewed Ukraine as \"the first line of European defense\" where pan-European interests were currently being defended",
+        "source": "tass",
+        "date": "2025-06-06T16:52:46+09:00",
+        "url": "https://tass.com/world/1969613",
+        "reportUrl": ""
+    },
+    {
+        "id": "a7f56cb131434f520d2a9a9b03bbe9267493bf5f2740e878841a9c62b18cfe89",
+        "title": "Death toll in Ukrainian attack on Kursk Region's Rylsk climbs to two",
+        "summary": "Governor Alexander Khinshtein said that an 83-year-old woman died in hospital",
+        "source": "tass",
+        "date": "2025-06-06T16:48:20+09:00",
+        "url": "https://tass.com/emergencies/1969611",
+        "reportUrl": ""
+    },
+    {
+        "id": "50028960efb2e0499dc5ee6ee9124276b621be1528a7d1d3bede8b818b9ede7e",
+        "title": "Russia’s FAB bomb wipes out Ukrainian army platoon in southwestern Donetsk region",
+        "summary": "The strikes by Russian forces destroyed a considerable part of the Ukrainian army’s battalion deployed to hold defense in that frontline area",
+        "source": "tass",
+        "date": "2025-06-06T16:43:48+09:00",
+        "url": "https://tass.com/politics/1969609",
+        "reportUrl": ""
+    },
+    {
+        "id": "c6c6b8cbe8883b079a6fddfa0ea68030a7610dbac94e81d1052cf1d404763d81",
+        "title": "Russia to defend rights of Russian speakers in Ukraine to resolve crisis, says Lavrov",
+        "summary": "Respect for the Russian language, the great culture created on its basis, and the people who speak it are very important for Russia, the Russian foreign minister said",
+        "source": "tass",
+        "date": "2025-06-06T16:38:53+09:00",
+        "url": "https://tass.com/politics/1969607",
+        "reportUrl": ""
+    },
+    {
+        "id": "c2e9c810919d919d0ec467bad13c87d48526fdb634b262779e792a7e697451d6",
+        "title": "No basis for return to START now, scenario increasingly unrealistic — MFA",
+        "summary": "According to Sergey Ryabkov, it would take rebuilding Russian-US relations from rubble to reset the START Treaty",
+        "source": "tass",
+        "date": "2025-06-06T16:26:59+09:00",
+        "url": "https://tass.com/politics/1969605",
+        "reportUrl": ""
+    },
+    {
+        "id": "8c27e8c732e1b4a4927c0dbb6d8ea3e60c5e34da00b6c410183bd98ef000521a",
+        "title": "US Golden Dome project could obstruct arms control, senior Russian diplomat warns",
+        "summary": "Russia is not the only country to see the problem here, Sergey Ryabkov emphasized",
+        "source": "tass",
+        "date": "2025-06-06T16:22:53+09:00",
+        "url": "https://tass.com/politics/1969603",
+        "reportUrl": ""
+    },
+    {
+        "id": "6b174cef00abf72511db893bfa7505701405e2e02694183a7c101a84485df8e3",
+        "title": "Over 80% of Russians trust Putin — poll",
+        "summary": "The majority also endorsed of the president’s job performance",
+        "source": "tass",
+        "date": "2025-06-06T16:15:52+09:00",
+        "url": "https://tass.com/society/1969599",
+        "reportUrl": ""
+    },
+    {
+        "id": "1bcadd3d82b313179527836d66e8e5190a8a6359ecc22d340671a3f3244127c1",
+        "title": "Gazprom files new lawsuit against Naftogaz of Ukraine in Russian court",
+        "summary": "The lawsuit was filed in the Arbitration Court of St. Petersburg and the Leningrad Region",
+        "source": "tass",
+        "date": "2025-06-06T16:02:47+09:00",
+        "url": "https://tass.com/economy/1969591",
+        "reportUrl": ""
+    },
+    {
+        "id": "bc5713f6d518f9554e260a3a875f6cbcfc77684d60f7d35de1b48479646f67e0",
+        "title": "FACTBOX: Ukrainian UAVs attacks Russian regions in night hours",
+        "summary": "The drone attack sparked a fire at a factory in the Saratov Region's Engels",
+        "source": "tass",
+        "date": "2025-06-06T15:34:45+09:00",
+        "url": "https://tass.com/emergencies/1969585",
+        "reportUrl": ""
+    },
+    {
+        "id": "59707cb42c83e8504719f8745c09726736917849a662d94893ca39a45ab1518b",
+        "title": "MOEX Index down 0.16% as morning trading session opens",
+        "summary": "By 7:10 a.m. Moscow time, the MOEX Index had moved to the positive territory as it traded at 2,857.88 points",
+        "source": "tass",
+        "date": "2025-06-06T15:24:05+09:00",
+        "url": "https://tass.com/economy/1969581",
+        "reportUrl": ""
+    },
+    {
+        "id": "c546c001303ebe75fcf5925ba84698f88e4470cf8bb16eb96c7ef5e8a5ae01b2",
+        "title": "Belgorod Region governor reports blown-up railroad tracks, no injuries",
+        "summary": "By now, train services on that sector have resumed",
+        "source": "tass",
+        "date": "2025-06-06T15:15:16+09:00",
+        "url": "https://tass.com/emergencies/1969579",
+        "reportUrl": ""
+    },
+    {
+        "id": "bf2814d3e4e2bdee5cfca9cad2f5d8a1e3193ad3f4dda7073e29e4a5c38ff6b0",
+        "title": "PREVIEW: President Putin to chair session of National Projects’ Council",
+        "summary": "The event’s agenda will be topped by the launch of new projects, which are aimed at achieving Russia's national development goals for the period up to 2030 and in the perspective up to 2036",
+        "source": "tass",
+        "date": "2025-06-06T14:51:59+09:00",
+        "url": "https://tass.com/economy/1969577",
+        "reportUrl": ""
+    },
+    {
+        "id": "310fa9b822bb3d8110ae6f403483e23c1c9417525546ce0de5c1364800c6f9f5",
+        "title": "Ukraine’s Zelensky turns terrorism into ideology of his country — Russian lawmaker",
+        "summary": "\"Zelensky is personally responsible for terrorist attacks that lead to the deaths of civilians,\" Vyacheslav Volodin said",
+        "source": "tass",
+        "date": "2025-06-06T14:35:40+09:00",
+        "url": "https://tass.com/politics/1969575",
+        "reportUrl": ""
+    },
+    {
+        "id": "59eb5796143ef95b01196c926cb08ba89f32ba1fe22894ab71f5e6bf4fe35152",
+        "title": "Golden Dome missile shield project turns space into arena of armed confrontation — Ryabkov",
+        "summary": "Russia’s senior diplomat stressed that such US actions provoke escalation of tensions and an arms race in space paves the way for mutual distrust as well as for serious obstacles to cooperation on inter-state level regarding the peaceful exploration of space",
+        "source": "tass",
+        "date": "2025-06-06T13:30:07+09:00",
+        "url": "https://tass.com/politics/1969565",
+        "reportUrl": ""
+    },
+    {
+        "id": "9e3d1f61d58e0c2509bbe75af3bac8afbe8973ca36fb23b16d5661b9c7fb6e33",
+        "title": "At least 12 children injured in bus accident in Russia’s Far East",
+        "summary": "According to preliminary data, the bus brake system failed",
+        "source": "tass",
+        "date": "2025-06-06T12:19:57+09:00",
+        "url": "https://tass.com/emergencies/1969563",
+        "reportUrl": ""
+    },
+    {
+        "id": "eb6b027ea66fb450cf001a7b008dc87fc11372b7c8e54f723226d2ff097eb2a7",
+        "title": "Air defenses down 10 Ukrainian drones targeting Moscow — Mayor Sobyanin",
+        "summary": "\"Emergency services currently at work where the debris of the destroyed UAVs landed,\" Moscow mayor added",
+        "source": "tass",
+        "date": "2025-06-06T11:29:52+09:00",
+        "url": "https://tass.com/emergencies/1969559",
+        "reportUrl": ""
+    },
+    {
+        "id": "80f9834cfae287f6943dbf14a09818d919ac3fd1e56c1954fae3abd116d356d4",
+        "title": "UK engaged in search of external enemy amid domestic economic problems — diplomat",
+        "summary": "\"This story is as old as the world,\" Russian Ambassador to London Andrey Kelin noted",
+        "source": "tass",
+        "date": "2025-06-06T10:31:15+09:00",
+        "url": "https://tass.com/politics/1969553",
+        "reportUrl": ""
+    },
+    {
+        "id": "1a094b7cc3a73275b233b7081e3b976cd2267a9901c41d5b3b3c35dbeb7f1188",
+        "title": "SpaceX may decommission ISS-bound Dragon spacecraft after Trump’s statements — Musk",
+        "summary": "\"In light of the President’s statement about cancellation of my government contracts, SpaceX will begin decommissioning its Dragon spacecraft immediately,\" Musk wrote",
+        "source": "tass",
+        "date": "2025-06-06T09:25:43+09:00",
+        "url": "https://tass.com/world/1969549",
+        "reportUrl": ""
+    },
+    {
+        "id": "3f5eec1a066ea0d3219d9cfa8a742a25f2eff06999317aaf5321de093de822bf",
+        "title": "Israel delivers 17 strikes on Beirut’s southern suburbs — TV",
+        "summary": "According to the report, the city’s southern outskirts were attacked by fighter jets and drones",
+        "source": "tass",
+        "date": "2025-06-06T06:15:03+09:00",
+        "url": "https://tass.com/world/1969541",
+        "reportUrl": ""
+    },
+    {
+        "id": "70c9698374278dd009053f75e8e7d680ce372ffe3b47b196d049f58249e5f243",
+        "title": "Russia, Chad reaffirm plans to step up political dialogue — MFA",
+        "summary": "According to the Russian Foreign Ministry, the meeting was initiated by the African nation’s envoy",
+        "source": "tass",
+        "date": "2025-06-06T06:08:36+09:00",
+        "url": "https://tass.com/politics/1969539",
+        "reportUrl": ""
+    },
+    {
+        "id": "b6bd3300f6ce135e5b37087773cc8083a1ea9dc177e9ac0ddc95b7f98d3e9362",
+        "title": "US gave Ukraine all weapons promised by Biden, former Ukrainian president says",
+        "summary": "According to Pyotr Poroshenko, Ukraine has until the end of the year to find an additional $12 billion to finance military needs",
+        "source": "tass",
+        "date": "2025-06-06T06:00:19+09:00",
+        "url": "https://tass.com/world/1969537",
+        "reportUrl": ""
+    },
+    {
+        "id": "32743f4ebacfefffe01407d922952dd2661edf9c1ef0c68892fd523ef2a5877a",
+        "title": "Musk says Trump should be impeached",
+        "summary": "He also warned that the US economy would face a recession in the second half of 2025 as a result of US president's tariff policies",
+        "source": "tass",
+        "date": "2025-06-06T05:53:38+09:00",
+        "url": "https://tass.com/world/1969535",
+        "reportUrl": ""
+    },
+    {
+        "id": "d64a14a15202f917643496475c173050aed4a6f325e91d4f77c20d5fb46d78eb",
+        "title": "Israel strikes Hezbollah targets in Beirut suburbs — IDF",
+        "summary": "Prior to that, the Israeli army issued a warning for this neighborhood, telling residents to leave their homes immediately",
+        "source": "tass",
+        "date": "2025-06-06T05:47:07+09:00",
+        "url": "https://tass.com/world/1969533",
+        "reportUrl": ""
+    },
+    {
+        "id": "dc4937f9d6d85a1bb461114a3a284e410c76b1c70471047ab0800f2575e9d121",
+        "title": "Doctors examine 3 children whose mother died in shelling of Rylsk in Kursk Region",
+        "summary": "According to Alexander Khinshtein, the children will be promptly provided with clothing and money to buy other necessities",
+        "source": "tass",
+        "date": "2025-06-06T05:18:16+09:00",
+        "url": "https://tass.com/emergencies/1969525",
+        "reportUrl": ""
+    },
+    {
+        "id": "fc7cbc89843f14ea467a1edc9e090500ed11fcdbf338c1a7aa695ead7913c868",
+        "title": "Hamas did not reject Witkoff’s latest proposal on Gaza, leader says",
+        "summary": "\"We did not reject the proposal but made some amendments\", Khalil al-Hayya said",
+        "source": "tass",
+        "date": "2025-06-06T05:17:27+09:00",
+        "url": "https://tass.com/world/1969523",
+        "reportUrl": ""
+    },
+    {
+        "id": "f4b0a048b8ce1d11a37626391dd5438c469552c292c5e302ad910ce766523bd7",
+        "title": "Uzbekistan qualifies for FIFA world cup for the first time",
+        "summary": "Uzbekistan is the runner-up in Group A with 18 points",
+        "source": "tass",
+        "date": "2025-06-06T05:14:24+09:00",
+        "url": "https://tass.com/sports/1969521",
+        "reportUrl": ""
+    },
+    {
+        "id": "4afae9dd49be79cab6a3d0b347a892535b913b53d9f9ed27d90b7f323d057ec2",
+        "title": "Trump says Musk 'went crazy' while leading DOGE",
+        "summary": "The president also threatened to terminate all government contracts with Musk’s companies and cancel all subsidies",
+        "source": "tass",
+        "date": "2025-06-06T05:12:24+09:00",
+        "url": "https://tass.com/world/1969519",
+        "reportUrl": ""
+    },
+    {
+        "id": "db7c61530eac9b84edcdcdc1811c46d0ce7ed7cd62864ebf0a153d734b9c4c3f",
+        "title": "Almost one in three Gaza residents displaced since end of ceasefire — UN",
+        "summary": "According to the agency, the Israeli army has issued 35 displacement orders since military operations resumed",
+        "source": "tass",
+        "date": "2025-06-06T05:05:25+09:00",
+        "url": "https://tass.com/world/1969515",
+        "reportUrl": ""
+    },
+    {
+        "id": "841ca42073d812964ecf459464a206717aca0a255b8f09a8abf727d73b5152a2",
+        "title": "Drone incidents at NPPs pose nuclear risk, must stop — IAEA chief",
+        "summary": "Employees undergo both initial and advanced training there, and emergency response drills are also held at the site",
+        "source": "tass",
+        "date": "2025-06-06T04:47:04+09:00",
+        "url": "https://tass.com/world/1969513",
+        "reportUrl": ""
+    },
+    {
+        "id": "92e72ebf9f06ee25fdd8bdef69fe7ccc5da1c589deb64e65dc5cdc405da309b1",
+        "title": "IAEA inspectors report hearing gunfire at ZNPP, presumably targeting drones — IAEA chief",
+        "summary": "On Thursday, Ukrainian troops launched several drone attacks on the training center of the Zaporozhye nuclear power plant, housing the world’s sole full-scale reactor hall simulator",
+        "source": "tass",
+        "date": "2025-06-06T04:46:09+09:00",
+        "url": "https://tass.com/world/1969511",
+        "reportUrl": ""
+    },
+    {
+        "id": "d52ee1b1b38ab32aad73713dc9bc66d37d14115fb81d331e3619b87cd1c92899",
+        "title": "Over 90% of families in Gaza have no money to buy food — UN",
+        "summary": "OCHA points out that \"supplies continue to dwindle, as what is allowed into Gaza is merely a trickle\"",
+        "source": "tass",
+        "date": "2025-06-06T04:28:00+09:00",
+        "url": "https://tass.com/world/1969505",
+        "reportUrl": ""
+    },
+    {
+        "id": "c17f4426977016cc452951b4669ca2b01fbbcf48d13354a153d9be50011b2701",
+        "title": "Lebanese forces dismantle more than 500 military installations in country’s south — PM",
+        "summary": "According to the official, Lebanon \"will not be able to achieve stability if Israel continues its aggression against it\"",
+        "source": "tass",
+        "date": "2025-06-06T04:26:51+09:00",
+        "url": "https://tass.com/world/1969499",
+        "reportUrl": ""
+    },
+    {
+        "id": "858cddc78ca33f6d927fdb92b4b637a1de07f1e537d508103edc7384fb1e9b71",
+        "title": "Musk claims Trump would not have won presidency without him",
+        "summary": "The world's richest man couldn't contain his animus in responding to Trump's remarks that he was \"disappointed\" in him",
+        "source": "tass",
+        "date": "2025-06-06T04:12:29+09:00",
+        "url": "https://tass.com/world/1969497",
+        "reportUrl": ""
+    },
+    {
+        "id": "774b380ced43ade216fb62276ae7261c4c72e7ba539deae65394d4595f17eb96",
+        "title": "Far Eastern terminal to double transshipment in Vanino port",
+        "summary": "Test shipments showed that the company can transship the volume of 32.8 mln metric tons and even more, Director of the company Vladimir Dolgopolov said",
+        "source": "tass",
+        "date": "2025-06-06T03:58:40+09:00",
+        "url": "https://tass.com/economy/1969495",
+        "reportUrl": ""
+    },
+    {
+        "id": "5852cd3471681885c269e389c2547822644ef10abef41aca2b809e14179c0f87",
+        "title": "Russian stock market indices mixed on Thursday — market data",
+        "summary": "The MOEX Russia Index ticked up by 0.7% to 2,856.61 points, while the RTS Index lost 0.1% to 1,137.28 points",
+        "source": "tass",
+        "date": "2025-06-06T03:50:00+09:00",
+        "url": "https://tass.com/economy/1969493",
+        "reportUrl": ""
+    },
+    {
+        "id": "9f6e9c9aadba427542c1f8a9204211b8277ae835fcda74e8b4fe5c3168a8b8e0",
+        "title": "Russian MFA says UK uses British Council to erode sovereignty of countries",
+        "summary": "According to Maria Zakharova, following the start of the special military operation, the British Council acted in lockstep with the unprecedentedly hostile anti-Russian moves of the UK government",
+        "source": "tass",
+        "date": "2025-06-06T03:44:18+09:00",
+        "url": "https://tass.com/politics/1969489",
+        "reportUrl": ""
+    },
+    {
+        "id": "03b228aa80fd4b8638c74df7e570d733d85d7a7934a2655b3f80d8d4b4417948",
+        "title": "Israeli PM confirms enlisting Palestinian clans in Gaza to fight against Hamas",
+        "summary": "According to the statement, Israel \"is acting wisely and resolutely, and with full support from the security system, in order to achieve the main goal, which is to completely defeat the terrorist organization Hamas\"",
+        "source": "tass",
+        "date": "2025-06-06T03:31:58+09:00",
+        "url": "https://tass.com/world/1969487",
+        "reportUrl": ""
+    },
+    {
+        "id": "704632f00faa3b6918b080d65c30067052d651caa1aa9d345030647690a5ad15",
+        "title": "Nissan filed applications for trademarks in Russia — patent authority",
+        "summary": "Registration will be under classes of the International Classification of Goods and Services",
+        "source": "tass",
+        "date": "2025-06-06T03:27:38+09:00",
+        "url": "https://tass.com/economy/1969485",
+        "reportUrl": ""
+    },
+    {
+        "id": "2c9e6dcfec67826a9840c2dbc4ab85b253d2484e40e35b4673b9f61b58827423",
+        "title": "Passenger transport market in Russia down 65% in 4M 2025 — Kamaz",
+        "summary": "Regions are main consumers of Kamaz products in this market and the government provides subsidies for the procurement of passenger transport within the framework of the fleet upgrade program, where the target of 85% of the renewal is set for each region, Deputy CEO of the Russian truck maker Anton Saraikin noted",
+        "source": "tass",
+        "date": "2025-06-06T03:19:53+09:00",
+        "url": "https://tass.com/economy/1969483",
+        "reportUrl": ""
+    },
+    {
+        "id": "8b3781b387f8eab367bb2716859ece319eae37ab246aeadc9bbefd41dcb79f67",
+        "title": "Russian ambassador to UK describes Kiev’s attack on Russian airfields as escalation",
+        "summary": "Andrey Kelin added that similar attacks may involve technology and data, provided by Western countries",
+        "source": "tass",
+        "date": "2025-06-06T03:04:36+09:00",
+        "url": "https://tass.com/politics/1969479",
+        "reportUrl": ""
+    },
+    {
+        "id": "9319b0fdddff0025a6ace07ea46321d540498fbd5f87760a5122c58b6d88d8c8",
+        "title": "Azerbaijani, Russian diplomats talk Baku-Moscow relations",
+        "summary": "\"The meeting focused on political, economic, trade, humanitarian and other dimensions of Azerbaijani-Russian relations, regional and international security matters of mutual interest, as well as the post-conflict situation in the region,\" the report said",
+        "source": "tass",
+        "date": "2025-06-06T02:59:23+09:00",
+        "url": "https://tass.com/world/1969477",
+        "reportUrl": ""
+    },
+    {
+        "id": "59507c3ce031449d42a2716176ae8d45a0d5743fd003b2e6be22de93ec04b658",
+        "title": "Russian MFA warns countries against working with organizations like British Council",
+        "summary": "As Russian Foreign Ministry Spokeswoman Maria Zakharova stressed, the positions of influence that London acquires in the course of certain activities are subsequently used to meddle in the internal affairs of other countries",
+        "source": "tass",
+        "date": "2025-06-06T02:56:28+09:00",
+        "url": "https://tass.com/politics/1969473",
+        "reportUrl": ""
+    },
+    {
+        "id": "5c7c800ab080bdf8f5882bc057a627a50c41976b4b849519cefeefb32f0baa01",
+        "title": "UN comments on Trump’s threats to sanction Russia, Ukraine",
+        "summary": "Spokesperson Stephane Dujarric emphasized that the UN always feels the best way to resolve any conflict \"is through negotiations\"",
+        "source": "tass",
+        "date": "2025-06-06T02:44:22+09:00",
+        "url": "https://tass.com/world/1969471",
+        "reportUrl": ""
+    },
+    {
+        "id": "49a1a5d6ca839b5daf2d3022110480cde48bc551a077a1fb168b4d15218f12d2",
+        "title": "Trump says urged Putin against responding to Ukraine's recent strikes on Russia",
+        "summary": "According to the Russian Defense Ministry, the Kiev regime launched a terrorist attack with FPV drones on airfields in the Murmansk, Irkutsk, Ivanovo, Ryazan, and Amur regions on June 1",
+        "source": "tass",
+        "date": "2025-06-06T02:42:29+09:00",
+        "url": "https://tass.com/world/1969469",
+        "reportUrl": ""
+    },
+    {
+        "id": "25af658ed9b86e932a6d5f8fdc43679fe956bc1716e849e39acdc4c1bb8f2156",
+        "title": "Slovak PM asks that Ukraine peace language be included in EU Council final statement",
+        "summary": "In Robert Fico’s opinion, the European Union needs to exercise its own plan to end the conflict in Ukraine as soon as possible",
+        "source": "tass",
+        "date": "2025-06-06T02:34:07+09:00",
+        "url": "https://tass.com/world/1969467",
+        "reportUrl": ""
+    },
+    {
+        "id": "f514066a5236383f22473c96c367f84b19aff8a0f0f2cd7791fc35f3dbef0904",
+        "title": "Russian bishop describes Putin-pope call as long-awaited yet jolting",
+        "summary": "In Nikolay Dubinin's words, the shared desire to develop ties on the basis of common spiritual values \"was met with great joy, naturally\"",
+        "source": "tass",
+        "date": "2025-06-06T02:31:20+09:00",
+        "url": "https://tass.com/society/1969463",
+        "reportUrl": ""
+    },
+    {
+        "id": "4c7101e373fede7c8c388250ed3f23c81ce684801f294547ba441684856beab8",
+        "title": "Trump does not think Russia 'playing games' in Ukraine settlement",
+        "summary": "The US leader said this, commenting on the Russian government's statements about Ukraine",
+        "source": "tass",
+        "date": "2025-06-06T02:24:26+09:00",
+        "url": "https://tass.com/world/1969461",
+        "reportUrl": ""
+    },
+    {
+        "id": "d70f51d8c671e438b53d0cf6822a8014c0333c9c2a9ed87967696c55bccb654b",
+        "title": "US, China settle some disputed issues in trade — Trump",
+        "summary": "The US president highlighted \"very good shape with China and the trade deal\"",
+        "source": "tass",
+        "date": "2025-06-06T02:16:16+09:00",
+        "url": "https://tass.com/world/1969455",
+        "reportUrl": ""
+    },
+    {
+        "id": "ed406f3efa02459f062efe19df4a574e1ccedff7c4848d3e1c0f3c3c14c29c3b",
+        "title": "Trump, Xi agree to hold new round of trade negotiations as soon as possible",
+        "summary": "\"Both sides should effectively use the mechanism of trade and economic consultations, adhere to an equal relationship, respect each other's interests and strive for a mutually beneficial result,\" the Chinese leader pointed out",
+        "source": "tass",
+        "date": "2025-06-06T02:12:46+09:00",
+        "url": "https://tass.com/world/1969453",
+        "reportUrl": ""
+    },
+    {
+        "id": "0eebe43bcdbad909eed8d230517dc9ad2f6b3c883032b46aaffdc49a64d1b90d",
+        "title": "Kursk Region woman describes surviving violent attack by Ukrainian troops",
+        "summary": "Yelena Drugova recalled that after being wounded, she attempted to crawl toward a nearby house but was unable to reach it",
+        "source": "tass",
+        "date": "2025-06-06T02:10:15+09:00",
+        "url": "https://tass.com/society/1969451",
+        "reportUrl": ""
+    },
+    {
+        "id": "47ebedbf14a5bb534a36f17a3db052b30a23aee4dd6659f09f3db3efc478c0d9",
+        "title": "Trump says he is ready to impose sanctions on Russia, Ukraine if no peace deal is made",
+        "summary": "The US leader explained that in his view, the deadline is \"when I see the moment where it's not going to stop\"",
+        "source": "tass",
+        "date": "2025-06-06T02:07:32+09:00",
+        "url": "https://tass.com/world/1969449",
+        "reportUrl": ""
+    },
+    {
+        "id": "2c5916ed8c52016adf4a7bba2c944e93e6fb7dbb7931934a20381902a1737fca",
+        "title": "Gazrom Neft develops technologies making oil lifting cheaper",
+        "summary": "More than a dozen solutions have already been created and tested in high-speed multi-stage hydraulic fracturing, chemicals and digital tools for fracking support, and horizontal well drilling, the company added",
+        "source": "tass",
+        "date": "2025-06-06T02:06:32+09:00",
+        "url": "https://tass.com/economy/1969447",
+        "reportUrl": ""
+    },
+    {
+        "id": "c6564bd1a0ef1476b6af9a60cba1e8827da2a23a3e09fe4a523421569d74261b",
+        "title": "Gazprom Neft creates chemicals increasing oil recovery factor",
+        "summary": "The company also registered patents on modern materials for polymeric surfactant flooding",
+        "source": "tass",
+        "date": "2025-06-06T02:02:02+09:00",
+        "url": "https://tass.com/economy/1969445",
+        "reportUrl": ""
+    },
+    {
+        "id": "1b84ab4bbce88f9dc63f79e03071a42bc60cb77ae202163ce171472730ff9eae",
+        "title": "Russia deems Radio Echo activities undesirable in country",
+        "summary": "In addition to Radio Echo GmbH, the Association for Slavic, East European and Eurasian Studies, based in the US, and Austria's Institute of Humanities were included on the list",
+        "source": "tass",
+        "date": "2025-06-06T02:00:37+09:00",
+        "url": "https://tass.com/society/1969441",
+        "reportUrl": ""
+    },
+    {
+        "id": "424188baad38f3d85a94a407f18a030f9b0cf26362d8dda600a8f1994fc8225c",
+        "title": "Gas consumption in Russia rises by 5.2% in 2024 to 521.5 bcm — Gazprom",
+        "summary": "By 2030, the company expects domestic gas consumption in Russia to grow by approximately 20 bln cubic meters",
+        "source": "tass",
+        "date": "2025-06-06T01:49:52+09:00",
+        "url": "https://tass.com/economy/1969439",
+        "reportUrl": ""
+    },
+    {
+        "id": "309a119a288aa81e2e813667995a13d592966760c343ad2567551d2bc9d11e2c",
+        "title": "Russia, Iran interested in preventing tensions around Tehran’s nuclear program — MFA",
+        "summary": "According to the Russian Foreign Ministry, the parties thoroughly exchanged views on the situation around Iran’s nuclear program, particularly in light of the upcoming International Atomic Energy Agency Board of Governors meeting",
+        "source": "tass",
+        "date": "2025-06-06T01:46:28+09:00",
+        "url": "https://tass.com/politics/1969437",
+        "reportUrl": ""
+    },
+    {
+        "id": "50ff8ded4b8634e2c8e333514ae22a38175cbfe4cfaec91e2678fa16bc6f0e20",
+        "title": "Ukrainian military gassed civilians in Sudzha district, set fire to their homes — witness",
+        "summary": "Yelena Drugova explained that these events unfolded after the Russian army entered the settlement",
+        "source": "tass",
+        "date": "2025-06-06T01:42:42+09:00",
+        "url": "https://tass.com/society/1969435",
+        "reportUrl": ""
+    },
+    {
+        "id": "abb4efd3a3bccdf3c3eb86094ed0f2f55e2a5af3ac75bc8bd6a8ad2b62d06513",
+        "title": "Trump expects solution to Ukraine conflict to be found eventually",
+        "summary": "In the course of a meeting with the German chancellor, the US leader said he regularly discussed issues related to the Ukraine crisis with Friedrich Merz",
+        "source": "tass",
+        "date": "2025-06-06T01:39:12+09:00",
+        "url": "https://tass.com/world/1969433",
+        "reportUrl": ""
+    },
+    {
+        "id": "4f189129f66f032d9fefd019168a5213f33b99d346fc5a5bb7673183034874b0",
+        "title": "US blocking Gaza resolution signifies Washington's moral decay — Iranian MFA",
+        "summary": "Spokesman Esmail Baghaei said that it serves as proof of Washington's complicity in the ongoing massacres, including the killing of children, in the occupied Palestinian territories",
+        "source": "tass",
+        "date": "2025-06-06T01:36:12+09:00",
+        "url": "https://tass.com/world/1969431",
+        "reportUrl": ""
+    },
+    {
+        "id": "d752988a3271565100c7ebb74c306b779c9c7f6f55fbc1a181eb6afd992cd5af",
+        "title": "Gazprom increased gas supplies to Uzbekistan by 4.4 times in 2024",
+        "summary": "Pumping totaled 1.28 bln cubic meters as of 2023 year-end",
+        "source": "tass",
+        "date": "2025-06-06T01:16:29+09:00",
+        "url": "https://tass.com/economy/1969419",
+        "reportUrl": ""
+    },
+    {
+        "id": "43ae4ee7f1ec60894bf86f6ab7c1a155433d211b5ebac48fc729769473de10ad",
+        "title": "Russia’s declining inflation opens door to easing monetary policy, lowering key rate",
+        "summary": "President of the Russian Union of Industrialists and Entrepreneurs Alexander Shokhin still noted that companies are registering a growing number of problems, including the curtailment of investment programs and difficulties in relations with suppliers, which have led to delivery delays",
+        "source": "tass",
+        "date": "2025-06-06T01:15:54+09:00",
+        "url": "https://tass.com/economy/1969417",
+        "reportUrl": ""
+    },
+    {
+        "id": "2df142806890bbf4b5b8384b5f096b5e4a49b1fce1d7b1325c5a0233381d817a",
+        "title": "Trump says venue and date of his meeting with China’s Xi to be announced later",
+        "summary": "\"As Presidents of two Great Nations, this is something that we both look forward to doing,\" the US leader said",
+        "source": "tass",
+        "date": "2025-06-06T01:13:46+09:00",
+        "url": "https://tass.com/world/1969415",
+        "reportUrl": ""
+    },
+    {
+        "id": "f91894631ee80a63f082d36bd87d2d5cd0d00b89319c13055f28ebe23270dc89",
+        "title": "Kamaz forecasts sales of 40,000-60,000 heavy haulers in Russia this year",
+        "summary": "Even the market decline by a factor of two compared to the abnormally high year of 2023 to 60,000 units conforms to levels before the crisis, Deputy CEO of the Russian truck maker Anton Saraikin said",
+        "source": "tass",
+        "date": "2025-06-06T01:08:50+09:00",
+        "url": "https://tass.com/economy/1969411",
+        "reportUrl": ""
+    },
+    {
+        "id": "f5f4c6a81ccae22adad85a9e1ecb82e4f55e1b481ad9472bb1548ffe5ecf9b57",
+        "title": "West tries to prevent Russia's return to ECOSOC with pressure — Foreign Ministry",
+        "summary": "\"The Russian application was supported by two thirds of the UN member states participating in the vote,\" the ministry said in a statement",
+        "source": "tass",
+        "date": "2025-06-06T01:07:44+09:00",
+        "url": "https://tass.com/politics/1969409",
+        "reportUrl": ""
+    },
+    {
+        "id": "38d4a05aa103a063b21ad13529e52ff36991aad28cf472ab9a15265a33812010",
+        "title": "People in seized Kursk Region village spent nights in bushes, eyewitness says",
+        "summary": "The man recounted that mornings started to get chilly in the fall, so the family went back to live in their house",
+        "source": "tass",
+        "date": "2025-06-06T01:06:17+09:00",
+        "url": "https://tass.com/society/1969407",
+        "reportUrl": ""
+    },
+    {
+        "id": "f72f3881c82f28fc5b409567e8bf9eca53e8e4c942b279eb981e13ec534ba6f2",
+        "title": "Traces of electric shock devices found on bodies of killed civilians in Kursk Region",
+        "summary": "Yelena Zhadanova, head of the Porechnoye village council in Sudzha, also reported that during the occupation, Ukrainian soldiers restricted the movement of Porechnoye residents, with FPV drones constantly flying overhead, endangering their lives",
+        "source": "tass",
+        "date": "2025-06-06T01:03:43+09:00",
+        "url": "https://tass.com/society/1969403",
+        "reportUrl": ""
+    },
+    {
+        "id": "d253e56b684d357cea482ed73d1039cad32764408ef722dce9cbc5a94822f6ed",
+        "title": "Over 1.6 mln Muslims performing Hajj pilgrimage to Mecca in 2025",
+        "summary": "Of this number, 1,506,576 men and women arrived to the Kingdom from other countries, Saudi Arabia’s General Authority for Statistics reported",
+        "source": "tass",
+        "date": "2025-06-06T00:59:58+09:00",
+        "url": "https://tass.com/society/1969399",
+        "reportUrl": ""
+    },
+    {
+        "id": "4084ec4f41b2d8579a4e83a4e461218573a631360c3dafa9af3720fd9acdbaa1",
+        "title": "Authorities eyeing targeted support for coal businesses",
+        "summary": "The deferral for taxes and insurance contributions for coal companies effective from June 1 to December 1 of this year can be renewed in case the situation does not improve",
+        "source": "tass",
+        "date": "2025-06-06T00:49:37+09:00",
+        "url": "https://tass.com/economy/1969393",
+        "reportUrl": ""
+    },
+    {
+        "id": "8fed42adf21040c8170adf4d0ff2de7ce36d50e3543cda703fec82b848dbb8c7",
+        "title": "Germany issues arrest warrant for Russian man suspected of supporting ISIS",
+        "summary": "On February 20, the man wanted to fly from Berlin to a region where the group is active to join it and undergo combat training",
+        "source": "tass",
+        "date": "2025-06-06T00:43:09+09:00",
+        "url": "https://tass.com/society/1969387",
+        "reportUrl": ""
+    },
+    {
+        "id": "61be391ef2ac538d43713660b55dcd6a4f5e20772d6b0a71d05d1930b4c167ec",
+        "title": "Ukrainian attack kills civilian, leaves another six injured in Russia’s Kursk Region",
+        "summary": "Acting Governor Alexander Khinshtein said the attack left three underage children without their mother, and the authorities will provide the family with all necessary assistance",
+        "source": "tass",
+        "date": "2025-06-06T00:39:10+09:00",
+        "url": "https://tass.com/emergencies/1969383",
+        "reportUrl": ""
+    },
+    {
+        "id": "5b60c5c6be6255ec854bd17cdb6555fa699b805ef94384da4c10d989b21b2eec",
+        "title": "Palestinian parliament speaker condemns US for vetoing resolution on Palestine",
+        "summary": "Chairman Rawhi Fattouh underlined that \"the US is becoming a direct accomplice in these crimes, and bears the political and moral responsibility for the ongoing humanitarian catastrophe in the Gaza Strip\"",
+        "source": "tass",
+        "date": "2025-06-06T00:36:53+09:00",
+        "url": "https://tass.com/world/1969379",
+        "reportUrl": ""
+    },
+    {
+        "id": "225780ac1ae9aeb62d0722f09ece0c1d8cb574c52c7380a80c4131635be01518",
+        "title": "In Kursk villages, many locals lost lives to Ukrainian grenades trying to shield families",
+        "summary": "Yelena Zhadanova, head of the Porechnoye village council, said the Ukrainian soldiers \"didn’t give anyone even the slightest chance to survive\"",
+        "source": "tass",
+        "date": "2025-06-06T00:34:53+09:00",
+        "url": "https://tass.com/society/1969377",
+        "reportUrl": ""
+    },
+    {
+        "id": "f7d5c1af9c962b25acc7f0688b73bf0055684b67e286e6d5447201c74ee057ac",
+        "title": "It is essential to sustain Russia’s economic growth at least at 2%",
+        "summary": "President of the Russian Union of Industrialists and Entrepreneurs Alexander Shokhin stressed the importance of accounting for external factors that could adversely impact the economy",
+        "source": "tass",
+        "date": "2025-06-06T00:32:02+09:00",
+        "url": "https://tass.com/economy/1969375",
+        "reportUrl": ""
+    },
+    {
+        "id": "b46a8080a5c3745ecf9a07e2279fa8fe9be64300290e0d0587126e598ea10eb8",
+        "title": "Bank of Russia sets official dollar rate at 79.13 rubles for June 6",
+        "summary": "The official euro rate was increased by 1.35 rubles to 90.6635 rubles",
+        "source": "tass",
+        "date": "2025-06-06T00:29:33+09:00",
+        "url": "https://tass.com/economy/1969373",
+        "reportUrl": ""
+    },
+    {
+        "id": "0bfe379f24e1c16d6711928291c4518ce6a91a31afb0da8716179ee4c5130664",
+        "title": "Victim of terror attack in St. Petersburg wins $1,900 lawsuit against perpetrator Trepova",
+        "summary": "As follows from the case file, the defendant did not repay an earlier loan",
+        "source": "tass",
+        "date": "2025-06-06T00:29:04+09:00",
+        "url": "https://tass.com/society/1969371",
+        "reportUrl": ""
+    },
+    {
+        "id": "7144f98dc9530e8bbebedd484019897712afe95531015d051c24c2e85895d678",
+        "title": "Georgian politician demands EU bureaucrats respect republic's sovereignty",
+        "summary": "Kakha Kaladze reiterated that Georgia is open to allying itself with other countries, but only if both sides want this",
+        "source": "tass",
+        "date": "2025-06-06T00:27:06+09:00",
+        "url": "https://tass.com/world/1969367",
+        "reportUrl": ""
+    },
+    {
+        "id": "b67bc1c43df94715fd150b9fcaf74e37f58109dddb87b2d1a858152768b7bbe5",
+        "title": "10,000th Haval vehicle assembled in Kaluga Region",
+        "summary": "According to Governor Vladislav Shapsha, the plant will eventually transition to full-cycle production, including welding and painting",
+        "source": "tass",
+        "date": "2025-06-06T00:25:00+09:00",
+        "url": "https://tass.com/economy/1969369",
+        "reportUrl": ""
+    },
+    {
+        "id": "ef0b9eef7285e321bb445ac3047c3eb52c7c280d359d9e1c2799afa8e9e8c5c8",
+        "title": "Donetsk official urges reporters to intensify efforts to counter Western media attacks",
+        "summary": "According to Yelena Nikitina, Donbass residents have many stories that the world should know, including stories about the crimes of the Kiev regime, so she suggested that reporters give them coverage",
+        "source": "tass",
+        "date": "2025-06-06T00:21:58+09:00",
+        "url": "https://tass.com/society/1969363",
+        "reportUrl": ""
+    },
+    {
+        "id": "fc97664b2cb0755a7d68aa4621c2ce1f2c8935712aa1cdf586dacd6304a2b2d7",
+        "title": "Clean Arctic project to focus on World War II memorial locations",
+        "summary": "Organizers expect that more than 2,000 volunteers will participate in the project in the current year",
+        "source": "tass",
+        "date": "2025-06-06T00:19:53+09:00",
+        "url": "https://tass.com/economy/1969347",
+        "reportUrl": ""
+    },
+    {
+        "id": "a31d5bff259c10eb59243c875b40137a9e5e0fdb3bd3a13b9816566213e4b138",
+        "title": "Slovak parliament mandates Cabinet vote against new anti-Russian sanctions — news agency",
+        "summary": "The Slovak National Party, which is a member of the government coalition in the country, initiated the measure",
+        "source": "tass",
+        "date": "2025-06-06T00:18:13+09:00",
+        "url": "https://tass.com/world/1969355",
+        "reportUrl": ""
+    },
+    {
+        "id": "7e327a9fd475955f308f00957952369e661896aba684a5487c055274586e31e7",
+        "title": "Driving force behind key rate hike shielding economy from overheating reached",
+        "summary": "According to President of the Russian Union of Industrialists and Entrepreneurs Alexander Shokhin, the intention was not necessarily to achieve the 4% inflation target by mid-2025",
+        "source": "tass",
+        "date": "2025-06-06T00:17:51+09:00",
+        "url": "https://tass.com/economy/1969345",
+        "reportUrl": ""
+    },
+    {
+        "id": "1a0eec91725cb586c752f12cfc10dcaccb50665d70f323f5b5dfe1e0d51f4e1a",
+        "title": "Environment volunteers to have key events in Karelia along Kochkoma - Reboly road",
+        "summary": "Volunteers will restore graves, sculptures, and structures adjacent to mass graves, and will remove moss where necessary",
+        "source": "tass",
+        "date": "2025-06-06T00:17:18+09:00",
+        "url": "https://tass.com/economy/1969351",
+        "reportUrl": ""
+    }
+]
