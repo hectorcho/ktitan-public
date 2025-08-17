@@ -877,22 +877,22 @@
                 "date": "2025-06-12 01:08:00"
             }
         ],
-        "url": "https://gall.dcinside.com/board/view/?id=army&no=1868606&exception_mode=recommend&list_num=100&page=1",
+        "url": "",
         "fakeProbability": 90,
         "resolved": false,
-        "resolutionUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/community_training_resolution_2025-08-18.md"
+        "resolutionUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/community/resolutions/0.md"
     },
     {
         "source": "일간베스트",
         "categories": "육군",
         "id": "1868655",
-        "title": "진급 때문에 공군 인기 더 오르겠네",
-        "author": "육갤러",
-        "date": "2025-06-01 17:14:19",
-        "summary": "극단적으로 일병에서 진급 못하고 전역날 병장 단 육군 전역자랑 정상진급한 공군 병장이랑 월급 거의 900만 원 차이나는데 ㅈㄴ 말도 안 됨\n공군은 진급에 체력 비중 ㅈㄴ 낮고 사실상 지금도 준자동진급 수준이라 진급누락 흔하진 않은데 육군은 하나라도 불합이면 얄짤없이 컷이라..\n진지하게 자동진급 폐지는 문제 있다고 봄\n지금도 후임한테 계급 역전되면 은근히 폐급 이미지 생기는데 일병 15호봉?\n월급도 문제지만 100% 자살소동 이런거 ㅈㄴ 늘어날듯\n차라리 일병 상병 기간을 늘리던가 표때문에 월급 인상 저질러놓고 병장 월급이 200이니 간부보다 많이 받니 선동은 ㅈㄴ 하다가 \"군 전투력 강화를 위해 자동진급 폐지합니다ㅎㅎ\" 이러는 건 진짜 아니라고 봄",
-        "views": 5670,
-        "likes": 58,
-        "comments": 18,
+        "title": "자주포 포신에 얼굴뼈 으스러져 대수술 받은 병사 현부심 최종 탈락",
+        "author": "치핵무현",
+        "date": "2025-08-17T08:31:33+09:00",
+        "summary": "3줄 요약 \n1. 군대 훈련 참가함 \n2. 포신 ( 탱크 포탄 나가는 길쭉한곳 ) 에 끼여서 안와골절 당함 \n3. 현부심 통과 안되고  공익 판정남",
+        "views": 38770,
+        "likes": 105,
+        "comments": 13,
         "replies": [
             {
                 "author": "ㅇㅇ(223.39)",
@@ -985,21 +985,21 @@
                 "date": "2025-06-04 19:36:48"
             }
         ],
-        "url": "https://gall.dcinside.com/board/view/?id=army&no=1868655&exception_mode=recommend&list_num=100&page=1",
-        "fakeProbability": 40,
+        "url": "https://www.ilbe.com/view/11594289792",
+        "fakeProbability": 20,
         "resolved": false,
         "resolutionUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/counter_measure.md"
     },
     {
         "source": "fm코리아",
-        "categories": "육군",
-        "id": "1868925",
-        "title": "앞으로 진누되면 전역 시키지말라.",
-        "author": "육갤러",
-        "date": "2025-06-02 10:43:31",
-        "summary": "최대 36개월간 군생활 하는거 어떻누?\n진누 되는 애들은 애들대로 더 열심히 진급 해야지 동기부여 줄 수 있고\n국방은 든든해지고\n진누 안된 애들은 바로바로 예비역 돌리면 되는거고\n나는 대찬성이다.",
-        "views": 3999,
-        "likes": 53,
+        "categories": "정치/시사",
+        "id": "8797169362",
+        "title": "마포 화재에 아들 잃고 절규하는 부친…그 순간 이재명 대통령은 영화관서 ‘웃고 악수하며 셀카 삼매경’",
+        "author": "hour1234",
+        "date": "2025-08-17T15:36:00+09:00",
+        "summary": "",
+        "views": 6256,
+        "likes": 66,
         "comments": 11,
         "replies": [
             {
@@ -1058,7 +1058,7 @@
                 "date": "2025-06-05 07:58:41"
             }
         ],
-        "url": "https://gall.dcinside.com/board/view/?id=army&no=1868925&exception_mode=recommend&list_num=100&page=1",
+        "url": "https://www.fmkorea.com/8797169362",
         "fakeProbability": 20,
         "resolved": false,
         "resolutionUrl": "https://raw.githubusercontent.com/hectorcho/ktitan-public/refs/heads/main/no_resolution.md"
