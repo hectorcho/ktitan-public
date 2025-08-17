@@ -1,0 +1,100 @@
+[
+    {
+        "condition": "deteriorated"
+        "date": "2021-04-15T00:00:00+00:00"
+        "title": "The Russian Military Buildup on Ukraine's Border | An Expert Analysis"
+        "summary": "러시아의 군사력 증강은 상대적인 안정 상태에서 전면적인 국가 간 분쟁의 신뢰성 있는 위협으로 전환되었습니다.",
+        "url": "https://www.wilsoncenter.org/article/russian-military-buildup-ukraines-border-expert-analysis"
+    },
+    {
+        "condition": "critical",
+        "date": "2021-07-12T00:00:00+00:00",
+        "title": "On the Historical Unity of Russians and Ukrainians",
+        "summary": "블라디미르 푸틴 러시아 대통령은 러시아인과 우크라이나인이 '단일한 전체'이며 우크라이나의 국가 지위는 역사적 허구라고 주장하는 장문의 에세이를 발표했습니다. 이 문서는 향후 군사 행동의 기초적인 이데올로기적 정당성을 제공하며 우크라이나의 주권을 인정하는 외교적 해결 가능성을 근본적으로 부정했습니다.",
+        "url": "http://en.kremlin.ru/events/president/news/66181"
+    },
+    {
+        "condition": "deteriorated",
+        "date": "2021-12-03T00:00:00+00:00",
+        "title": "U.S. Public Intelligence Disclosures",
+        "summary": "미국은 러시아의 우크라이나 군사 공격 계획에 대한 정보를 공개하며 허위 정보 작전을 선제적으로 차단하기 위한 억제 전략을 펼쳤습니다. 정보전에서는 전술적으로 성공했으나, 이념적 동기에 따라 움직이는 크렘린궁이 전쟁의 길에서 벗어나도록 설득하는 데는 실패했습니다.",
+        "url": "https://www.washingtonpost.com/national-security/russia-ukraine-invasion/2021/12/03/98a3760e-546b-11ec-8769-2f4ecdf7a2ad_story.html"
+    },
+    {
+        "condition": "deteriorated",
+        "date": "2021-12-17T00:00:00+00:00",
+        "title": "Russia Issues Demands to Lower Tensions in Europe",
+        "summary": "러시아는 우크라이나의 나토 가입 금지 및 동유럽 내 군사 배치 철회를 포함한 서방에 대한 안보 요구 사항 목록을 발표했습니다. 이러한 제안들은 모스크바가 새로운 영향권 영역을 공식화하려는 시도로 간주되어 최후통첩으로 묘사되었고, 서방 국가들에 의해 대부분 거부되었습니다.",
+        "url": "https://web.archive.org/web/20250618172748/https://www.theguardian.com/world/2021/dec/17/russia-issues-list-demands-tensions-europe-ukraine-nato?CMP=share_btn_url"
+    },
+    {
+        "condition": "deteriorated",
+        "date": "2021-12-21T00:00:00+00:00",
+        "title": "Putin Warns of Unspecified Military Response",
+        "summary": "블라디미르 푸틴은 호전적인 연설에서 서방이 '공격적인 노선'을 계속할 경우 러시아는 '균형 잡힌 군사 기술적 대응'을 취할 것이라고 경고했습니다. 이러한 수위 높은 발언은 러시아가 긴장 완화를 원치 않으며 잠재적인 침공을 준비하고 있음을 시사했습니다.",
+        "url": "https://www.theglobeandmail.com/world/article-putin-warns-of-unspecified-military-response-if-us-and-nato-continue/"
+    },
+    {
+        "condition": "unchanged",
+        "date": "2022-01-06T00:00:00+00:00",
+        "title": "Massive Protests in Kazakhstan Spur Russian Involvement",
+        "summary": "러시아는 모스크바가 주도하는 집단안보조약기구(CSTO)를 통해 카자흐스탄 내 광범위한 시위를 진압하기 위해 '평화유지군'을 파견했습니다. 백악관은 이번 불안 사태가 우크라이나를 두고 러시아와 예정된 회담 계획에 영향을 미치지 않을 것이라고 밝혔습니다.",
+        "url": "https://www.cnbc.com/2022/01/06/massive-protests-in-kazakhstan-spur-russian-involvement.html"
+    },
+    {
+        "condition": "deteriorated",
+        "date": "2022-01-10T00:00:00+00:00",
+        "title": "U.S.-Russia Talks over Ukraine ‘Useful’ but No Progress Made",
+        "summary": "제네바에서 열린 미국과 러시아 간의 외교 회담은 근본적인 의견 불일치에 대한 진전 없이 끝났는데, 미국은 나토의 문호 개방 정책을 고수했고 러시아는 자신들의 요구를 굽히지 않았기 때문입니다. 이 회담의 실패는 외교적 교착 상태를 공식화하고 군사적 충돌로의 전환을 시사했습니다.",
+        "url": "https://www.theguardian.com/us-news/2022/jan/10/ukraine-talks-us-russia-latest?CMP=share_btn_url"
+    },
+    {
+        "condition": "critical",
+        "date": "2022-01-12T00:00:00+00:00",
+        "title": "The Institutional Failure of the NATO-Russia Council",
+        "summary": "대화의 핵심 통로인 나토-러시아 이사회는 러시아의 민족주의적 서사와 나토의 자유주의적 가치 사이의 근본적인 충돌로 인해 안정적인 관계를 구축하지 못했습니다. 이러한 제도적 실패는 유럽의 안보 체계가 위기를 관리할 수 없었음을 확인시켜 주었고, 이는 충돌 가능성을 더 높였습니다.",
+        "url": "https://www.cnn.com/2022/01/12/europe/nato-russia-council-summit-ukraine-intl"
+    },
+    {
+        "condition": "deteriorated",
+        "date": "2022-01-26T00:00:00+00:00",
+        "title": "Russia's Core Demands to US and Ukraine",
+        "summary": "러시아는 우크라이나가 나토에 가입하는 것을 영구히 금지하고 나토군이 동유럽 회원국들로부터 철수하도록 하는 법적 구속력 있는 조약을 다시 한번 요구했습니다. 이러한 요구는 나토와 미국에 의해 거부되었고, 이는 소통의 추가적인 단절과 긴장된 대치 상태의 지속으로 이어졌습니다.",
+        "url": "https://www.nytimes.com/2022/01/26/us/politics/russia-demands-us-ukraine.html?smid=url-share"
+    },
+    {
+        "condition": "critical",
+        "date": "2022-02-04T00:00:00+00:00",
+        "title": "President Xi Jinping Held Talks with Russian President Vladimir Putin",
+        "summary": "시진핑 중국 국가 주석과 블라디미르 푸틴 러시아 대통령은 베이징 회담에서 '제한 없는' 전략적 파트너십을 선언했습니다. 이 만남은 러시아가 불가피한 서방의 제재를 흡수할 수 있는 중요한 외교적, 경제적 방패를 제공했으며, 침공에 대한 암묵적인 승인 역할을 했습니다.",
+        "url": "https://www.mfa.gov.cn/eng/zy/jj/bj2022/yswj/202406/t20240605_11377361.html"
+    },
+    {
+        "condition": "critical",
+        "date": "2022-02-18T12:26:00-05:00",
+        "title": "Pro-Russian Separatists Order Mass Evacuation of Eastern Ukraine",
+        "summary": "우크라이나 동부의 친러시아 분리주의 지역 지도자들은 키이우가 공격을 계획하고 있다고 비난하며 러시아로의 대규모 민간인 대피를 발표했습니다. 이러한 움직임은 전면적인 러시아 침공의 구실을 제공하기 위해 조작된 도발로 널리 간주되었습니다.",
+        "url": "https://web.archive.org/web/20250414194104/https://www.theguardian.com/world/2022/feb/18/pro-russian-separatist-order-mass-evacuation-eastern-ukraine-fear-moscow-seeking-create-pretext-invasion"
+    },
+    {
+        "condition": "critical",
+        "date": "2022-02-19T00:00:00+00:00",
+        "title": "Russia's Nuclear Exercise and Threats",
+        "summary": "러시아는 연례 전략 핵 훈련을 실시하고 자신들의 행동을 방해하려는 자들은 '전례 없는' 결과를 직면하게 될 것이라고 경고했습니다. 이러한 수위 높은 발언과 군사적 시위는 침공 몇 시간 전에 서방에 대한 최종 경고 역할을 했습니다.",
+        "url": "https://web.archive.org/web/20250403230835/https://www.bbc.co.uk/news/world-europe-60448638"
+    },
+    {
+        "condition": "critical",
+        "date": "2022-02-21T10:20:00-05:00",
+        "title": "Putin Mulls Recognizing Separatist Regions of Ukraine",
+        "summary": "블라디미르 푸틴은 자칭 도네츠크 및 루한스크 인민 공화국의 독립을 인정하기로 한 자신의 결정을 발표했습니다. 이 마지막 행위는 국제법을 위반했으며 우크라이나에 대한 전면적인 침공의 직접적인 서막이 되었습니다.",
+        "url": "https://www.cnbc.com/2022/02/21/putin-mulls-recognizing-separatist-eastern-ukrainian-regions.html"
+    },
+    {
+        "condition": "critical",
+        "date": "2022-02-22T00:00:00+00:00",
+        "title": "Putin Officially Recognizes Donetsk and Luhansk Separatist Regions",
+        "summary": "블라디미르 푸틴 러시아 대통령은 텔레비전 연설을 통해 자칭 도네츠크 인민 공화국과 루한스크 인민 공화국의 독립을 공식적으로 인정했습니다. 이 행동은 국제법 위반이었으며, 불과 며칠 후 시작된 우크라이나 전면 침공의 직접적인 서막 역할을 했습니다.",
+        "url": "https://bbc.com/news/world-europe-6046823"
+    }
+]
