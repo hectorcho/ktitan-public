@@ -7,7 +7,7 @@
     "position": [37.5665, 126.978],
     "positionDashboard": [36.35, 134.384],
     "info": "",
-    "riskScore": 52
+    "riskScore": 73
   },
   {
     "id": 1,
@@ -17,7 +17,7 @@
     "position": [40.7128, 285.994],
     "positionDashboard": [40.359, 264.121],
     "info": "",
-    "riskScore": 67
+    "riskScore": 65
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "position": [35.6764, 139.65],
     "positionDashboard": [34.066, 173.0],
     "info": "",
-    "riskScore": 50
+    "riskScore": 57
   },
   {
     "id": 3,
@@ -37,7 +37,7 @@
     "position": [39.0392, 125.7625],
     "positionDashboard": [53.345, 130.813],
     "info": "",
-    "riskScore": 80
+    "riskScore": 77
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
     "position": [55.755833, 37.617778],
     "positionDashboard": [65.0, 93.0],
     "info": "",
-    "riskScore": 67
+    "riskScore": -1
   },
   {
     "id": 6,
@@ -67,7 +67,7 @@
     "position": [25.105497, 121.597366],
     "positionDashboard": [14.0, 126.838],
     "info": "",
-    "riskScore": 60
+    "riskScore": 47
   },
   {
     "id": 7,
