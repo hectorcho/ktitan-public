@@ -1,11 +1,119 @@
 [
     {
+        "id": "d88ec17809ac6ebcec21a57a0a42c71c7dc1c6b6484bb1eb2ff3aecbb638d0e0",
+        "title": "'I'm such a feminist, but Bond has to be a guy,' says Dame Helen Mirren",
+        "summary": "The Oscar-winning actor says that the famous 007 character can't be a woman as it \"just doesn't work\".",
+        "source": "bbc",
+        "date": "2025-08-18T10:12:08+09:00",
+        "url": "https://www.bbc.com/news/articles/c1jnen9zklpo?at_medium=RSS&at_campaign=rss",
+        "reportUrl": ""
+    },
+    {
+        "id": "40070d8c2205a9722c01414bd809d6a62b8dbe3968725e4f4770556c2b0dce99",
+        "title": "The Papers: 'D-Day at White House' and 'Superman star' dies aged 85",
+        "summary": "Donald Trump's meeting with Volodymyr Zelensky and European leaders in Washington leads the UK front pages.",
+        "source": "bbc",
+        "date": "2025-08-18T09:48:05+09:00",
+        "url": "https://www.bbc.com/news/articles/cvgv1n17w4ro?at_medium=RSS&at_campaign=rss",
+        "reportUrl": ""
+    },
+    {
+        "id": "3267969855459224491239b3e7d87ea8d85e2f330a0cc30e61908b8b122f0638",
+        "title": "New wave of African pride rises in the Caribbean",
+        "summary": "From jollof rice in St Lucia to Afrobeats in Jamaica, islanders find new ways to embrace Africa.",
+        "source": "bbc",
+        "date": "2025-08-18T09:43:52+09:00",
+        "url": "https://www.bbc.com/news/articles/czxyw4w440vo?at_medium=RSS&at_campaign=rss",
+        "reportUrl": ""
+    },
+    {
+        "id": "8b612e18d502b17da09ce980b42e43688bec221b5575f6755abf5d354b46885f",
+        "title": "Frank Gardner: Talks could prove more vital for Kyiv's future than Trump-Putin summit",
+        "summary": "The Washington meeting could prove to be crucial to the future of Ukraine, and all of Europe's security.",
+        "source": "bbc",
+        "date": "2025-08-18T09:15:39+09:00",
+        "url": "https://www.bbc.com/news/articles/ckglxlx5vldo?at_medium=RSS&at_campaign=rss",
+        "reportUrl": ""
+    },
+    {
+        "id": "e817949f4e0bc192cf33ee1865ee108e68e01d83bf0aee179999f56e569fbc0a",
+        "title": "Zelensky and allies head to White House for Ukraine talks",
+        "summary": "European leaders will join Zelensky as he attends a crunch meeting with Trump on the Russia-Ukraine war.",
+        "source": "bbc",
+        "date": "2025-08-18T09:09:03+09:00",
+        "url": "https://www.bbc.com/news/articles/cm21j1ve817o?at_medium=RSS&at_campaign=rss",
+        "reportUrl": ""
+    },
+    {
+        "id": "318ae9539e65404df8bd59f4a242edf990418e0359d442ef6b845f24d4757233",
+        "title": "'Skibidi' and 'tradwife' among words added to Cambridge Dictionary",
+        "summary": "More than 6,000 new terms feature, including some relating to remote working and rich tech giants.",
+        "source": "bbc",
+        "date": "2025-08-18T08:53:34+09:00",
+        "url": "https://www.bbc.com/news/articles/ce93ygv4zzlo?at_medium=RSS&at_campaign=rss",
+        "reportUrl": ""
+    },
+    {
+        "id": "57bf9db9a1b15590181cff658d286bee8dc912d4bdeeade062c57fab91b4bef0",
+        "title": "MacIntyre 'wants to smash up clubs' as Scheffler wins",
+        "summary": "World number one Scottie Scheffler eats up Robert MacIntyre's overnight lead of four shots to win the BMW Championship.",
+        "source": "bbc",
+        "date": "2025-08-18T08:53:27+09:00",
+        "url": "https://www.bbc.com/sport/golf/articles/czxy10n1j2do?at_medium=RSS&at_campaign=rss",
+        "reportUrl": ""
+    },
+    {
+        "id": "1fde473b2566350174c5656fe1d863e21971d1fee37098e58d25871c17e99327",
+        "title": "Health v heritage: Pigeon feeding ban sparks debate in India",
+        "summary": "Feeding pigeons is common in Indian cities but is now controversial due to rising numbers and health risks.",
+        "source": "bbc",
+        "date": "2025-08-18T08:32:50+09:00",
+        "url": "https://www.bbc.com/news/articles/cvg3mj0vkzro?at_medium=RSS&at_campaign=rss",
+        "reportUrl": ""
+    },
+    {
+        "id": "ddeb5e50d32c94dc6fc5bc4c87ef7117fa416685aa2cd4fdb6b8e54061f6cb96",
+        "title": "The Green Party is at a crossroads. Is it time they get angry?",
+        "summary": "Ahead of the leadership contest next month, some are asking why they haven't better capitalised on discontent with the traditional parties, as Reform has.",
+        "source": "bbc",
+        "date": "2025-08-18T08:02:59+09:00",
+        "url": "https://www.bbc.com/news/articles/cm2kzrr4375o?at_medium=RSS&at_campaign=rss",
+        "reportUrl": ""
+    },
+    {
+        "id": "b74647f471b6491ad08c8e9d290fcf8f1e9149a0497cbec019d5f25a31400c1b",
+        "title": "Croatian ultra-nationalist mega-gig exposes divided society",
+        "summary": "Half a million people bought tickets to singer Thompson's July concert in Zagreb.",
+        "source": "bbc",
+        "date": "2025-08-18T08:00:29+09:00",
+        "url": "https://www.bbc.com/news/articles/cz60nyp3714o?at_medium=RSS&at_campaign=rss",
+        "reportUrl": ""
+    },
+    {
         "id": "d7f891751b0ed050490dd8d6aba782262faf3ce6e19cc45f3e0b430998da471b",
         "title": "Match of the Day",
         "summary": "Highlights from the first Sunday of the new Premier League season.",
         "source": "bbc",
         "date": "2025-08-18T07:59:59+09:00",
         "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+        "reportUrl": ""
+    },
+    {
+        "id": "3bc60f5511208c6fdc8299f3c59d4d4994cfc1ef8b613809fd511ead50149640",
+        "title": "Swiatek to face Paolini in Cincinnati final",
+        "summary": "Iga Swiatek powers to a straight-set win over Elena Rybakina to reach the final of the Cincinnati Open where she will face Jasmine Paolini.",
+        "source": "bbc",
+        "date": "2025-08-18T07:22:23+09:00",
+        "url": "https://www.bbc.com/sport/tennis/articles/c5y2dkje14yo?at_medium=RSS&at_campaign=rss",
+        "reportUrl": ""
+    },
+    {
+        "id": "b9dfe639f6f58ba05b19b2b8bcd2a2350379a2fc649888410c460bb013f2e59c",
+        "title": "Rahm wins LIV Golf individual title for second year",
+        "summary": "Jon Rahm is crowned as the LIV Golf individual champion for the second consecutive year, despite losing in a play-off to Sebastian Munoz in Indiana.",
+        "source": "bbc",
+        "date": "2025-08-18T07:10:19+09:00",
+        "url": "https://www.bbc.com/sport/golf/articles/c5ylxl8343vo?at_medium=RSS&at_campaign=rss",
         "reportUrl": ""
     },
     {

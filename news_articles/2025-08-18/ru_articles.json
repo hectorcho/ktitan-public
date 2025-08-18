@@ -1,5 +1,383 @@
 [
     {
+        "id": "5c8c4866de797ef1b28cbd4f810f82e1d72e7eed2e3030894d0719cc53922a90",
+        "title": "Right-wing and centrist lead in Bolivian presidential election — TV",
+        "summary": "According to the data, 31.6% of the votes went to Rodrigo Paz Pereira, while 27.1% went to Jorge Quiroga",
+        "source": "tass",
+        "date": "2025-08-18T10:07:10+09:00",
+        "url": "https://tass.com/world/2003823",
+        "reportUrl": ""
+    },
+    {
+        "id": "cdf89c54c2a04bd01bb265b870785a3b433f3687b88dc71dfd018e929bf60f00",
+        "title": "Trump says the choice of location for summit with Putin was \"major point of contention\"",
+        "summary": "Donald Trump noted that Vladimir Putin would have loved doing the meeting anywhere else but the US",
+        "source": "tass",
+        "date": "2025-08-18T09:55:37+09:00",
+        "url": "https://tass.com/world/2003821",
+        "reportUrl": ""
+    },
+    {
+        "id": "2c68c7739ec7b27b2d44d895609d178100aee404494c69cedb36ac20fe141ce2",
+        "title": "Ukraine to become large supplier of military equipment to Europe — US envoy",
+        "summary": "Ukraine will have to restore its agricultural economy, ports and infrastructure, which will require a lot of money pouring into the country primarily from Europe, US Ambassador to NATO Matt Whitaker said",
+        "source": "tass",
+        "date": "2025-08-18T09:24:45+09:00",
+        "url": "https://tass.com/world/2003819",
+        "reportUrl": ""
+    },
+    {
+        "id": "6690ea8446157c76e7546be234c22ae6bac355de53788ff3bf28cb11283c6323",
+        "title": "Number of aftershocks in Kamchatka has decreased by 40% in a week",
+        "summary": "Scientists do not rule out the possibility of another tremor with a magnitude of about five points",
+        "source": "tass",
+        "date": "2025-08-18T09:08:56+09:00",
+        "url": "https://tass.com/emergencies/2003817",
+        "reportUrl": ""
+    },
+    {
+        "id": "42e4deaa10d5fde2092f1b610d02afa9076c15d9f4a48686fb845cee1a5108ba",
+        "title": "US envoy to discuss plan for conflict resolution with Israel in Beirut — newspaper",
+        "summary": "According to the publication, Tom Barrack will hold talks on Monday with the President of the Republic Joseph Aoun, the Speaker of Parliament Nabih Berri and Prime Minister Nawaf Salam",
+        "source": "tass",
+        "date": "2025-08-18T08:40:34+09:00",
+        "url": "https://tass.com/world/2003815",
+        "reportUrl": ""
+    },
+    {
+        "id": "5338d6e53effa149beee829d16b08420b2bdf0ed74bebd51c40a4b0d4aeb1c48",
+        "title": "Thousands of Israelis gather in Tel Aviv demanding release of hostages",
+        "summary": "During the day on Sunday, up to 1 million Israelis took part in various campaigns in support of the hostages and against the expansion of the military operation in the Gaza Strip, the newspaper said",
+        "source": "tass",
+        "date": "2025-08-18T07:58:27+09:00",
+        "url": "https://tass.com/world/2003813",
+        "reportUrl": ""
+    },
+    {
+        "id": "d761c62dcad1bf7866e8ed808c874b64b7a3db765dd3730d2ebbbee4c62a46b7",
+        "title": "Russia has the right to receive same security guarantees from the West as Ukraine — envoy",
+        "summary": "Mikhail Ulyanov, Russia’s Permanent Representative at International Organizations in Vienna, emphasized that the West is making a mistake by not starting to discuss such a step with respect to Russia",
+        "source": "tass",
+        "date": "2025-08-18T07:07:22+09:00",
+        "url": "https://tass.com/politics/2003811",
+        "reportUrl": ""
+    },
+    {
+        "id": "376db88fbc411f604a2134896aecb37d56dfb571b7116cebfa261c3989e07f66",
+        "title": "Kiev troops bombard Donetsk People’s Republic 10 times over past day, one person wounded",
+        "summary": "A residential building and a civilian infrastructure facility were damaged",
+        "source": "tass",
+        "date": "2025-08-18T06:17:21+09:00",
+        "url": "https://tass.com/politics/2003807",
+        "reportUrl": ""
+    },
+    {
+        "id": "1f4f7d9062d081c8da3d6c835c803729eca2443e1f1e4a4b40965f84f180e110",
+        "title": "West not interested in ending hostilities in Ukraine — Belarusian security chief",
+        "summary": "Alexander Volfovich stressed that the jingoist policy is flourishing in Poland and in the Baltic countries, especially in Lithuania",
+        "source": "tass",
+        "date": "2025-08-18T05:59:55+09:00",
+        "url": "https://tass.com/world/2003805",
+        "reportUrl": ""
+    },
+    {
+        "id": "a9bfd1d8fae7c5223adfd2a62b87e7493420e6de247a2a0a2898bab71eb3f737",
+        "title": "Macron says Europe should take part in talks along with Russia, US, Ukraine",
+        "summary": "According to the French president, at US President Donald Trump’s meeting with Vladimir Zelensky in Washington, the European leaders will defend their own interests, along with those of Ukraine",
+        "source": "tass",
+        "date": "2025-08-18T05:29:17+09:00",
+        "url": "https://tass.com/world/2003801",
+        "reportUrl": ""
+    },
+    {
+        "id": "a7ee42dd3a2287b533251e83ff9b68c1e80ae6e3ac6e74d3425921bd7ee0eaa5",
+        "title": "Kiev, EU may hinder peace settlement because of weapons lobby — DPR head",
+        "summary": "According to Denis Pushilin, Ukraine and its European partners have been fanning the situation, seeking to rearm",
+        "source": "tass",
+        "date": "2025-08-18T05:17:12+09:00",
+        "url": "https://tass.com/world/2003799",
+        "reportUrl": ""
+    },
+    {
+        "id": "6bd643053e4d3400809ba7a2ff8bfa1f69537af8046e31062469f8a37aadc9ac",
+        "title": "Coalition of the Willing ready to send ‘reassurance force’ to Ukraine when hostilities end",
+        "summary": "\"They re-emphasised the readiness to deploy a reassurance force once hostilities have ceased, and to help secure Ukraine’s skies and seas and regenerate Ukraine’s armed forces,\" according to a statement issued by the UK Prime Minister’s office",
+        "source": "tass",
+        "date": "2025-08-18T04:22:04+09:00",
+        "url": "https://tass.com/world/2003797",
+        "reportUrl": ""
+    },
+    {
+        "id": "1db14a9f707570a7b5af96cb2575c996de75496ec82f50787236fdec0705f3ab",
+        "title": "Over 160 packages with aid from 6 countries airdropped to Gaza — IDF",
+        "summary": "\"The IDF will continue to work in order to improve the humanitarian response in the Gaza Strip, along with the international community, while refuting the false claims of deliberate starvation in Gaza,\" the IDF said",
+        "source": "tass",
+        "date": "2025-08-18T03:52:18+09:00",
+        "url": "https://tass.com/world/2003793",
+        "reportUrl": ""
+    },
+    {
+        "id": "172015da986e8fb614ebad4e5b4f3436874e5092ce755515a7786cb9334b4000",
+        "title": "Terrorist stages explosion in Syria’s Aleppo — agency",
+        "summary": "SANA cited a source in the city’s security services as saying that, according to preliminary data, no one was hurt",
+        "source": "tass",
+        "date": "2025-08-18T03:18:09+09:00",
+        "url": "https://tass.com/emergencies/2003785",
+        "reportUrl": ""
+    },
+    {
+        "id": "715318e2e1ba49b78b8f6628bb6671425e7161180b77bc62fbeecda93b388025",
+        "title": "Houthis say they attacked Tel Aviv’s Ben Gurion Airport",
+        "summary": "According to the Houthi spokesman, the airport suspended operations after the attack",
+        "source": "tass",
+        "date": "2025-08-18T03:01:13+09:00",
+        "url": "https://tass.com/world/2003783",
+        "reportUrl": ""
+    },
+    {
+        "id": "ffdf5d244db3a2f222b135c6ebafbe45ceac54df70b2650fbef1aa12de193628",
+        "title": "Macron doesn’t rule out Ukraine recognizing loss of lands under peace deal",
+        "summary": "According to the French leader, the Coalition of the Willing met on Sunday to \"discuss security guarantees to Kiev,\" which will be once again discussed on Monday at a meeting with US President Donald Trump in Washington",
+        "source": "tass",
+        "date": "2025-08-18T02:53:44+09:00",
+        "url": "https://tass.com/world/2003781",
+        "reportUrl": ""
+    },
+    {
+        "id": "5ddeefe9bffe02f78853ddf12894658e0369dab4f9e728ad0ff843561088be65",
+        "title": "EU leaders travelling to US not to ‘keep Zelensky from being bulled’ — Rubio",
+        "summary": "\"They’re coming here tomorrow because we’ve been working with the Europeans,\" the US Secretary of State said",
+        "source": "tass",
+        "date": "2025-08-18T02:21:36+09:00",
+        "url": "https://tass.com/world/2003777",
+        "reportUrl": ""
+    },
+    {
+        "id": "10346930f6942189e878b949a1bf4f6d0475aaaf98b0b4f0d398e159071f5057",
+        "title": "Merz plans brief visit to US on August 18 — TV",
+        "summary": "According to the NTV television channel, Merz will arrive in the White House at about noon and his return flight is scheduled for 5:00 p.m. or 6:00 p.m. local time",
+        "source": "tass",
+        "date": "2025-08-18T01:54:28+09:00",
+        "url": "https://tass.com/world/2003775",
+        "reportUrl": ""
+    },
+    {
+        "id": "79db3f22e00b8cb0e94378e6395b36e3ec2309905f7108dacbebe3ea043ec1de",
+        "title": "Up to Kiev to decide whether to accept Putin-Trump peace deal or not — Rubio",
+        "summary": "\"This war is only going to get worse. It's not going to get better,\" the US Secretary of State said",
+        "source": "tass",
+        "date": "2025-08-18T01:33:23+09:00",
+        "url": "https://tass.com/world/2003773",
+        "reportUrl": ""
+    },
+    {
+        "id": "885203b8a9776134bcf2b27104e79c2970f49ede37459a51f7036e82334624a5",
+        "title": "Hamas ready to accept latest ceasefire proposal without amendments — media",
+        "summary": "The sources link this new Hamas’ position to the Israeli plan for occupying Gaza and displacing its residents, which they want to stop",
+        "source": "tass",
+        "date": "2025-08-18T01:04:04+09:00",
+        "url": "https://tass.com/world/2003771",
+        "reportUrl": ""
+    },
+    {
+        "id": "d41218c62d2e0a8eb7736a1728188bafb225f262495b0f0f59a3ef51c30dbd55",
+        "title": "Rubio says Putin is ‘already on the world stage,’ needs to be communicated with",
+        "summary": "\"He has the world's largest tactical nuclear arsenal in the world, and the second largest strategic nuclear arsenal in the world,\" the US Secretary of State said",
+        "source": "tass",
+        "date": "2025-08-18T00:18:33+09:00",
+        "url": "https://tass.com/world/2003769",
+        "reportUrl": ""
+    },
+    {
+        "id": "682231cf0c8a9aa5da62d3d41dbe8f91d0548afc36ad5b5d73d20a805e52cd39",
+        "title": "Rubio warns about ‘additional consequence’ to Russia if no deal on Ukraine is reached",
+        "summary": "\"But we're trying to avoid that by reaching a peace agreement. And that's not going to be easy. It's going to take a lot of work,\" the US Secretary of State added",
+        "source": "tass",
+        "date": "2025-08-18T00:14:46+09:00",
+        "url": "https://tass.com/world/2003767",
+        "reportUrl": ""
+    },
+    {
+        "id": "da54e6634406efa09dbe7afa6c9590e8562f1283eef796950858d21a6ce5c40f",
+        "title": "EU leaders to seek to derail Ukrainian settlement — French politician",
+        "summary": "Florian Philippot also called on France to pursue an independent foreign policy",
+        "source": "tass",
+        "date": "2025-08-17T23:47:40+09:00",
+        "url": "https://tass.com/world/2003765",
+        "reportUrl": ""
+    },
+    {
+        "id": "1924368ba69d071246bf48df173c3c62506e872b3244088eecc374122becdd16",
+        "title": "Israel to proceed to next stage of its operation in Gaza City soon — top brass",
+        "summary": "Israel’s operation Gideon’s Chariots has reached its goals, Chief of the General Staff Eyal Zamir said",
+        "source": "tass",
+        "date": "2025-08-17T23:45:36+09:00",
+        "url": "https://tass.com/world/2003763",
+        "reportUrl": ""
+    },
+    {
+        "id": "3e7be7a5baaf085667e3c73ab6ec7154f503c8b3a28b5a1be315a90c50e15cf6",
+        "title": "Putin briefs Uzbek leader about results of Alaska summit — Uzbek president’s press service",
+        "summary": "Shavkat Mirziyoyev expressed hope for the soonest settlement of the Ukrainian conflict and voiced \"support for the agreements that have been reached\"",
+        "source": "tass",
+        "date": "2025-08-17T23:07:03+09:00",
+        "url": "https://tass.com/world/2003761",
+        "reportUrl": ""
+    },
+    {
+        "id": "7a8ed6432ec760e3dfa30b1d035f5ee0fc03089d6c08e3c929bba04796ded68e",
+        "title": "Putin briefs Kazakh president on his talks with US leader in Alaska — Kremlin",
+        "summary": "According to the Kremlin, Kassym-Jomart Tokayev congratulated the Russian leader on the successful talks aiming to reach a lasting settlement to the Ukrainian crisis",
+        "source": "tass",
+        "date": "2025-08-17T22:59:36+09:00",
+        "url": "https://tass.com/politics/2003759",
+        "reportUrl": ""
+    },
+    {
+        "id": "2e56f264f403cee9fa5c1b8cfebe2bc7d452ded05be1184815a6accd34cd7281",
+        "title": "Putin briefs Uzbek counterpart about his talks with Trump",
+        "summary": "Shavkat Mirziyoyev highly assessed the positive dynamic in the Russian-US top-level dialogue and stressed the importance of reaching a peaceful settlement in Ukraine",
+        "source": "tass",
+        "date": "2025-08-17T22:53:46+09:00",
+        "url": "https://tass.com/politics/2003757",
+        "reportUrl": ""
+    },
+    {
+        "id": "b2caae571b4c4455cab1626bdc2b7f63d129c215eaad75eaad3a01659870d42d",
+        "title": "Putin briefs Lukashenko on his talks with Trump — Kremlin",
+        "summary": "\"Lukashenko welcomed steps that are being taken toward settling the Ukrainian crisis and, in turn, told Putin about his phone call with Donald Trump om August 15,\" the Kremlin press service said",
+        "source": "tass",
+        "date": "2025-08-17T22:43:40+09:00",
+        "url": "https://tass.com/politics/2003755",
+        "reportUrl": ""
+    },
+    {
+        "id": "9b20fb541c572f04f0117ea113f6d0cb3d6d9da271753e990c6939016df29fcf",
+        "title": "Netanyahu warns that ceasefire in Gaza without defeating Hamas will lead to endless war",
+        "summary": "According to the Israeli prime minister, Israel’s \"ongoing security control in the Strip is only one of our conditions for concluding the war, conditions that Hamas is refusing to accept\"",
+        "source": "tass",
+        "date": "2025-08-17T22:11:19+09:00",
+        "url": "https://tass.com/world/2003741",
+        "reportUrl": ""
+    },
+    {
+        "id": "967159b1920a16fb893020e8bd36bfa1306f97d2829d4cf1437a8468b66d2791",
+        "title": "Russia foils Ukrainian UAV attack on Smolensk nuke plant — FSB",
+        "summary": "\"The Ukrainian armed formations continue provocations in the form of attacks by unmanned aerial vehicles on nuclear power facilities,\" the press office said",
+        "source": "tass",
+        "date": "2025-08-17T22:06:59+09:00",
+        "url": "https://tass.com/emergencies/2003739",
+        "reportUrl": ""
+    },
+    {
+        "id": "d052ac951bb46befe6da2f133d015705fb96db0280fed75c318fcb0dba79ef14",
+        "title": "Kazakh leader congratulates Putin on outcome of Russia-US summit in Alaska",
+        "summary": "The press office of the Kazakh leader said that \"the talks contributed to a better understanding by the American side of the Russian position on Ukraine, which can help find points of contact on this complex problem\"",
+        "source": "tass",
+        "date": "2025-08-17T22:03:25+09:00",
+        "url": "https://tass.com/world/2003737",
+        "reportUrl": ""
+    },
+    {
+        "id": "e1631949cd2a13c4d323a03aafb764578cddab15467cc867e63c3bdc9d9b31e0",
+        "title": "Putin, Lukashenko discuss Alaska summit results over phone — Pool One channel",
+        "summary": "The Russian and Belarusian leaders also touched upon the issues of bilateral relations, the Telegram channel said",
+        "source": "tass",
+        "date": "2025-08-17T21:10:11+09:00",
+        "url": "https://tass.com/world/2003729",
+        "reportUrl": ""
+    },
+    {
+        "id": "a2903fc5c3a3778bfd086c304ae7838038d01375a4f658d3cb7b264f836c4251",
+        "title": "Von der Leyen, Zelensky announce emergency press conference in Brussels",
+        "summary": "Von der Leyen wrote on the X social media platform that Zelensky would fly to Brussels to participate together with her in a teleconference of the coalition of the willing",
+        "source": "tass",
+        "date": "2025-08-17T20:48:36+09:00",
+        "url": "https://tass.com/world/2003725",
+        "reportUrl": ""
+    },
+    {
+        "id": "3499894c5b104e56211d32f447a930abe48b42d6a0d45b57e0b630d73e2b0565",
+        "title": "Russian troops strike Ukrainian Sapsan tactical missiles storage site over past day",
+        "summary": "The Ukrainian army lost roughly 1,385 troops in battles with Russian forces in all the frontline areas over the past 24 hours, according to the latest data on the special military operation in Ukraine released by Russia’s Defense Ministry",
+        "source": "tass",
+        "date": "2025-08-17T20:42:29+09:00",
+        "url": "https://tass.com/defense/2003723",
+        "reportUrl": ""
+    },
+    {
+        "id": "ed8bf07654233a5ac6395fe5ee06d79f2d753f3be3f0097f026b8f4463ebca4a",
+        "title": "US Secretary of State Rubio calls Alaska summit very productive",
+        "summary": "The meeting between President Vladimir Putin of Russia and President Donald Trump of the United States took place at a military base in Alaska on August 15",
+        "source": "tass",
+        "date": "2025-08-17T18:19:19+09:00",
+        "url": "https://tass.com/world/2003695",
+        "reportUrl": ""
+    },
+    {
+        "id": "d988e9ed5e7e252e1bf407ab59ace8c5f1151a77a1756ddd0a04da694df89e9d",
+        "title": "Putin, Trump implement Roosevelt’s idea of both leaders’ meeting in Alaska — Duma speaker",
+        "summary": "The meeting between President Vladimir Putin of Russia and President Donald Trump of the United States took place at a military base in Alaska on August 15",
+        "source": "tass",
+        "date": "2025-08-17T16:55:56+09:00",
+        "url": "https://tass.com/world/2003689",
+        "reportUrl": ""
+    },
+    {
+        "id": "63962c200d8c4c27ad972032f00e9d6f547127be56f372a230879c22a114bbe3",
+        "title": "Venera-D probe for Venus exploration included in Russia’s national project",
+        "summary": "The conceptual design work will kick off in January 2026 along with the national project’s implementation, the scientist said",
+        "source": "tass",
+        "date": "2025-08-17T16:00:22+09:00",
+        "url": "https://tass.com/politics/2003687",
+        "reportUrl": ""
+    },
+    {
+        "id": "0843ba6be9ee52d3333a32f3e5422ab22b1aa1f075195bca8443a504263a3ca1",
+        "title": "Ukrainian troops retreat with casualties from Sadki in Sumy Region — defense source",
+        "summary": "\"In that area, fighters of an assault group of the 80th Separate Air Assault Brigade from the [Russian] Battlegroup North repelled a Ukrainian army counterattack,\" the defense source said",
+        "source": "tass",
+        "date": "2025-08-17T14:00:02+09:00",
+        "url": "https://tass.com/politics/2003681",
+        "reportUrl": ""
+    },
+    {
+        "id": "2afa8351cde5ad34383ba645be9d04866f7ceb677c26bff24fcb843784117a2b",
+        "title": "US needs to consider Russia’s concerns in restoring bilateral relations — expert",
+        "summary": "\"The Americans have to take that into consideration and understand Russia's national security concerns, its strategic concerns, and ultimately what it hopes for a new reset in relations not only with Ukraine, but also with the West and the United States in particular,\" Christopher Helali, human rights activist and American Communist Party member, said",
+        "source": "tass",
+        "date": "2025-08-17T13:50:04+09:00",
+        "url": "https://tass.com/world/2003679",
+        "reportUrl": ""
+    },
+    {
+        "id": "4f4223e7c24d736651176b39d8cfedcbe85731b3500b8ef03dc46be2faefc185",
+        "title": "Putin may protect children with ‘stroke of the pen’ — US First Lady Melania Trump",
+        "summary": "\"In protecting the innocence of these children, you will do more than serve Russia alone - you serve humanity itself,\" she wrote",
+        "source": "tass",
+        "date": "2025-08-17T12:32:42+09:00",
+        "url": "https://tass.com/world/2003677",
+        "reportUrl": ""
+    },
+    {
+        "id": "f7038b8f88e2fe8a0d02a656e414e3fe4cb1ffcd82c96c4d12735fe90bd82712",
+        "title": "Mass disorders in Serbia underway with reportedly damaged court, police facilities",
+        "summary": "The most complicated situation has been reported in the city of Valjevo, Serbia’s Interior Minister Ivica Dacic said",
+        "source": "tass",
+        "date": "2025-08-17T11:35:17+09:00",
+        "url": "https://tass.com/emergencies/2003675",
+        "reportUrl": ""
+    },
+    {
+        "id": "1b5d5789769f1aa62c4566e345beb709e64575b684c138c0d7f8d8009d9069ab",
+        "title": "German, French, UK leaders still to decide on their trip to US for meeting with Zelensky",
+        "summary": "However, such a decision requires an official invitation on behalf of the United States, according to Bild",
+        "source": "tass",
+        "date": "2025-08-17T10:26:15+09:00",
+        "url": "https://tass.com/world/2003673",
+        "reportUrl": ""
+    },
+    {
         "id": "820d103634a8607759faafd78aba2d4849bd2ee2a5afbd603af1d0100f356c16",
         "title": "German exports to Russia down 5.3% in April month-on-month",
         "summary": "In annual terms, exports from Germany to Russia lost 9.3%",

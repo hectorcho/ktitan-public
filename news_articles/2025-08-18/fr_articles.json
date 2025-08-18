@@ -1,5 +1,14 @@
 [
     {
+        "id": "d9e923ad4ed8e4f562b2e83ecd4733ae8a9722e399bafe501f04b58ccca8436f",
+        "title": "En direct, guerre en Ukraine : la Russie frappe plusieurs villes ukrainiennes, à la veille de la rencontre entre Volodymyr Zelensky et Donald Trump à Washington",
+        "summary": "Cette vague d’attaques a fait au moins treize blessés à Kharkiv et dans la région de Soumy, dimanche en soirée. Plusieurs dirigeants européens, dont Emmanuel Macron, et le chef de l’OTAN ont confirmé leur présence, lundi à la Maison Blanche, aux côtés du président ukrainien.",
+        "source": "lemonde",
+        "date": "2025-08-18T07:58:46+09:00",
+        "url": "https://www.lemonde.fr/international/live/2025/08/18/en-direct-guerre-en-ukraine-la-russie-frappe-plusieurs-villes-ukrainiennes-avec-des-missiles-balistiques-a-la-veille-de-la-rencontre-entre-volodymyr-zelensky-et-donald-trump-a-washington_6630797_3210.html",
+        "reportUrl": ""
+    },
+    {
         "id": "8b51a55b43d376cae1c5563a97fd68e459c2fa1585504b3c4acc7cc8eded2336",
         "title": "L’incendie de l’Aude ne sera pas éteint avant plusieurs jours, selon les pompiers qui restent en alerte",
         "summary": "Alors que la canicule et le vent compliquent la situation, les pompiers redoutent de nouveaux départs de feu dans l’Aude, où la mobilisation reste maximale face à un risque inédit depuis 2016.",
@@ -63,6 +72,15 @@
         "reportUrl": ""
     },
     {
+        "id": "719e7b710bbbbb1cc3783be902796a0d3525a466dbb71f5a7bf6cbdf607420d8",
+        "title": "A Mayotte, le conseil départemental épinglé pour être « un frein au développement » de l’île",
+        "summary": "La collectivité, qui s’apprête à devenir un « département-région », fait l’objet de trois rapports accablants de la chambre régionale des comptes.",
+        "source": "lemonde",
+        "date": "2025-08-18T01:25:36+09:00",
+        "url": "https://www.lemonde.fr/politique/article/2025/08/17/a-mayotte-le-conseil-departemental-epingle-pour-etre-un-frein-au-developpement-de-l-ile_6631393_823448.html",
+        "reportUrl": ""
+    },
+    {
         "id": "b5954c07c24831c185f9f7baab7f87534958100d38ff33f03c084f38f8a548ef",
         "title": "Un escargot capable de régénérer entièrement son œil",
         "summary": "Des chercheurs ont étudié la surprenante faculté de l’escargot-pomme à reconstruire la totalité de son œil après qu’il a été coupé. Quelque 9 000 gènes sont exprimés au cours de ce minutieux travail.",
@@ -87,6 +105,15 @@
         "source": "lemonde",
         "date": "2025-08-18T00:04:41+09:00",
         "url": "https://www.lemonde.fr/planete/article/2025/08/17/incendies-en-espagne-le-premier-ministre-pedro-sanchez-veut-un-pacte-national-face-a-l-urgence-climatique_6631354_3244.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "9cf891df6d4eddaedbc7337e8bdc7aea4d565bdeb4e69ae311b77653c5bebc6e",
+        "title": "« Pas un travail, mais une histoire d’amour » : au Maroc, la folie des pigeons voyageurs",
+        "summary": "Contrairement à l’Europe, où le nombre d’éleveurs diminue, les Marocains se passionnent pour la colombophilie. Ils sont plus d’un millier à Casablanca à s’inquiéter de la hausse des températures qui fait peser un risque sur les volatiles.",
+        "source": "lemonde",
+        "date": "2025-08-18T00:00:13+09:00",
+        "url": "https://www.lemonde.fr/afrique/article/2025/08/17/pas-un-travail-mais-une-histoire-d-amour-au-maroc-la-folie-des-pigeons-voyageurs_6631321_3212.html",
         "reportUrl": ""
     },
     {

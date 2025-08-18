@@ -1,5 +1,50 @@
 [
     {
+        "id": "ea512541de76f4d3274ef6036d8005d55ef8d2f53bd51fc108919fc7648401a9",
+        "title": "Israelis Join Nationwide Rallies to Call for Release of Hostages",
+        "summary": "Hundreds of thousands turned out for an evening demonstration in Tel Aviv following a national day of protest, organizers said.",
+        "source": "nytimes",
+        "date": "2025-08-18T10:30:04+09:00",
+        "url": "https://www.nytimes.com/2025/08/17/world/middleeast/israel-rallies-labor-strike.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "35bc39d4902e2fa8440f851fcccf3850758cb0f75918a14315a9732fda0c5af2",
+        "title": "What to Know About Bolivia’s Presidential Election",
+        "summary": "An economic crisis and political infighting among the country’s long-dominant socialist party could pave the way for the first right-wing president in decades.",
+        "source": "nytimes",
+        "date": "2025-08-18T10:27:58+09:00",
+        "url": "https://www.nytimes.com/2025/08/17/world/americas/bolivia-presidential-election-explained.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "7a3119d9ff13d7e384d2bea4764525d079688667ed11166f7c6019d30e83da4d",
+        "title": "Zelensky Brings Backup to the White House as Trump Aligns More Closely With Putin",
+        "summary": "European leaders are joining a trip to Washington to make sure the trans-Atlantic alliance remains intact.",
+        "source": "nytimes",
+        "date": "2025-08-18T10:08:00+09:00",
+        "url": "https://www.nytimes.com/2025/08/17/us/politics/europe-trump-zelensky-putin.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "58862729834823e6352ab731a0c7dfa5948ad729ce591801f43e0f8f42134e37",
+        "title": "3 Killed, 9 Wounded in Gang-Related Shooting at a Brooklyn Bar",
+        "summary": "Nine others were treated for injuries after the early-morning shooting in the Crown Heights neighborhood, the police said.",
+        "source": "nytimes",
+        "date": "2025-08-18T07:38:24+09:00",
+        "url": "https://www.nytimes.com/2025/08/17/nyregion/brooklyn-shooting-nightclub.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "ded8829bf88b0aebc27c127decd7404d6e8a908bcaa001410c3e1f43196ebca9",
+        "title": "Ronnie Rondell, Stuntman Set on Fire for Pink Floyd Cover, Dies at 88",
+        "summary": "He was also known for his performances in “Twister” and “The Matrix Reloaded,” and came from a family of stunt performers.",
+        "source": "nytimes",
+        "date": "2025-08-18T07:30:35+09:00",
+        "url": "https://www.nytimes.com/2025/08/17/us/ronnie-rondell-dead.html",
+        "reportUrl": ""
+    },
+    {
         "id": "23fb2f888bde88660db25869a9b4cc6798059228ec8851bb669c93b8b4a2bc54",
         "title": "Zelensky Brings Backup to the White House as Trump Aligns More Closely With Putin",
         "summary": "European leaders are joining a trip to Washington to make sure the trans-Atlantic alliance remains intact.",
@@ -15,6 +60,15 @@
         "source": "wsj",
         "date": "2025-08-18T06:12:00+09:00",
         "url": "https://www.wsj.com/us-news/national-guard-washington-dc-959d9844",
+        "reportUrl": ""
+    },
+    {
+        "id": "fdec6ea79bc9f5373de4673762bf618b4cee478025febfb47f957194c3ed6235",
+        "title": "China’s Biotech Is Cheaper and Faster Than America’s",
+        "summary": "China’s biotechnology sector has established a bright future by focusing not on breakthrough cures and treatments but on speed and efficiency.",
+        "source": "nytimes",
+        "date": "2025-08-18T05:50:48+09:00",
+        "url": "https://www.nytimes.com/2025/08/17/opinion/china-biotech.html",
         "reportUrl": ""
     },
     {
@@ -114,6 +168,15 @@
         "source": "nytimes",
         "date": "2025-08-18T04:46:16+09:00",
         "url": "https://www.nytimes.com/2025/08/17/business/airlines-credit-cards-loyalty.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "bc0a4212c93f96f74ea1d10a61c872f1ee69076fb4826e458de046185a72c887",
+        "title": "Trump Officials Hint at Possible Concessions by Putin",
+        "summary": "Secretary of State Marco Rubio and Steve Witkoff, an envoy for President Trump, suggested that a peace deal was still distant.",
+        "source": "nytimes",
+        "date": "2025-08-18T04:24:45+09:00",
+        "url": "https://www.nytimes.com/2025/08/17/us/politics/trump-witkoff-ukraine-putin-concessions.html",
         "reportUrl": ""
     },
     {
