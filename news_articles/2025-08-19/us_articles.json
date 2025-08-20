@@ -1,5 +1,338 @@
 [
     {
+        "id": "cc2915dbfc47b15a438df11d1efed0b67f1221ca9209f97a4cafe12e500bc200",
+        "title": "Vietnamese Are Helping Cuba With 38-Cent Donations. A Lot of Them.",
+        "summary": "Cuba sent doctors and food to Vietnam during the war. Now ordinary Vietnamese are sending cash to struggling Cubans.",
+        "source": "nytimes",
+        "date": "2025-08-19T16:50:56+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/world/asia/vietnam-cuba-fundraising.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "9245fa2ab81667f9d733b3ec9e1a9a7d47ac98f1ca75022b3f733c08cc5f8c89",
+        "title": "Hurricane Erin Brings Rip Currents Closing Jersey Shore and Rehoboth Beaches",
+        "summary": "Several beaches in New Jersey and Delaware were closed as the powerful storm churned in the Atlantic. Rip currents have been blamed for at least one death.",
+        "source": "nytimes",
+        "date": "2025-08-19T16:18:40+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/nyregion/hurricane-erin-beach-closures-new-jersey.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "d3ad107a5f465081982c8fc8166cfd29369d3a6384e2c1034b9f09fbc087b2f6",
+        "title": "Talks Restart as Air Canada Flight Attendants’ Strike Continues",
+        "summary": "Negotiations between the airline and the flight attendants’ union resumed on Monday, hours after a labor relations board declared the walkout illegal.",
+        "source": "nytimes",
+        "date": "2025-08-19T15:30:07+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/world/canada/air-canada-strike-flight-attendant-labor-board.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "36000813e182b4f4442185d6fc904c85318e634631d97a3abd6e9ebe838146c4",
+        "title": "Zelensky Says He’s Ready to Meet Putin After Trump Talks",
+        "summary": "President Volodymyr Zelensky emerged upbeat, but repeated that Ukraine will not cede land to Russia. There were few tangible signs of progress toward a peace deal.",
+        "source": "nytimes",
+        "date": "2025-08-19T14:38:01+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/us/zelensky-trump-putin-meeting.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "abaa5631379cbc328bf9a89053fb5ceaa2fc13d6846e8252e47a5afd41262122",
+        "title": "The Man Who Saw the Future of Africa",
+        "summary": "As the world’s powers turn away from the continent, Kwame Nkrumah’s vision for Africa may hold the key to realizing its potential today.",
+        "source": "nytimes",
+        "date": "2025-08-19T14:00:05+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/opinion/africa-future-kwame-nkrumah.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "abd2a29102d0ee55d32a834a5f50cb6ca47dc7649cc6ad807886df6d44b59603",
+        "title": "Cases of Mosquito-Borne Chikungunya Virus Are Surging Globally: What to Know",
+        "summary": "Chikungunya, which can disable victims for years, is spreading rapidly, including in China and other places that have not seen it before.",
+        "source": "nytimes",
+        "date": "2025-08-19T13:01:06+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/health/chikungunya-virus-mosquitoes-what-to-know.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "0417fd4b227826128da1ef703cc0ab4363a1b931f9f4d866b5e90d0312c40fc9",
+        "title": "5 Takeaways From Trump’s Meeting With Zelensky and European Leaders",
+        "summary": "The leaders presented a relatively united front and appeared to agree on the next steps in the effort to halt the fighting between Ukraine and Russia. But much remained unresolved.",
+        "source": "nytimes",
+        "date": "2025-08-19T12:04:02+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/us/politics/takeaways-trump-zelensky-putin.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "c3df888cf55a283fbbf5b046e89a75a2c92a9096dd089c38f8088175d724b579",
+        "title": "Fire and Explosion Damage Ship in Baltimore Harbor",
+        "summary": "No one was injured in the explosion, which occurred aboard a bulk carrier ship near the site of the collapse of the Francis Scott Key Bridge in 2024.",
+        "source": "nytimes",
+        "date": "2025-08-19T11:21:10+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/us/baltimore-ship-explosion.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "1590a56ab9b9a11fb917911adf411afddcd1cb084e32cb02dfe998df5591c434",
+        "title": "Air Force’s Top General to Retire Early",
+        "summary": "Gen. David Allvin, the chief of staff of the Air Force, is the latest high-ranking general to exit following President Trump’s purge of Pentagon leadership.",
+        "source": "nytimes",
+        "date": "2025-08-19T10:39:26+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/us/politics/air-force-general-trump-hegseth-pentagon.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "dea5452090e909f87847b95314e1a21b014e9b66bd379dcd48b938c72110a3f8",
+        "title": "In Surprise Move, Trump Taps Missouri Attorney General to Help Run F.B.I.",
+        "summary": "The move appears to diminish the authority of the current deputy director, Dan Bongino, whose tumultuous tenure has included a pitched argument over files related to the disgraced financier Jeffrey Epstein.",
+        "source": "nytimes",
+        "date": "2025-08-19T10:29:51+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/us/politics/fbi-missouri-attorney-general.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "c7eb90ce59820ca965810ce35269a8191d041f7d63b9d0a22106ca3fa44f7019",
+        "title": "At White House Summit, a Master Class of Diplomacy. In Courting Trump.",
+        "summary": "President Volodymyr Zelensky of Ukraine and other European leaders have learned a thing or two about negotiating, Trump-style. So has Vladimir Putin.",
+        "source": "nytimes",
+        "date": "2025-08-19T10:23:30+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/us/politics/white-house-summit-diplomacy-courting-trump.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "f840bf69122c2393126b6665bc7b6c9ab5951bd851229778fe7b128d96d627a9",
+        "title": "Can Zelensky Trust Trump? Ukraine’s Fate May Depend on the Answer.",
+        "summary": "President Trump has offered only vague assurances of security guarantees for Ukraine if President Volodymyr Zelensky agrees to cut a deal with Russia.",
+        "source": "nytimes",
+        "date": "2025-08-19T09:41:09+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/us/politics/zelensky-trump-ukraine-trust.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "283e6248e971ccc0d72f3e81a41ba5af82186f98d67504fab9cda90cd5874e8f",
+        "title": "Hamas Accepts New Gaza Cease-Fire Proposal, Officials Say",
+        "summary": "It was unclear whether Prime Minister Benjamin Netanyahu of Israel was on board with the terms, which came as Qatar and Egypt were intensifying mediation efforts.",
+        "source": "nytimes",
+        "date": "2025-08-19T09:30:18+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/world/middleeast/hamas-israel-gaza-ceasefire.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "f9339ab2b6439285ff6718c593f512dd5ceca4801b4a7740ae5d60d37c19f463",
+        "title": "Air Canada Strike Leaves Stranded Passengers Frustrated and Angry",
+        "summary": "Many passengers are still struggling to find alternative transportation and are angry at the airline. “You feel like you’re at their mercy,” said one.",
+        "source": "nytimes",
+        "date": "2025-08-19T09:19:12+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/travel/air-canada-strike-refund.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "72ed74ab5e1f43e3d0a80b24d5571537286f9eac9f9edbdf427ec158264839e0",
+        "title": "The Trump administration has restored a website that tracks federal spending, in a victory for lawmakers who said the White House was using the blackout to freeze funding without public disclosures",
+        "summary": "Website tracking federal payments is back online following court ruling, after administration took it down in March.",
+        "source": "wsj",
+        "date": "2025-08-19T09:01:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/lawmakers-win-round-in-spending-fight-with-white-house-6c63de2e",
+        "reportUrl": ""
+    },
+    {
+        "id": "a838e583104ecc4a7310f599914abbbabee1c431bea9d07d71f67026ac0dc1db",
+        "title": "Trump Administration Discusses Taking 10% Stake in Intel",
+        "summary": "Federal officials are considering the move because Intel, the last leading-edge chipmaker in the United States, has been struggling.",
+        "source": "nytimes",
+        "date": "2025-08-19T08:55:16+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/technology/intel-trump-government-stake.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "f60474afdf79819c11f3b5ed64f7ab1855d418c2dbef459cbe8792f81552312d",
+        "title": "An ousted DOJ official says Bondi aides corrupted antitrust enforcement",
+        "summary": "Roger Alford, formerly second-in-command of the antitrust division, called on a court to scrutinize the merger case that led to his firing.",
+        "source": "wsj",
+        "date": "2025-08-19T08:55:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/bondi-aides-corrupted-antitrust-enforcement-ousted-doj-official-says-466ed838",
+        "reportUrl": ""
+    },
+    {
+        "id": "59e0daa554405c2bc281e3385c62fc5a1d0081f9fcbce8f186a82504cb58908c",
+        "title": "Justice Dept. Will Begin Sharing Epstein Files on Friday, Top Republican Says",
+        "summary": "The chairman of the House Oversight Committee said the department would miss a Tuesday deadline his panel set in a subpoena but would begin sharing some records on Friday.",
+        "source": "nytimes",
+        "date": "2025-08-19T08:40:22+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/us/politics/epstein-files-release-trump.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "f4e88be6292c4ab73dc89c97d96785e747739d647978e3605d50728e6a1a951a",
+        "title": "Mississippi and Louisiana Will Send National Guard Troops to D.C.",
+        "summary": "Ohio, West Virginia and South Carolina have also deployed the Guard to Washington to support President Trump’s crackdown on the city.",
+        "source": "nytimes",
+        "date": "2025-08-19T08:22:39+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/us/politics/national-guard-dc-trump-mississippi-louisiana.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "9d4e6bbaca46f2a57484c3a6bbebc1f6e025c683c66fae1c7b47c2eec4f4c397",
+        "title": "Trump Just Reminded Me of Why I’m Still a Neocon",
+        "summary": "By putting the interests of what Trump calls “peace” ahead of the interests of freedom, we are all-but guaranteeing that Ukraine will lose both.",
+        "source": "nytimes",
+        "date": "2025-08-19T08:18:40+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/opinion/trump-israel-ukraine-zelensky.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "f52c1d614cf3e72b5c8a8b90c23c07368e5201310e3897ca11e8cb2db6e8e4e4",
+        "title": "Texas Democrats ended a two-week walkout over Republican plans to redraw the state’s congressional map",
+        "summary": "Democratic allies say quorum-break drew national attention effectively, as legislature begins second special session to pass redistricting.",
+        "source": "wsj",
+        "date": "2025-08-19T08:13:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/texas-democrats-congressional-redistricting-walkout-ends-00f277f3",
+        "reportUrl": ""
+    },
+    {
+        "id": "aa3dfa98544bc83f6423b47a071ea5d25e881e2a363eaadeb9f44f80b0bf54c6",
+        "title": "M.T.A. Approves Major Contract to Expand the Second Avenue Subway Line",
+        "summary": "The contract, which will award nearly $2 billion to construction firms, funds crucial aspects of the latest phase of the long-awaited subway expansion into East Harlem.",
+        "source": "nytimes",
+        "date": "2025-08-19T07:52:17+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/nyregion/mta-second-avenue-subway-harlem-125th-street.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "fb21c9669d5c03d446829b0bedc92ed67c8c43c8cd57342a03b14c582d2abfef",
+        "title": "Why Rip Currents From Hurricane Erin Are So Dangerous to the East Coast",
+        "summary": "Rip currents are the third leading cause of deaths from hurricanes, and they can happen on a sunny day hundreds of miles from the storm.",
+        "source": "nytimes",
+        "date": "2025-08-19T07:16:05+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/weather/hurricane-erin-rip-current-east-coast-carolina.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "3cabb88d62c68be19e8e7ccb9d28a8025f3171c2a8241d556037dcd3d4c33bee",
+        "title": "Terence Stamp’s Swinging, Smoldering Style",
+        "summary": "He helped redefine male beauty, ushering in the era of the cinematic bad boy.",
+        "source": "nytimes",
+        "date": "2025-08-19T06:41:10+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/style/terence-stamps-swinging-smoldering-style.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "674eda7f4ba33e7db4c21fcfdade952fc6189e99365d65f3e6c79ef72ce22476",
+        "title": "Opinion | Trump’s Stunning Foreign Policy",
+        "summary": "The president, like the U.S. relationship with Russia, is widely misunderstood.",
+        "source": "wsj",
+        "date": "2025-08-19T06:38:00+09:00",
+        "url": "https://www.wsj.com/opinion/trumps-stunning-foreign-policy-3890fb97",
+        "reportUrl": ""
+    },
+    {
+        "id": "ccb8aba05fc8e9426824df99367e42dc0550e1d72d36f481689406d8e5a4c1eb",
+        "title": "Opinion | You Can’t Break the Laws of Economics",
+        "summary": "Supply and demand invariably overcome any effort to defy or outsmart them.",
+        "source": "wsj",
+        "date": "2025-08-19T06:37:00+09:00",
+        "url": "https://www.wsj.com/opinion/you-cant-break-the-laws-of-economics-supply-and-demand-a6786d1d",
+        "reportUrl": ""
+    },
+    {
+        "id": "5a5eac3654c64b224ec08d48843ef2f80f21de285118b8d0d420dc26fdf7e824",
+        "title": "Opinion | Trump and the Secrets of College Admissions",
+        "summary": "His transparency order will make real the Constitution’s ban on affirmative action.",
+        "source": "wsj",
+        "date": "2025-08-19T06:33:00+09:00",
+        "url": "https://www.wsj.com/opinion/trump-and-the-secrets-of-college-admissions-race-students-fc83204f",
+        "reportUrl": ""
+    },
+    {
+        "id": "68b04fa2cc7fcc19b0be0c7bf8b9d1d941f3b9cd51d8ad83b8e8b7a9e2fc41fd",
+        "title": "Israel Is in Talks to Send Gazans to South Sudan, Officials Say",
+        "summary": "Israel has broadened its push, so far unsuccessful, to persuade other countries to take in Gazans en masse. Critics say the relocation could violate international law.",
+        "source": "nytimes",
+        "date": "2025-08-19T06:17:37+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/world/middleeast/israel-gazans-south-sudan.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "680d6128b35bc9dceec3bd1455102f4589195d36fb768299a006caa4fd315173",
+        "title": "Immigration Enforcement Takes Key Role in Trump’s D.C. Crime Crackdown",
+        "summary": "Immigrants who live and work in the city say they want violent crime lowered but fear that ICE efforts could make it worse.",
+        "source": "nytimes",
+        "date": "2025-08-19T06:10:23+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/us/trump-immigration-dc-crime.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "83a7d551f43ca680f7be770d087cf13d60f5d2bf2977de453307c36b87a40325",
+        "title": "Opinion | RFK Jr.’s Dangerous Attack on mRNA Research",
+        "summary": "Covid-era coercion and misinformation bred public distrust, but the vaccines did save countless lives.",
+        "source": "wsj",
+        "date": "2025-08-19T05:38:00+09:00",
+        "url": "https://www.wsj.com/opinion/rfk-jr-s-dangerous-attack-on-mrna-research-27bc5adc",
+        "reportUrl": ""
+    },
+    {
+        "id": "77fc3613f291cdf1e578aedfce25412eb460a37ae6ba7554e84de06415d5bc4b",
+        "title": "Dealer Known as ‘Ketamine Queen’ to Plead Guilty in Matthew Perry Case",
+        "summary": "Jasveen Sangha will plead guilty to selling the ketamine that killed the “Friends” star, prosecutors said. She could face decades in prison.",
+        "source": "nytimes",
+        "date": "2025-08-19T05:33:17+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/arts/television/matthew-perry-jasveen-singha-guilty-plea.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "e740a42a9db56107129984312e598839fdc699a35524fb0c88ff8b9073d07c84",
+        "title": "Republican Bid to Help Trump Move Past Epstein Falls Flat",
+        "summary": "Republicans in Congress managed to recess for the summer without voting on the issue, but it has continued to dog them and awaits them when they return.",
+        "source": "nytimes",
+        "date": "2025-08-19T05:14:27+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/us/politics/republicans-epstein-files.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "638cc4c58adcde7479610d2c334d65b671e9065c2f638b437388e85e99ddd53e",
+        "title": "President Trump continues his on-again, off-again battle with mailed ballots in the lead up to tight midterm elections",
+        "summary": "The president is continuing his on-again, off-again battle with mailed ballots in the lead up to midterm elections.",
+        "source": "wsj",
+        "date": "2025-08-19T04:38:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/trump-election-mail-in-ballot-vote-4e78daf7",
+        "reportUrl": ""
+    },
+    {
+        "id": "8c0d42e500acec973ed134479deb92c7cd9d30ffd050b0d7153e778a71ff120a",
+        "title": "Opinion | What Is the Academic’s Role in the Age of AI?",
+        "summary": "Rather than bemoaning that reality, instructors must learn to use the technology to best serve their students.",
+        "source": "wsj",
+        "date": "2025-08-19T03:59:00+09:00",
+        "url": "https://www.wsj.com/opinion/what-is-the-academics-role-in-the-age-of-ai-tech-class-education-cf0fc5f5",
+        "reportUrl": ""
+    },
+    {
+        "id": "64775cd7947edc298e323c223817dbe79761182dbe0693082b9b4bcf68d4263d",
+        "title": "Opinion | How the West Can Halt Putin’s Battlefield Momentum",
+        "summary": "Russia leads Ukraine in resources and manpower, but sanctions, weapons and funds can change that.",
+        "source": "wsj",
+        "date": "2025-08-19T03:10:00+09:00",
+        "url": "https://www.wsj.com/opinion/how-the-west-can-halt-putins-battlefield-momentum-f526844f",
+        "reportUrl": ""
+    },
+    {
+        "id": "e04df9bafb9ac1d2babbdac1140fe667d12a21143d88784d9416b2f9178d9aea",
+        "title": "Former Sen. Sherrod Brown (D., Ohio) has launched a comeback bid",
+        "summary": "Former three-term senator aims for comeback in 2026 against Sen. Jon Husted.",
+        "source": "wsj",
+        "date": "2025-08-19T02:19:00+09:00",
+        "url": "https://www.wsj.com/politics/elections/sherrod-brown-ohio-senate-race-2026-f8197db6",
+        "reportUrl": ""
+    },
+    {
+        "id": "bbe6ba459474d7d3573dbd76180ff910309b6385a6031c7f04d48c220cf0a86b",
+        "title": "Madison Avenue Is Starting to Love A.I.",
+        "summary": "Advertisers are increasingly using generative artificial intelligence to make their commercials.",
+        "source": "nytimes",
+        "date": "2025-08-19T00:16:04+09:00",
+        "url": "https://www.nytimes.com/2025/08/18/business/madison-avenue-is-starting-to-love-ai.html",
+        "reportUrl": ""
+    },
+    {
         "id": "428123a67998a404b2af0ce32e68dad6d9970de7bc624f0d5fdc51fae8635e7b",
         "title": "As Trump’s Policies Take Hold, Springfield, Ohio, Loses Its Haitian Work Force",
         "summary": "Springfield faced a crisis after Donald Trump falsely claimed Haitians were eating pets. Now his policies are driving out workers like Wilford Rinvil, who left for Canada.",
@@ -24,15 +357,6 @@
         "source": "wsj",
         "date": "2025-08-18T20:00:00+09:00",
         "url": "https://www.wsj.com/politics/meet-the-democrat-republicans-fear-in-red-state-america-d5c5ec86",
-        "reportUrl": ""
-    },
-    {
-        "id": "a765133cd3031f2c54d57efae19032a1c79b9ad2338cf7ec5a6bffa410258368",
-        "title": "What My Daughter Told ChatGPT Before She Took Her Life",
-        "summary": "The medical profession has clear rules and responsibilities. What about the chatbots?",
-        "source": "nytimes",
-        "date": "2025-08-18T18:01:50+09:00",
-        "url": "https://www.nytimes.com/2025/08/18/opinion/chat-gpt-mental-health-suicide.html",
         "reportUrl": ""
     },
     {
@@ -204,60 +528,6 @@
         "source": "wsj",
         "date": "2025-08-15T01:05:00+09:00",
         "url": "https://www.wsj.com/politics/policy/florida-immigration-detention-center-deportation-depot-8b189714",
-        "reportUrl": ""
-    },
-    {
-        "id": "c274607a98bdc32f4ba7db4ff47a017c468edb66196b09959beed78f05a2f93a",
-        "title": "Morton Meyerson, Who Helped Build Ross Perot’s EDS Into a Powerhouse, Dies at 87",
-        "summary": "Computer outsourcing pioneer also advised Perot during his presidential campaign—and mentored Michael Dell and Mark Cuban.",
-        "source": "wsj",
-        "date": "2025-08-14T23:00:00+09:00",
-        "url": "https://www.wsj.com/business/entrepreneurship/morton-meyerson-texas-businessman-dead-1b16a0d6",
-        "reportUrl": ""
-    },
-    {
-        "id": "ed8211cd6078f509d6301cb6aed5f5432866c94b7d3e28f3be2242ed85fe0db2",
-        "title": "Feeling Especially Hot and Sticky This Summer? Now There’s a Metric for That",
-        "summary": "Summer heat across the Eastern U.S. is off the charts in a new ‘stickiness’ measurement that combines heat and humidity.",
-        "source": "wsj",
-        "date": "2025-08-14T21:00:00+09:00",
-        "url": "https://www.wsj.com/us-news/climate-environment/feeling-especially-hot-and-sticky-this-summer-now-theres-a-metric-for-that-1a93a13d",
-        "reportUrl": ""
-    },
-    {
-        "id": "1ec25df0440699893b07854d0c2544a04d82d947f8812ae1ff9795fb70f659f8",
-        "title": "From E-Bikes to Scooters, Roads Are Getting More Crowded and Confusing",
-        "summary": "Cities are trying to figure out how to accommodate the boom in two-wheelers that threaten safety for pedestrians and riders.",
-        "source": "wsj",
-        "date": "2025-08-14T18:30:00+09:00",
-        "url": "https://www.wsj.com/lifestyle/cars/city-micromobility-street-safety-420ccae3",
-        "reportUrl": ""
-    },
-    {
-        "id": "86fde4a9369ccc19560d3698d281878a44abc89f61d5a0d124ea0864ffc8c3a2",
-        "title": "Democrats are struggling to recover support from some Silicon Valley figures that it lost recently due to a split over policy",
-        "summary": "Tech executives have been a reliable fundraising source for Democrats. Trump is complicating that.",
-        "source": "wsj",
-        "date": "2025-08-14T10:00:00+09:00",
-        "url": "https://www.wsj.com/politics/policy/silicon-valley-democrat-republican-swing-853b5899",
-        "reportUrl": ""
-    },
-    {
-        "id": "aabfb65f35a21f5e0deebeb22ba4c9fca11ab9e058078691fc4f425316208334",
-        "title": "Juneau Avoids Disastrous Glacier Flood",
-        "summary": "City officials say the flood threat has ended and credit barriers with preventing more damage from the Mendenhall Glacier outburst",
-        "source": "wsj",
-        "date": "2025-08-14T09:18:00+09:00",
-        "url": "https://www.wsj.com/us-news/climate-environment/alaska-glacier-flood-juneau-evacuation-1b45b567",
-        "reportUrl": ""
-    },
-    {
-        "id": "4f7ce5fb41f892d0cafdf24f2068f4e34c76ec881552e7b55a10b534e31ec6fa",
-        "title": "‘Alligator Alcatraz’ Detainees Allege Disease, Flooding at Florida Facility",
-        "summary": "The Trump administration is facing increasing pressure over the conditions at immigration detention centers.",
-        "source": "wsj",
-        "date": "2025-08-14T06:20:00+09:00",
-        "url": "https://www.wsj.com/us-news/law/alligator-alcatraz-detainees-allege-disease-flooding-at-florida-facility-3080476b",
         "reportUrl": ""
     }
 ]
