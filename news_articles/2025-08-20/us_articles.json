@@ -1,0 +1,551 @@
+[
+    {
+        "id": "56aa77762617affa12456aff687b28e375f3f882c07da0295efbff674c213797",
+        "title": "Stabbing at Arizona High School Leaves 1 Student Dead, Officials Say",
+        "summary": "A fight between two students at Maryvale High School in Phoenix on Tuesday left one fatally stabbed and the other with non-life-threatening injuries and in custody, officials said.",
+        "source": "nytimes",
+        "date": "2025-08-20T09:15:10+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/us/arizona-stabbing-high-school.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "2ad5c164071bc7c1e511ef6a9fb0109c9dda8fe681f807c435fe623241b047fc",
+        "title": "Arkansas Housing Development Restricted to White Residents Sparks Legal Concerns",
+        "summary": "Housing rights experts say a community restricted to white residents is illegal, but the creators believe they could win a potential challenge in court in the current political climate.",
+        "source": "nytimes",
+        "date": "2025-08-20T08:53:44+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/realestate/arkansas-white-housing-return-to-land.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "2146e1ff2a431f2b60575552f374e3dfbb740aa00025d0050b457a106ece9e6c",
+        "title": "Hurricane Erin Brings Rip Currents Closing NYC and NJ Beaches",
+        "summary": "Beaches along the New Jersey coast and in Delaware were closed Tuesday as the powerful storm churned in the Atlantic. New York City announced its beaches would close on Wednesday and Thursday.",
+        "source": "nytimes",
+        "date": "2025-08-20T08:05:57+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/nyregion/hurricane-erin-beach-closures-new-jersey.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "e4a7029731218ec4c7ba558ceb53da71cb95248dba994a801aabed7416ac90e9",
+        "title": "Once a Source of Life and Renewal, Monsoon Brings Death to Pakistan",
+        "summary": "With villages swept away and Pakistan’s largest city assailed by monsoon floods, climate change has brought a catastrophic new normal to the country.",
+        "source": "nytimes",
+        "date": "2025-08-20T08:04:45+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/world/asia/pakistan-monsoon-devastation.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "a0c0ed6a95d68bae35661f66820cd53bfea53ee4f2406aa9161d977ea58ce648",
+        "title": "The Trump administration is planning to screen immigrants for ‘anti-American’ views",
+        "summary": "The new guidance builds on the agency’s policy of vetting social media for evidence of antisemitism.",
+        "source": "wsj",
+        "date": "2025-08-20T07:56:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/ice-immigration-social-media-vetting-9da2d2d1",
+        "reportUrl": ""
+    },
+    {
+        "id": "03b227e6b310d9d4dd28fd0244f11100fcfd8187c91a514bd90c2e102dc06670",
+        "title": "At Hamptons Fund-Raiser, Cuomo Predicts Help From Trump Is on the Way",
+        "summary": "Andrew M. Cuomo, who trails in the polls for New York City mayor, is said to have told a crowd of donors that he believed President Trump would help smooth his path to victory.",
+        "source": "nytimes",
+        "date": "2025-08-20T07:47:38+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/nyregion/cuomo-trump-nyc-mayor-hamptons.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "805bac57a358564ddf25a38bfe4c2b01de32dc7f6d784db0b8702f355a8f418c",
+        "title": "North Carolina Beach Towns Brace for Dangerous Seas From Hurricane Erin",
+        "summary": "Most of the tourists have left Ocracoke Island, and the surfers are watching closely as deadly rip currents lurk below the waves.",
+        "source": "nytimes",
+        "date": "2025-08-20T07:40:18+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/weather/hurricane-erin-north-carolina-evacuations.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "d2bd92f17db590b1f3b78a6ffc66f5c5ce7424e82276e2f7bdc4b3f3af34c9d0",
+        "title": "Texas Rep. Nicole Collier Slept on the House Floor in Protest",
+        "summary": "Nicole Collier, a state representative, slept in the Capitol rather than agree to police surveillance imposed by Republicans after a Democratic walkout. “I am resisting,” she said.",
+        "source": "nytimes",
+        "date": "2025-08-20T07:21:50+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/us/politics/texas-redistricting-nicole-collier.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "4f02d1766f8e68d26efcc38be72800c1534597a3f04039c441e6852a76ac175b",
+        "title": "Boston Takes Defiant Stance Against Trump Administration’s Immigration Policy",
+        "summary": "",
+        "source": "wsj",
+        "date": "2025-08-20T07:18:00+09:00",
+        "url": "https://www.wsj.com/us-news/boston-takes-defiant-stance-against-trump-administrations-immigration-policy-068f19e1",
+        "reportUrl": ""
+    },
+    {
+        "id": "d6f7fdbef94a8d3ddae18f7832ea32a99cdbfa2e28bd2ae0e9d68888f26d6a94",
+        "title": "Abrego Garcia’s Lawyers Accuse Trump Administration of Vindictive Prosecution",
+        "summary": "It was the second time that Mr. Abrego Garcia’s lawyers have sought to hold the Trump administration accountable over its handling of his expulsion to El Salvador and its aftermath.",
+        "source": "nytimes",
+        "date": "2025-08-20T07:10:49+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/us/politics/kilmar-abrego-garcia-trump-prosecution.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "b3fb0a7cd2fb9ba675050d892825e158b4d4711166efd48c200e5deb03d76103",
+        "title": "He Tried to Endorse From the Pulpit. He Wound Up Without a Church.",
+        "summary": "The I.R.S. says churches can now support candidates during services, but many denominations still forbid it. A Wisconsin pastor learned the hard way.",
+        "source": "nytimes",
+        "date": "2025-08-20T07:00:17+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/us/politics/church-endorsements-irs-kenosha.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "906de5aaa14f1c3db5001926ee0f2016660b53f42e0906167fc3b76779b80e3c",
+        "title": "Opinion | RFK Jr.’s Misguided War on mRNA",
+        "summary": "He’s using Biden-era mistakes to tarnish a promising technology.",
+        "source": "wsj",
+        "date": "2025-08-20T06:55:00+09:00",
+        "url": "https://www.wsj.com/opinion/rfk-jr-mrna-vaccines-hhs-covid-jay-bhattacharya-e9fa1ac3",
+        "reportUrl": ""
+    },
+    {
+        "id": "e98518472a84eab6e73e8cd80784256075fcd91c8cf78a4e7e7933044cc4e295",
+        "title": "Israel Says It Killed a Hamas Militant Involved in Yarden Bibas Kidnapping",
+        "summary": "Mr. Bibas, his wife and their two small children were abducted and taken to Gaza. Only he survived.",
+        "source": "nytimes",
+        "date": "2025-08-20T06:54:46+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/world/middleeast/hamas-israel-bibas-kidnapping.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "24a7a46bbaffb49d462e74e71d087d1a4a31370f1a34906d6e2ed823aa065519",
+        "title": "Opinion | Rebecca Taibleson to the Seventh Circuit",
+        "summary": "Trump’s latest choice is a Scalia clerk who vouched for Kavanaugh.",
+        "source": "wsj",
+        "date": "2025-08-20T06:54:00+09:00",
+        "url": "https://www.wsj.com/opinion/rebecca-taibleson-seventh-circuit-nominee-brett-kavanaugh-donald-trump-59dd8fd4",
+        "reportUrl": ""
+    },
+    {
+        "id": "d5cc1570debaf86fa6fe06c85ee3c7bfe9d43114b67a216f46aa5af16bcd8fea",
+        "title": "Trump Says He’s Ended 6 (or 7) Wars. Here’s Some Context.",
+        "summary": "President Trump has cast himself as a global peacemaker. His interventions have calmed some conflicts, while in others his role is less clear.",
+        "source": "nytimes",
+        "date": "2025-08-20T06:50:50+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/world/europe/trump-six-wars-fact-check.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "6261431369b9ecaafb61cfabfe0562213feb722d4e0a479720fa57378a3adff5",
+        "title": "Opinion | Sniffing for Pre-Crime at the CFPB",
+        "summary": "Unions are trying to block reforms before they’re announced.",
+        "source": "wsj",
+        "date": "2025-08-20T06:50:00+09:00",
+        "url": "https://www.wsj.com/opinion/cfpb-national-treasury-employees-union-gregory-katsas-russell-vought-1f8f2b3a",
+        "reportUrl": ""
+    },
+    {
+        "id": "06cd5c9aab2b19bfefed05fd73a18fbdb8f404a94521dec4fc991974d72ab000",
+        "title": "Will Putin Meet With Zelensky to End the Ukraine War?",
+        "summary": "The Kremlin is keeping its options open, but analysts said the Russian leader would probably only meet with his Ukrainian counterpart to accept a capitulation.",
+        "source": "nytimes",
+        "date": "2025-08-20T06:26:40+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/world/europe/putin-zelensky-meeting.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "0413e943d71036c714f0777565150bdb8de419ef4f77815c3b3680d49480e210",
+        "title": "ICE Wrongly Suggests Lawmaker Doxxed Agents, and Racist Threats Follow",
+        "summary": "A state representative in Connecticut had posted on Instagram about immigration enforcement efforts in his district but did not give detailed information.",
+        "source": "nytimes",
+        "date": "2025-08-20T06:11:13+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/nyregion/ice-connecticut-legislator-threats.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "81f27c97c2d62103d9d8c3b2cde6f1cdb014880117a8f7361d2842677121538d",
+        "title": "Ukraine Diplomacy Reveals How Un-American Trump Is",
+        "summary": "Trump doesn’t feel any gut need to bring Ukraine into the West or understand that Putin’s invasion of that country was just his latest march to break up the West.",
+        "source": "nytimes",
+        "date": "2025-08-20T06:02:33+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/opinion/trump-russia-ukraine-putin.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "79a5d1d3a92d92b827d8e743e7f2271dce2f5f535ffb5c3714a02fbc386ae357",
+        "title": "OpenAI’s GPT-5 Launch Causes Backlash Due to Colder Responses",
+        "summary": "When OpenAI released a new version of ChatGPT, people were quick to protest its colder responses. Acknowledging the emotional attachment with chatbots, the company quickly backtracked.",
+        "source": "nytimes",
+        "date": "2025-08-20T05:54:29+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/business/chatgpt-gpt-5-backlash-openai.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "484f91a8ddc3f8749ec33b851d8fc8b17bee1af7b93dffc8954ed6554cbd8f35",
+        "title": "A Republican-led House committee said it plans to publicly release some files it receives from the Justice Department related to Jeffrey Epstein",
+        "summary": "The oversight committee will start receiving documents from the Justice Department on Friday.",
+        "source": "wsj",
+        "date": "2025-08-20T05:42:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/house-republicans-plan-to-release-some-epstein-files-b2ea5c6f",
+        "reportUrl": ""
+    },
+    {
+        "id": "fd1693a734ba1e6324ce41917d2c7a68ee7947800c02a5aed7403c0ff0d1330e",
+        "title": "Opinion | Send Harvard’s Chinese Students Home",
+        "summary": "It makes no sense for the U.S. to be educating the scientific and leadership class of a future adversary.",
+        "source": "wsj",
+        "date": "2025-08-20T05:28:00+09:00",
+        "url": "https://www.wsj.com/opinion/send-harvards-chinese-students-home-national-security-risk-research-2e43313d",
+        "reportUrl": ""
+    },
+    {
+        "id": "cc42917e55361e4b9cedbdfeb93cb0d994b2faa7c1d546263f676fea6f0599e9",
+        "title": "Opinion | Elon Musk Wants to Give You Money for Nothing",
+        "summary": "Artificial intelligence is the latest justification for supporting the bad idea of ‘universal basic income.’",
+        "source": "wsj",
+        "date": "2025-08-20T05:27:00+09:00",
+        "url": "https://www.wsj.com/opinion/elon-musk-wants-to-give-you-money-for-nothing-a991c3a9",
+        "reportUrl": ""
+    },
+    {
+        "id": "ba2053c5dd9763f1936106b1beb08647e79b875bf6d2aca89c587410d6f23724",
+        "title": "Opinion | The Federal Reserve Doesn’t Have to Be an Enemy of Growth",
+        "summary": "A larger-than-expected September rate cut and broad reforms would make America prosperous again.",
+        "source": "wsj",
+        "date": "2025-08-20T05:26:00+09:00",
+        "url": "https://www.wsj.com/opinion/the-federal-reserve-doesnt-have-to-be-an-enemy-of-growth-rate-cut-reform-e4f509dd",
+        "reportUrl": ""
+    },
+    {
+        "id": "4c42adf376e9043b2e5c54543923481852da9827a49199b63561dc88877eee66",
+        "title": "Adams Asks Trump Administration to Stop Courthouse Migrant Detentions",
+        "summary": "Federal prosecutors dropped charges against Mayor Eric Adams of New York so that he could help with deportations. But the administration and the city have been jousting in court.",
+        "source": "nytimes",
+        "date": "2025-08-20T05:09:47+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/nyregion/adams-immigration-amicus-brief.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "e4555620702ffaffc914264314c436ae52f5d7994d528b9ed292366a06a423b8",
+        "title": "Trump Wants Universities to Show Him the Money, or No Deal",
+        "summary": "President Trump has personally stipulated that hefty financial penalties be part of agreements his administration is negotiating with the elite universities. Critics call it extortion.",
+        "source": "nytimes",
+        "date": "2025-08-20T04:55:02+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/us/politics/trump-universities-financial-penalties.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "aef84ccd1e7bbe2d56f320189d84d1378620907d7676765fc3a2c557d1e9caa4",
+        "title": "Zuckerberg Again Overhauls Meta’s A.I. Efforts",
+        "summary": "Meta internally announced a new restructuring of its artificial intelligence division amid internal tensions over the technology, people with knowledge of the matter said.",
+        "source": "nytimes",
+        "date": "2025-08-20T04:46:59+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/technology/mark-zuckerberg-meta-ai.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "0c5f3c2c87c1f2b2352d284ed9f3b37aad05c1699d1541cb5f13fa2ba35a93e3",
+        "title": "Pirro Orders Office to Maximize Criminal Charges on Street Arrests",
+        "summary": "The instruction amounts to a declaration that the understaffed U.S. attorney’s office will seek to ramp up criminal charges arising from the president’s takeover of law enforcement in the capital.",
+        "source": "nytimes",
+        "date": "2025-08-20T04:33:52+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/us/politics/pirro-has-ordered-her-office-to-maximize-criminal-charges-on-street-arrests.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "1153d71c6fd02619d41c80340ac943f769c473c9f2efdf739ef513be777fb7cd",
+        "title": "How Europe Learned to Speak So Trump Would Listen",
+        "summary": "The leaders of Germany, France, Britain and other supporters of Ukraine have come together in exceptional ways to help sway the U.S. president.",
+        "source": "nytimes",
+        "date": "2025-08-20T04:29:39+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/world/europe/trump-putin-summit-europe.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "c138e3ccc31b1663a526a781e3e2706127346c5ada2f0a67613c749daeb25430",
+        "title": "In Battle Over D.C. Police, Federal Prosecutors Open Inquiry Into Crime Data",
+        "summary": "The same U.S. attorney’s office that praised a drop in crime in the capital in April has begun an investigation into the Police Department resisting President Trump’s takeover.",
+        "source": "nytimes",
+        "date": "2025-08-20T04:19:46+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/us/politics/dc-police-crime-data-investigation.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "8aaf3ccb8bd6e0298fce2568dbf637452308a2493f0bcfa38a7e57ed2c31179c",
+        "title": "A ‘Dexter’ Obsessed Man Highlights a Gap in British Law",
+        "summary": "Inspired by the TV serial killer, Jacob Power wrote out detailed murder plans and dug graves. Still, prosecutors could not charge him with attempted murder.",
+        "source": "nytimes",
+        "date": "2025-08-20T04:19:35+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/world/europe/jacob-power-dexter-murder-plans-uk-laws.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "885f8ec225afaa5ffa7fed297a9f51374a1da2abfcaa9fd91f0446df3026edc5",
+        "title": "National Guard Troops in Washington Stick to Tourist Areas",
+        "summary": "The number of troops in the city is expected to grow. But Army officials appear to be trying to keep them on the sidelines of President Trump’s mission.",
+        "source": "nytimes",
+        "date": "2025-08-20T04:15:15+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/us/politics/tourists-national-guard-washington.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "f4270ea36c57e4b7768e81798f2978147e034f1920236ed81140a2c273f1502c",
+        "title": "No Tariff Exemption for European Wine and Spirits, at Least for Now",
+        "summary": "As the text of a trade agreement comes together, European Union negotiators haven’t persuaded the Americans to cut alcohol tariffs to zero.",
+        "source": "nytimes",
+        "date": "2025-08-20T03:35:56+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/world/europe/tariff-exemption-european-wine-spirits.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "477cca23e2dc7664ed85fbaf9cefd0cb8cd45c3e6e59854c50263d2913014b3f",
+        "title": "How Zelensky Made Progress With Trump",
+        "summary": "President Volodymyr Zelensky of Ukraine had a remarkably different White House visit on Monday than the ambush he walked into six months ago. Michael Schwirtz, the global intelligence correspondent for The New York Times, explains how President Zelensky courted President Trump and managed to put the ball back in Vladimir V. Putin’s court.",
+        "source": "nytimes",
+        "date": "2025-08-20T03:18:11+09:00",
+        "url": "https://www.nytimes.com/video/world/europe/100000010348280/how-zelensky-made-progress-with-trump.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "e6b7eda26e2a22c4aad097ed1c10c61249e78f802d2bd99aaaff1677f6b55c74",
+        "title": "OpenAI Employee Stock Sale Would Value ChatGPT Maker at $500 Billion",
+        "summary": "At $500 billion, OpenAI would become the world’s most valuable privately held company.",
+        "source": "nytimes",
+        "date": "2025-08-20T03:16:29+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/technology/openai-chatgpt-stock-sale-valuation.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "8390b9dd10bf157201afa2fa0bb8bb470848ef186355bb46b3c16907f6634710",
+        "title": "The Mind-Boggling Intrusiveness of Donald J. Trump",
+        "summary": "The president is driving the tentacles of the federal government deep into the nation’s economy, culture and legal system.",
+        "source": "nytimes",
+        "date": "2025-08-20T02:38:03+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/opinion/trump-intrusion-lincoln-roosevelt.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "d5e5356cc6b3b16d330d197e40a1a98832474f50bea5017ffb0effc15c2b5eab",
+        "title": "California Republicans File Suit Seeking to Block Newsom Redistricting Plan",
+        "summary": "Republican state lawmakers argue that Democratic lawmakers violated 30-day disclosure rules in the California Constitution.",
+        "source": "nytimes",
+        "date": "2025-08-20T01:42:36+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/us/california-republicans-lawsuit-redistricting.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "190aa084bd923b7fa8414fd5305bab34261823ac1da3b87c8af4c75db3f0ea88",
+        "title": "How Keen Footwear Stays Ahead of Trump’s Shifting Tariffs",
+        "summary": "Keen Footwear has limited its exposure to supply chain trouble and opened a plant in Kentucky. But the trade upheaval has strained its adaptive strategy.",
+        "source": "nytimes",
+        "date": "2025-08-20T00:00:41+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/business/trump-tariffs-keen-footwear.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "41bf24372eb745c0ea785510d53462887d72791ab1ecf6249685f187e2d85f40",
+        "title": "After months of effort, President Trump says an agreement between the leaders of Russia and Ukraine to directly negotiate a deal ending Moscow’s invasion is close at hand",
+        "summary": "Even if the Russian leader supports a pact, skepticism is likely to follow as Moscow has previously broken promises not to attack Ukraine.",
+        "source": "wsj",
+        "date": "2025-08-19T23:07:00+09:00",
+        "url": "https://www.wsj.com/world/trump-plans-to-get-putin-and-zelensky-talking-thats-not-even-the-hard-part-f1e7f326",
+        "reportUrl": ""
+    },
+    {
+        "id": "783d7984c76e313689cc180ad7a7337bfac3e679ac03acf9a4094b1b590cb7d3",
+        "title": "The Rainforests Being Cleared to Build Your R.V.",
+        "summary": "American demand for tropical wood that is used in motor homes, conservationists say, is accelerating the disappearance of some of the world’s largest forests.",
+        "source": "nytimes",
+        "date": "2025-08-19T21:15:55+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/world/asia/indonesia-borneo-deforestation-rv.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "720e82bdcc1d29d56ed270aad85e099a165ad3e906939a497787e196a38f2094",
+        "title": "New England Seafood With a Side of Punk, at Smithereens",
+        "summary": "This quirky East Village newcomer conjures a thoughtful, sometimes dark, take on traditional coastal cooking. Also, doughnuts and Japanese city pop.",
+        "source": "nytimes",
+        "date": "2025-08-19T18:01:29+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/dining/dining-smithereens-restaurant-review.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "92bb98d28544c41726b66f5a74a339940018e91c1832f9a63e6c81c4c39b3e21",
+        "title": "Seeking Tales and Sipping Whiskey in a Shack Floating Down the Bayou",
+        "summary": "The shanty boat was bound for New Orleans, but the destination mattered less than the challenges, chance encounters and lessons learned along the way.",
+        "source": "nytimes",
+        "date": "2025-08-19T18:00:38+09:00",
+        "url": "https://www.nytimes.com/2025/08/19/us/louisiana-boats.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "72ed74ab5e1f43e3d0a80b24d5571537286f9eac9f9edbdf427ec158264839e0",
+        "title": "The Trump administration has restored a website that tracks federal spending, in a victory for lawmakers who said the White House was using the blackout to freeze funding without public disclosures",
+        "summary": "Website tracking federal payments is back online following court ruling, after administration took it down in March.",
+        "source": "wsj",
+        "date": "2025-08-19T09:01:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/lawmakers-win-round-in-spending-fight-with-white-house-6c63de2e",
+        "reportUrl": ""
+    },
+    {
+        "id": "f60474afdf79819c11f3b5ed64f7ab1855d418c2dbef459cbe8792f81552312d",
+        "title": "An ousted DOJ official says Bondi aides corrupted antitrust enforcement",
+        "summary": "Roger Alford, formerly second-in-command of the antitrust division, called on a court to scrutinize the merger case that led to his firing.",
+        "source": "wsj",
+        "date": "2025-08-19T08:55:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/bondi-aides-corrupted-antitrust-enforcement-ousted-doj-official-says-466ed838",
+        "reportUrl": ""
+    },
+    {
+        "id": "f52c1d614cf3e72b5c8a8b90c23c07368e5201310e3897ca11e8cb2db6e8e4e4",
+        "title": "Texas Democrats ended a two-week walkout over Republican plans to redraw the state’s congressional map",
+        "summary": "Democratic allies say quorum-break drew national attention effectively, as legislature begins second special session to pass redistricting.",
+        "source": "wsj",
+        "date": "2025-08-19T08:13:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/texas-democrats-congressional-redistricting-walkout-ends-00f277f3",
+        "reportUrl": ""
+    },
+    {
+        "id": "638cc4c58adcde7479610d2c334d65b671e9065c2f638b437388e85e99ddd53e",
+        "title": "President Trump continues his on-again, off-again battle with mailed ballots in the lead up to tight midterm elections",
+        "summary": "The president is continuing his on-again, off-again battle with mailed ballots in the lead up to midterm elections.",
+        "source": "wsj",
+        "date": "2025-08-19T04:38:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/trump-election-mail-in-ballot-vote-4e78daf7",
+        "reportUrl": ""
+    },
+    {
+        "id": "e04df9bafb9ac1d2babbdac1140fe667d12a21143d88784d9416b2f9178d9aea",
+        "title": "Former Sen. Sherrod Brown (D., Ohio) has launched a comeback bid",
+        "summary": "Former three-term senator aims for comeback in 2026 against Sen. Jon Husted.",
+        "source": "wsj",
+        "date": "2025-08-19T02:19:00+09:00",
+        "url": "https://www.wsj.com/politics/elections/sherrod-brown-ohio-senate-race-2026-f8197db6",
+        "reportUrl": ""
+    },
+    {
+        "id": "ace142c4e7c3310050d269217b00cd6c99c50afd76c9adb565de1f013443805e",
+        "title": "Trump’s Job Cuts Leave a Profession Looking for Its Next Act",
+        "summary": "Niche researchers in a government-dependent education field are trying to pivot. “There are no crops coming out of this ground anymore.”",
+        "source": "wsj",
+        "date": "2025-08-18T22:00:00+09:00",
+        "url": "https://www.wsj.com/us-news/education/trumps-job-cuts-education-researchers-careers-f28c61c6",
+        "reportUrl": ""
+    },
+    {
+        "id": "343a4c0d035ad07e5afd21c9855c959e1e7927107f4d19840426eae3b1d442af",
+        "title": "Court Split Leaves Trump’s Civil Fraud Appeal Stuck in Slow Lane",
+        "summary": "The New York court typically moves fast, but it has been nearly a year since it heard Trump’s arguments.",
+        "source": "wsj",
+        "date": "2025-08-18T18:00:00+09:00",
+        "url": "https://www.wsj.com/us-news/law/court-split-leaves-trumps-civil-fraud-appeal-stuck-in-slow-lane-8ca09956",
+        "reportUrl": ""
+    },
+    {
+        "id": "5b613f9d2fcbde8d7a603f075891453ea02ae27002eec9cbbf3d4f09fec87c51",
+        "title": "European Renewable Stocks Rise After U.S. Tax Credit Guidance",
+        "summary": "The shares rose after the U.S. published better-than-expected guidelines on which projects will qualify for wind and solar tax credits.",
+        "source": "wsj",
+        "date": "2025-08-18T17:32:00+09:00",
+        "url": "https://www.wsj.com/articles/european-renewable-stocks-rise-after-u-s-tax-credit-guidance-d5ffec9e",
+        "reportUrl": ""
+    },
+    {
+        "id": "ce2489211d1776c0926708788feda890fe4f61833674f1464ba7a08e5dfa888b",
+        "title": "On D.C. Streets, Feds Make a Show of Force",
+        "summary": "President Trump’s deployment leaves some residents questioning why high-crime neighborhoods aren’t getting as much attention.",
+        "source": "wsj",
+        "date": "2025-08-18T06:12:00+09:00",
+        "url": "https://www.wsj.com/us-news/national-guard-washington-dc-959d9844",
+        "reportUrl": ""
+    },
+    {
+        "id": "ff2b9e3abb21a1b3431819f20111b733e530e6d1519ebcd5468080270cb299ce",
+        "title": "More National Guard troops are heading soon to Washington, D.C., and they are preparing to start carrying weapons in the coming days, officials say, a shift in policy",
+        "summary": "The shift comes after defense officials said the soldiers deployed to the capital wouldn’t be armed.",
+        "source": "wsj",
+        "date": "2025-08-18T02:18:00+09:00",
+        "url": "https://www.wsj.com/politics/national-security/national-guard-soldiers-prepare-to-carry-weapons-in-washington-d-c-3965923c",
+        "reportUrl": ""
+    },
+    {
+        "id": "6a72cc6f89dd41b168a2f15cb83da29e6f40580594f72fa7bffab6a833f346fd",
+        "title": "More National Guard Soldiers Head to D.C. and Prepare to Carry Weapons",
+        "summary": "The shift comes after defense officials said the soldiers deployed to the capital wouldn’t be armed.",
+        "source": "wsj",
+        "date": "2025-08-18T02:18:00+09:00",
+        "url": "https://www.wsj.com/politics/national-security/national-guard-soldiers-prepare-to-carry-weapons-in-washington-d-c-3965923c",
+        "reportUrl": ""
+    },
+    {
+        "id": "b78598ff3ed92f5fb83183b8a9e8c17084f7836b3f1efc7e4023066a31998c6b",
+        "title": "As Republicans try to tout Trump’s biggest legislative accomplishment of his second term, they are treading carefully, aware that the law is unpopular in some corners",
+        "summary": "GOP lawmakers are avoiding town halls as they try to sell voters on the new law, which is unpopular with many.",
+        "source": "wsj",
+        "date": "2025-08-17T22:00:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/republicans-promote-the-big-beautiful-bill-with-care-61c28ddb",
+        "reportUrl": ""
+    },
+    {
+        "id": "ce3190a7ffbbfa6150bc899c40babee0b7d3e65550ced85ad332ea9b4a355c54",
+        "title": "$50,000 Signing Bonus, No Age Caps: The Blitz to Hire ICE Officers",
+        "summary": "Uncle Sam is using social media and financial incentives to entice new recruits.",
+        "source": "wsj",
+        "date": "2025-08-17T18:00:00+09:00",
+        "url": "https://www.wsj.com/us-news/ice-recruitment-tactics-trump-d4bc32cf",
+        "reportUrl": ""
+    },
+    {
+        "id": "41f641a0489b2f6c7885ebee1c964698ff430b61fc4d1e99e5dc56e4181a3a26",
+        "title": "A Michigan Town Clamped Down on Its Wineries. Now It Owes Them $49 Million.",
+        "summary": "Old Mission Peninsula, on Lake Michigan, is on the hook for a small fortune to local winemakers, under a federal court order to repay revenue lost over zoning limits on special events.",
+        "source": "wsj",
+        "date": "2025-08-17T09:00:00+09:00",
+        "url": "https://www.wsj.com/business/old-mission-peninsula-michigan-winery-604fc216",
+        "reportUrl": ""
+    },
+    {
+        "id": "7e4b97f0d985ba9243dea0ec8c9bd583f4138e2919e4366e8f96ca1602c0a1f7",
+        "title": "San Francisco Has Embraced a New Tool to Clear Homeless Camps",
+        "summary": "City officials point to cleaner streets as evidence that a more active approach is working. Some say the tactics are making conditions worse.",
+        "source": "wsj",
+        "date": "2025-08-17T08:14:00+09:00",
+        "url": "https://www.wsj.com/us-news/san-francisco-has-embraced-a-new-tool-to-clear-homeless-camps-528d3110",
+        "reportUrl": ""
+    },
+    {
+        "id": "99641062ca057f3dcd40541e5c3ee5713322820b7954f4a64dfafb78557fc630",
+        "title": "I’m an Education Reporter. Finding a Kindergarten for My Son Still Overwhelmed Me.",
+        "summary": "How Sara Randazzo learned to conquer Los Angeles’ sprawling school system in an era of school choice.",
+        "source": "wsj",
+        "date": "2025-08-17T00:00:00+09:00",
+        "url": "https://www.wsj.com/us-news/education/kindergarten-search-school-choice-291737ed",
+        "reportUrl": ""
+    },
+    {
+        "id": "7aaceb4a05a0d0a0474f8e8738bd69ef22e4f4fe15eb0f6809fca0e3f54af46e",
+        "title": "‘Putin’s Jet!’: Alaska Becomes the Center of the Universe for One Weekend",
+        "summary": "Pickup trucks, salmon fishing and grizzly bears gave way to FBI agents and $1,000 hotel rooms as Anchorage’s biggest political moment unfolded. “All eyes” on the state.",
+        "source": "wsj",
+        "date": "2025-08-16T11:29:00+09:00",
+        "url": "https://www.wsj.com/us-news/alaska-trump-putin-meeting-reaction-db374d05",
+        "reportUrl": ""
+    },
+    {
+        "id": "d556346ec041203e1448c918848aa1be17d866d3f04b480b3aed4257d1046fcc",
+        "title": "Trump Administration Steps Back on Takeover of D.C. Police Department",
+        "summary": "After a court hearing, the Justice Department revised a directive but reasserted expectations for local police to help with federal immigration enforcement.",
+        "source": "wsj",
+        "date": "2025-08-16T08:39:00+09:00",
+        "url": "https://www.wsj.com/us-news/attorney-general-names-dea-chief-to-take-over-d-c-police-84372fff",
+        "reportUrl": ""
+    },
+    {
+        "id": "e2c862d25ec56870ef2e6fc4a39abd2101da58f34db9e42b7c8e25b8b7d19ebf",
+        "title": "New Orleans Mayor Indicted Over Allegations She Hid Relationship With Bodyguard",
+        "summary": "Federal prosecutors said LaToya Cantrell and Jeffrey Vappie, the police officer assigned to protect her, cost the city more than $70,000.",
+        "source": "wsj",
+        "date": "2025-08-16T07:53:00+09:00",
+        "url": "https://www.wsj.com/us-news/new-orleans-mayor-latoya-cantrell-indictment-corruption-probe-a3318745",
+        "reportUrl": ""
+    }
+]
