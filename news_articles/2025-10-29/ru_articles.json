@@ -1,0 +1,902 @@
+[
+    {
+        "id": "250300722f8d9fb1de6315e43c718c73c14ec422bd98b038b3c9992fdecb3080",
+        "title": "North Korea fires strategic cruise missile in Yellow Sea - Yonhap",
+        "summary": "The test was overseen by Pak Jong Chon, vice chairman of the Central Military Commission of the Workers’ Party of Korea",
+        "source": "tass",
+        "date": "2025-10-29T10:00:14+09:00",
+        "url": "https://tass.com/world/2036547",
+        "reportUrl": ""
+    },
+    {
+        "id": "2695904511e3073d0c2b71a495ebde07eeeddeb964011430889d6e20c034f567",
+        "title": "Cosmonauts complete spacewalk installing pulsed plasma injector on Nauka module",
+        "summary": "Additionally, Russian cosmonauts Alexey Zubritsky and Sergey Ryzhikov performed several maintenance tasks",
+        "source": "tass",
+        "date": "2025-10-29T09:50:53+09:00",
+        "url": "https://tass.com/science/2036545",
+        "reportUrl": ""
+    },
+    {
+        "id": "a45de73a192e482a8976da4f1ef02c85282fab920d779ea52690f3fb6de329af",
+        "title": "Kiev troops shell DPR once in past day, no casualties",
+        "summary": "The attack targeted the Gorlovka area",
+        "source": "tass",
+        "date": "2025-10-29T09:08:00+09:00",
+        "url": "https://tass.com/politics/2036543",
+        "reportUrl": ""
+    },
+    {
+        "id": "cca2175acfb541341ac22ad707ae2e6ce257e6fc5a2c24797f2580fe0487c8a7",
+        "title": "Civilian killed in Ukrainian drone attack on borderline Bryansk Region",
+        "summary": "Also, a girl aged 14 was wounded",
+        "source": "tass",
+        "date": "2025-10-29T08:59:00+09:00",
+        "url": "https://tass.com/politics/2036541",
+        "reportUrl": ""
+    },
+    {
+        "id": "f5643adf656f17ee3ebe15d96774314f9dffe003b1b50a2382ce847f13e0b5ce",
+        "title": "At least 11 Palestinians killed in Israeli bombing of Gaza — TV",
+        "summary": "According to the TV channel, bombing of the Gaza Strip territory still continues",
+        "source": "tass",
+        "date": "2025-10-29T08:50:00+09:00",
+        "url": "https://tass.com/world/2036539",
+        "reportUrl": ""
+    },
+    {
+        "id": "70663ed95ef21145f6e42a2e61893b73f096ff385fba3fd9a4b3de37fc3473bb",
+        "title": "Fourth drone shot down on its way to Moscow",
+        "summary": "First responders are working at the crash site, Sergey Sobyanin reported",
+        "source": "tass",
+        "date": "2025-10-29T08:23:00+09:00",
+        "url": "https://tass.com/politics/2036537",
+        "reportUrl": ""
+    },
+    {
+        "id": "23024d5be527b89245fb373d563376eb4d1ceee826ee73a82f049a74a94293c6",
+        "title": "Russian deputy premier arrives in South Korea to participate in APEC summit",
+        "summary": "The summit is scheduled to take place on October 31 and November 1",
+        "source": "tass",
+        "date": "2025-10-29T08:05:00+09:00",
+        "url": "https://tass.com/politics/2036535",
+        "reportUrl": ""
+    },
+    {
+        "id": "ea147231aafd63d88a81f8fde1246e7caa2194db808862c34caa8bf5a792e68d",
+        "title": "US to pay wages to its servicemen on Friday despite shutdown — vice president",
+        "summary": "JD Vance has not released details about how the upcoming paychecks will be funded",
+        "source": "tass",
+        "date": "2025-10-29T07:58:00+09:00",
+        "url": "https://tass.com/world/2036533",
+        "reportUrl": ""
+    },
+    {
+        "id": "4b106f7f141a4599abc1f75d7197919ef74cb6b147fe4eddca2e9614259fb48c",
+        "title": "Hurricane Melissa weakens to Category 4, moves from Jamaica towards Cuba",
+        "summary": "The Cuban government is taking all the required precautions and evacuating residents",
+        "source": "tass",
+        "date": "2025-10-29T07:32:49+09:00",
+        "url": "https://tass.com/emergencies/2036531",
+        "reportUrl": ""
+    },
+    {
+        "id": "a842d5aeb46e1787d14c5f7d7b02c7577e80b379b046db4dae87d06ef4dd5585",
+        "title": "Russian tennis player Rublev advances to Paris Masters Round of 16",
+        "summary": "Andrey Rublev, 28, is currently ranked 17th in the ATP Rankings list",
+        "source": "tass",
+        "date": "2025-10-29T07:06:04+09:00",
+        "url": "https://tass.com/sports/2036527",
+        "reportUrl": ""
+    },
+    {
+        "id": "05f53bc68a4a4271d7e6e9f3729390afeededa58bc7312c11712790e1d220f92",
+        "title": "Ukraine to receive weapons worth $2 billion soon — US envoy to NATO",
+        "summary": "US Permanent Representative to NATO Matthew Whitaker noted that there would be a foreign ministers meeting at the beginning of December, which will most likely kind of top that off",
+        "source": "tass",
+        "date": "2025-10-29T06:52:00+09:00",
+        "url": "https://tass.com/world/2036525",
+        "reportUrl": ""
+    },
+    {
+        "id": "2acbd0c8928989df8fc8e4a6b691e6ecbeb4e6b095b954fd7078055f40500c0d",
+        "title": "Top Belarusian diplomat calls for dialogue with Western neighbors on border security",
+        "summary": "Foreign Minister Maxim Ryzhenkov emphasized that safe borders will be a reality only through joint efforts",
+        "source": "tass",
+        "date": "2025-10-29T06:06:01+09:00",
+        "url": "https://tass.com/world/2036517",
+        "reportUrl": ""
+    },
+    {
+        "id": "34b17bd6ad026104dc5ca902a6530a65139639a95a26aa1dfab8a3fe36090f26",
+        "title": "Israel notifies US of its plans to attack Gaza Strip — news agency",
+        "summary": "US Vice President JD Vance told reporters that the ceasefire would hold",
+        "source": "tass",
+        "date": "2025-10-29T06:01:00+09:00",
+        "url": "https://tass.com/world/2036515",
+        "reportUrl": ""
+    },
+    {
+        "id": "61b6cb7afbf1636d70c819dbe7dd11de5a554830b74c95081594f4a1a5088f04",
+        "title": "Hamas denies involvement in shooting incident in Rafah, says committed to ceasefire",
+        "summary": "The Hamas Movement reaffirmed its commitment to the ceasefire agreement",
+        "source": "tass",
+        "date": "2025-10-29T05:36:41+09:00",
+        "url": "https://tass.com/world/2036513",
+        "reportUrl": ""
+    },
+    {
+        "id": "961ca3a7a5a9d741a341b46d96e51a4b3da3e6faaae83115c02f8f786f528f0b",
+        "title": "Air defenses down 57 Ukrainian drones over Russian regions in three hours — top brass",
+        "summary": "35 of them were destroyed over the Bryansk Region",
+        "source": "tass",
+        "date": "2025-10-29T05:33:01+09:00",
+        "url": "https://tass.com/politics/2036511",
+        "reportUrl": ""
+    },
+    {
+        "id": "e68123118fcd7e694b0c164ddae9406c67102bb9a981092142016295a0d67c82",
+        "title": "Russian diplomat says Cuba’s being on US list of state sponsors of terrorism is absurd",
+        "summary": "Russian Permanent Representative to the United Nations Vasily Nebenzya stressed that this is another illegitimate instrument of US political and economic pressure on the Cuban government",
+        "source": "tass",
+        "date": "2025-10-29T05:26:00+09:00",
+        "url": "https://tass.com/politics/2036509",
+        "reportUrl": ""
+    },
+    {
+        "id": "fce9a1be8fd73e1018f0436a3a14d8e886ccda0e5cce245e174ddbc2e2c38509",
+        "title": "US newspaper calls Burevestnik missile 'threat' to Trump's Golden Dome defense project",
+        "summary": "According to the newspaper, Burevestnik cruise missile could give Moscow potential leverage in arms-control talks",
+        "source": "tass",
+        "date": "2025-10-29T05:21:00+09:00",
+        "url": "https://tass.com/world/2036507",
+        "reportUrl": ""
+    },
+    {
+        "id": "d67b888bddb5e1ba7ebfa880074e2a0e4b0949b6a25dde9286bac1fedd22c8d1",
+        "title": "Russian lawmakers propose giving part of gold, forex reserves to National Wealth Fund",
+        "summary": "This is necessary to finance high-tech projects, said chairman of the State Duma Committee on Property, Land, and Real Estate Relations Sergey Gavrilov",
+        "source": "tass",
+        "date": "2025-10-29T04:43:04+09:00",
+        "url": "https://tass.com/economy/2036501",
+        "reportUrl": ""
+    },
+    {
+        "id": "1b5749e25fe5d32e5736933037ac9d836e42449a73060b3df90f434a575f3331",
+        "title": "Nigerian Nobel laureate in Literature Soyinka stripped of US entry visa",
+        "summary": "The writer suggested that the reason behind the revocation of his US visa could be his words about US President Donald Trump",
+        "source": "tass",
+        "date": "2025-10-29T04:39:07+09:00",
+        "url": "https://tass.com/world/2036499",
+        "reportUrl": ""
+    },
+    {
+        "id": "1be6c50705afb87574a25c7f459780fe754cf15c14f18c2f99ec60ac5e021867",
+        "title": "Russia’s Finance Ministry proposes clarifying 2026 deadlines for national project funds",
+        "summary": "If signed, the provisions of the resolution will take effect on January 1, 2026",
+        "source": "tass",
+        "date": "2025-10-29T04:37:32+09:00",
+        "url": "https://tass.com/economy/2036497",
+        "reportUrl": ""
+    },
+    {
+        "id": "dcc3d310a566bfe09cbc625fd3facc9ef6888ccc700c62ab065a9b273f652416",
+        "title": "Gazprom reports rising domestic demand for its small-scale LNG",
+        "summary": "The volume of its sales by Gazprom Group’s subsidiaries and joint ventures in 2024 nearly doubled compared with 2023",
+        "source": "tass",
+        "date": "2025-10-29T04:34:46+09:00",
+        "url": "https://tass.com/economy/2036493",
+        "reportUrl": ""
+    },
+    {
+        "id": "4c643572c9f06851d4ac59d89c4c58aee1265e0bd6e1be268215ed8cf4e2afa8",
+        "title": "Gazprom increases 2025 investment program to $20.38 bln",
+        "summary": "It was planned that this figure would amount to $19.23 bln",
+        "source": "tass",
+        "date": "2025-10-29T04:31:43+09:00",
+        "url": "https://tass.com/economy/2036489",
+        "reportUrl": ""
+    },
+    {
+        "id": "e505bb509667fdf11d27b611c1e6e6fe106c466bc7088452720ccc05f53c783c",
+        "title": "Russian stock market closes with mixed dynamics",
+        "summary": "The MOEX index rose to 2,495.09 points",
+        "source": "tass",
+        "date": "2025-10-29T04:29:36+09:00",
+        "url": "https://tass.com/economy/2036487",
+        "reportUrl": ""
+    },
+    {
+        "id": "f175e972ad1eae5b3d08ae2a83088496a53102ca61cc24235b0a4007282e24f7",
+        "title": "Russian cosmonauts install plasma injector on Nauka module — Roscosmos",
+        "summary": "Soon specialists also will clean an MLM porthole, the Ekran-M experiment equipment cassette will be replaced and the EMMI control panel will be transferred to the ERA remote manipulator",
+        "source": "tass",
+        "date": "2025-10-29T04:27:09+09:00",
+        "url": "https://tass.com/science/2036485",
+        "reportUrl": ""
+    },
+    {
+        "id": "e9553063d86a249b105f9b778907364db616ee96cde38f9f48754ee1df002432",
+        "title": "First Russian-Venezuelan business forum opens in Caracas",
+        "summary": "Venezuela’s Vice President Delcy Rodriguez welcomed the forum participants on behalf of President of the Bolivarian Republic Nicolas Maduro",
+        "source": "tass",
+        "date": "2025-10-29T03:57:46+09:00",
+        "url": "https://tass.com/economy/2036483",
+        "reportUrl": ""
+    },
+    {
+        "id": "84e666fcee2c44225c8e20a73ea3b69e4ab4f1290a314fd0f126512b24d9a5f0",
+        "title": "Up to 6 million Ukrainians stay abroad — minister",
+        "summary": "Denis Ulyutin said these are people who have left in recent years",
+        "source": "tass",
+        "date": "2025-10-29T03:42:09+09:00",
+        "url": "https://tass.com/world/2036479",
+        "reportUrl": ""
+    },
+    {
+        "id": "32ed88b990af51d71604fa99eea978e1c66956475012a5867611ab4104ced118",
+        "title": "Situation in Central African Republic improves with Moscow's support — Russian diplomat",
+        "summary": "Permanent Representative to the UN Vasily Nebenzya said that Moscow welcomes Bangui's efforts to further advance the political process and extend state control to the entire national territory",
+        "source": "tass",
+        "date": "2025-10-29T03:26:34+09:00",
+        "url": "https://tass.com/politics/2036475",
+        "reportUrl": ""
+    },
+    {
+        "id": "6efaf54c822f1b24c8049a3d25726a27f096b96e9086ce30716269ac3eacfb63",
+        "title": "Hamas postpones handing over hostage remains due to Israel breaching ceasefire",
+        "summary": "The movement’s military wing emphasized that any escalation will hinder the search and retrieval of the remains",
+        "source": "tass",
+        "date": "2025-10-29T03:25:21+09:00",
+        "url": "https://tass.com/world/2036473",
+        "reportUrl": ""
+    },
+    {
+        "id": "b07ea4bb307774e9170fc1c27d2341ea03d9fb9169835c312a830742a34cc7fa",
+        "title": "Hamas blames Israel for delays in transfer of bodied of Israeli hostages",
+        "summary": "Senior official Suheil al-Hindi said that Hamas requested access to the Israel-controlled areas for search parties but received a refusal",
+        "source": "tass",
+        "date": "2025-10-29T03:13:08+09:00",
+        "url": "https://tass.com/world/2036467",
+        "reportUrl": ""
+    },
+    {
+        "id": "4252ec61c498933f70a9e9831fbeafddf6eabf8c56ca5b8fc3ab717bd0f521e1",
+        "title": "Airfield at US base in Guantanamo shuts down over Hurricane Melissa — source",
+        "summary": "As reported earlier, around 1,000 employees of the US Department of War, their family members, and contractors were evacuated from the US naval base in Guantanamo",
+        "source": "tass",
+        "date": "2025-10-29T03:10:16+09:00",
+        "url": "https://tass.com/world/2036465",
+        "reportUrl": ""
+    },
+    {
+        "id": "9a2343b21a5c1dfe07a12ad22cf7673cc8baeef7ecdd7ced71399a1e378a7d0d",
+        "title": "Foreign ministers of Belarus, Hungary discuss ways to resolve problems in Eastern Europe",
+        "summary": "The Belarusian Foreign Ministry reported that Maxim Ryzhenkov and Peter Szijjarto exchanged views on the key issues on the international agenda",
+        "source": "tass",
+        "date": "2025-10-29T03:08:30+09:00",
+        "url": "https://tass.com/world/2036463",
+        "reportUrl": ""
+    },
+    {
+        "id": "bba668bc3a31afeb5bbbad02aa5c339165c59ee1b8ceee90a563b0a186d9f129",
+        "title": "US tried to recruit Maduro's pilot — Associated Press",
+        "summary": "According to the story, the pilot contacted a US agent several times via a messenger",
+        "source": "tass",
+        "date": "2025-10-29T02:47:12+09:00",
+        "url": "https://tass.com/world/2036459",
+        "reportUrl": ""
+    },
+    {
+        "id": "57c1b4c8aad16e44d746f1514b908073cdfff91fa431c5c86595aac67f5f9e1e",
+        "title": "Visitor registration opens for Hainan Island International Film Festival",
+        "summary": "Forms can be submitted online until November 25",
+        "source": "tass",
+        "date": "2025-10-29T02:34:43+09:00",
+        "url": "https://tass.com/society/2036457",
+        "reportUrl": ""
+    },
+    {
+        "id": "4fdb7fafa0efb55f2e77f30d2ddafcde4d854e4f11cc4f9eea27aa542800e312",
+        "title": "Lukashenko says Belarus ready to 'extend hand' to Western countries",
+        "summary": "According to the Belarusian President, Europe is not yet ready for a realistic conversation with Minsk",
+        "source": "tass",
+        "date": "2025-10-29T02:26:17+09:00",
+        "url": "https://tass.com/world/2036455",
+        "reportUrl": ""
+    },
+    {
+        "id": "0ec128fbdb503eacdbfd0fddeda8388931af771dab7faf5869e0504e1b3e5156",
+        "title": "Candidate for post in Pentagon opposes non-deployment of weapons in outer space treaty",
+        "summary": "According to Marc Berkowitz, the United States needs \"a comprehensive, next-generation homeland missile defense against ballistic, hypersonic, and cruise missiles and other advanced aerial threats\"",
+        "source": "tass",
+        "date": "2025-10-29T02:17:08+09:00",
+        "url": "https://tass.com/world/2036453",
+        "reportUrl": ""
+    },
+    {
+        "id": "0bfb749ca6e4f264a00f91dbfe2cc6bc970681cf8d422bf6a2abb1f4feec15a5",
+        "title": "Russia to achieve record harvests for several agricultural crops in 2025",
+        "summary": "The office of Deputy Prime Minister Dmitry Patrushev said that the situation in livestock farming, processed food production, and the fisheries sector remains stable",
+        "source": "tass",
+        "date": "2025-10-29T02:08:04+09:00",
+        "url": "https://tass.com/economy/2036449",
+        "reportUrl": ""
+    },
+    {
+        "id": "1e36000f0ae4608e6255398a29afb5226c25bc76bc970f3d072621c136bcc54d",
+        "title": "Belousov meets with Syrian transitional government’s defense minister",
+        "summary": "The Russian Defense Minister noted that the meeting between the two leaders gave an additional impetus to the comprehensive development of relations between the two countries' defense ministries",
+        "source": "tass",
+        "date": "2025-10-29T02:00:30+09:00",
+        "url": "https://tass.com/defense/2036445",
+        "reportUrl": ""
+    },
+    {
+        "id": "af61ceb614cf51d1b6d6240caf10df5cfcfc94649b72b398d3f3deb6674e99e0",
+        "title": "Israeli PM Netanyahu orders immediate powerful strikes on Gaza Strip — premier’s office",
+        "summary": "Benjamin Netanyahu gave the order following consultations on security issues",
+        "source": "tass",
+        "date": "2025-10-29T01:45:01+09:00",
+        "url": "https://tass.com/world/2036437",
+        "reportUrl": ""
+    },
+    {
+        "id": "4e78cb828c13e9ee606df0997afc1543517e684cb9b9fc41e6f7d74d2c347c80",
+        "title": "US, Japan had 'little conflict,' but countries remained friends — Trump",
+        "summary": "According to the US president, Washington and Tokyo are jointly committed to \"freedom and democracy\"",
+        "source": "tass",
+        "date": "2025-10-29T01:42:46+09:00",
+        "url": "https://tass.com/world/2036431",
+        "reportUrl": ""
+    },
+    {
+        "id": "0a8e102c7e39dcf397107c1e3779a16bee3944f01d1302395ceee9b9dc868eae",
+        "title": "Aluminum futures on LME hit $2,900 per metric ton first time since 2022",
+        "summary": "Aluminum prices surged by 13.82% year to date",
+        "source": "tass",
+        "date": "2025-10-29T01:41:29+09:00",
+        "url": "https://tass.com/economy/2036429",
+        "reportUrl": ""
+    },
+    {
+        "id": "97d1c84f6f6330412375c8ed2b5375e186a2b3a39f538a0668d23dd4889e8c16",
+        "title": "Russia’s Medvedev powers through opening round of 2025 ATP Paris Masters",
+        "summary": "The 53rd edition of this ATP Paris Masters 1000 tournament is played on indoor hard courts at the La Defense Arena in the French capital between October 27 and November 2",
+        "source": "tass",
+        "date": "2025-10-29T01:40:46+09:00",
+        "url": "https://tass.com/sports/2036427",
+        "reportUrl": ""
+    },
+    {
+        "id": "1b09407b34893540f3b63d7407f15eb4e3af5903fd6c060f93df8dbb6bc9a689",
+        "title": "Belarus ready to return to dialogue with EU, if Minsk is respected",
+        "summary": "According to Foreign Minister Maxim Ryzhenkov, another important factor is the return by the European Union of all previous mechanisms of combating illegal migration",
+        "source": "tass",
+        "date": "2025-10-29T01:39:21+09:00",
+        "url": "https://tass.com/world/2036425",
+        "reportUrl": ""
+    },
+    {
+        "id": "86d39db30187dee5e4e101228c5c0832138aebae4606c95119a84b542a7f804b",
+        "title": "NATO opts for open confrontation with Russia — Foreign Ministry",
+        "summary": "Deputy head of the Russian delegation Konstantin Vorontsov noted that the US has encountered \"outright sabotage from the Europeans\" regarding the Ukrainian settlement",
+        "source": "tass",
+        "date": "2025-10-29T01:38:40+09:00",
+        "url": "https://tass.com/politics/2036423",
+        "reportUrl": ""
+    },
+    {
+        "id": "bac35135035010fa6ecf88829cd5a51c8cb5cd2ff3f04c92d50837bbda5b7688",
+        "title": "Children injured in Ukrainian shelling attack on Belgorod Region hospitalized in Moscow",
+        "summary": "The children received first aid in the Shebekino Central District Hospital",
+        "source": "tass",
+        "date": "2025-10-29T01:37:04+09:00",
+        "url": "https://tass.com/emergencies/2036421",
+        "reportUrl": ""
+    },
+    {
+        "id": "0a3239da27132cd28afbf3fdd9af5c620bd30307b0eee84cf945ff50e95e96ba",
+        "title": "Hungary to continue cooperation with Russia for its energy security — Szijjarto",
+        "summary": "The Hungarian foreign minister said that Budapest keeps doing everything possible to guarantee security of energy supplies",
+        "source": "tass",
+        "date": "2025-10-29T01:30:13+09:00",
+        "url": "https://tass.com/world/2036419",
+        "reportUrl": ""
+    },
+    {
+        "id": "3d7caac89e11ebb0c4f666da14316bd660682568e344f35445b2400ee18e7c66",
+        "title": "Lithuanian army receives orders on how to shoot down weather balloons with contraband",
+        "summary": "President Gitanas Nauseda said the army is ready, and the relevant instructions have been given",
+        "source": "tass",
+        "date": "2025-10-29T01:16:43+09:00",
+        "url": "https://tass.com/world/2036417",
+        "reportUrl": ""
+    },
+    {
+        "id": "e2d6d555e344e240ba340562e9fad282c3fdb7c23d29afdfdb473a90f62a35e5",
+        "title": "Lebanese army cannot finish deployment on southern border due to Israel’s attacks",
+        "summary": "According to President Joseph Aoun, the Lebanese military currently controls 85% of the territory south of the Litani River but Israel continues its aggressive attacks hampering efforts to restore stability in the country’s southern regions",
+        "source": "tass",
+        "date": "2025-10-29T01:01:33+09:00",
+        "url": "https://tass.com/world/2036413",
+        "reportUrl": ""
+    },
+    {
+        "id": "50882cfac9cae9641db3607f0d8caa0a35a7479c56fb97c3af0081f4cede25ed",
+        "title": "US destroys four drug boats in Pacific Ocean — Pentagon head",
+        "summary": "Pete Hegseth said that all strikes were in international waters with no US forces harmed",
+        "source": "tass",
+        "date": "2025-10-29T00:58:50+09:00",
+        "url": "https://tass.com/world/2036411",
+        "reportUrl": ""
+    },
+    {
+        "id": "28382130d6b1edd68afa5bb6dfc728ecf4ac131e2a38da7f550461ad2255e174",
+        "title": "Ethiopia asks Russia, EU, US, China to mediate settlement of its dispute with Eritrea",
+        "summary": "Prime Minister Abiy Ahmed emphasized that Ethiopia \"has no desire\" to go to war with Eritrea and expressed confidence that the dispute can be settled peacefully",
+        "source": "tass",
+        "date": "2025-10-29T00:55:03+09:00",
+        "url": "https://tass.com/world/2036409",
+        "reportUrl": ""
+    },
+    {
+        "id": "46f8032bbdbcb301b276855fec9a704886581e74a1d2db9270c60c1b914ad12f",
+        "title": "Bat, Calypso anti-UAV systems demonstrated in Moscow",
+        "summary": "The 29th International Exhibition of National Security Equipment, Interpolitex, is currently taking place in Moscow",
+        "source": "tass",
+        "date": "2025-10-29T00:40:52+09:00",
+        "url": "https://tass.com/defense/2036401",
+        "reportUrl": ""
+    },
+    {
+        "id": "ddb49a8b320fa0e55717c8efdc37aad0ffe6c356993e39d14347470f71d7c0d4",
+        "title": "Earthquake of magnitude 6.4 hits off coast of Indonesia",
+        "summary": "The epicenter was located 388 km south-east of the city of Ambon, where about 355,000 people live",
+        "source": "tass",
+        "date": "2025-10-29T00:37:04+09:00",
+        "url": "https://tass.com/world/2036399",
+        "reportUrl": ""
+    },
+    {
+        "id": "a9a0805c8288be79525fd572ccc7639ef2793ae6a79edeb4504f542338c75f45",
+        "title": "TGC-1’s power generation down 3.9% to 21.5 bln kWh in first 9 months of 2025",
+        "summary": "Electricity generation at TGC-1’s thermal power plants decreased by 0.9%, while hydroelectric generation fell by 7.2% due to low water levels in the regions where the company operates during the reporting period",
+        "source": "tass",
+        "date": "2025-10-29T00:29:06+09:00",
+        "url": "https://tass.com/economy/2036395",
+        "reportUrl": ""
+    },
+    {
+        "id": "80444d4c29bd170eef9ecd4c21b8a23fd7e09b3a3f91058e333142084bfec468",
+        "title": "Russian Security Council compares NATO non-expansion deal to man taking back his word",
+        "summary": "According to Russian Security Council Deputy Secretary Alexey Shevtsov, the most difficult issue is whether the Western countries are ready to fulfill their commitments",
+        "source": "tass",
+        "date": "2025-10-29T00:27:18+09:00",
+        "url": "https://tass.com/politics/2036391",
+        "reportUrl": ""
+    },
+    {
+        "id": "0a5340705499fe0f9c000e84a82099acda51ac0f2ca681543cf929f843fad021",
+        "title": "Moscow’s mission in Istanbul receives no reports of Russians affected by quake",
+        "summary": "The 6.1-magnitude earthquake hit the town of Sindirgi in the Balikesir province on Monday evening",
+        "source": "tass",
+        "date": "2025-10-29T00:25:15+09:00",
+        "url": "https://tass.com/politics/2036393",
+        "reportUrl": ""
+    },
+    {
+        "id": "32280ed853091279da4a8bc55a05097c4e8a311a7a1734d18e56b54a1bebc413",
+        "title": "Lithuanian president does not rule out banning transit of Belarusian goods to Kaliningrad",
+        "summary": "Gitanas Nauseda also noted it is possible to expand sanctions against Belarus",
+        "source": "tass",
+        "date": "2025-10-29T00:23:57+09:00",
+        "url": "https://tass.com/world/2036389",
+        "reportUrl": ""
+    },
+    {
+        "id": "f103b429544fe18393af001daa2590af834933c74971352f03cde4f2041dc2a6",
+        "title": "Federation Council calls intention to send French troops to Ukraine adventurism",
+        "summary": "According to Vladimir Dzhabarov, Emmanuel Macron commits a great sin by sending people to their deaths and it hardly makes sense to talk to such a politician",
+        "source": "tass",
+        "date": "2025-10-29T00:19:46+09:00",
+        "url": "https://tass.com/politics/2036385",
+        "reportUrl": ""
+    },
+    {
+        "id": "00c145165f9d0e3fafce7098de313882e949d73a5e9b02686844177e76a25b7b",
+        "title": "Senior Russian MP slams economic blockade of Cuba as attempt to break its will",
+        "summary": "Vyacheslav Volodin recalled that the blockade of Cuba has been in place for 63 years",
+        "source": "tass",
+        "date": "2025-10-29T00:18:47+09:00",
+        "url": "https://tass.com/politics/2036387",
+        "reportUrl": ""
+    },
+    {
+        "id": "820672ad7b1a6120462b808a52018945e4211489ed3c6d7a31860cc8b0faf6e4",
+        "title": "Russian tourism industry sees no high demand for travel to Myanmar after visa cancellation",
+        "summary": "According to the statement, Myanmar is not yet ready to compete with the neighboring countries, especially with Vietnam, which may become the top country for Russians’ Asian travels this season",
+        "source": "tass",
+        "date": "2025-10-29T00:09:09+09:00",
+        "url": "https://tass.com/economy/2036383",
+        "reportUrl": ""
+    },
+    {
+        "id": "a2802a4e3c5292a8eabc1f8ddf684ff25def18e04491290ce57bafca38008060",
+        "title": "RTS Index falling after official rates released by Bank of Russia",
+        "summary": "The MOEX Russia Index was traded at 2,501.2 points, having increased by 0.92%",
+        "source": "tass",
+        "date": "2025-10-29T00:07:51+09:00",
+        "url": "https://tass.com/economy/2036381",
+        "reportUrl": ""
+    },
+    {
+        "id": "ec67f599aa4a33d4821376083597acc4107aa41d1f44cbf486c06d7b62b2493d",
+        "title": "Russian footballer Mostovoi speaks for first time about attempted abduction",
+        "summary": "The footballer was able to fight off the attackers and escape, after which they fled in a car",
+        "source": "tass",
+        "date": "2025-10-29T00:07:28+09:00",
+        "url": "https://tass.com/society/2036379",
+        "reportUrl": ""
+    },
+    {
+        "id": "0d2399200df4479d9117fe88f3087c40dc76b628981a5c9659700fdb6e3f4863",
+        "title": "Macron seeks to send troops to Ukraine to retain presidency — war correspondent",
+        "summary": "Christelle Neant said this is necessary for Macron because France is facing a severe internal crisis",
+        "source": "tass",
+        "date": "2025-10-29T00:07:08+09:00",
+        "url": "https://tass.com/world/2036377",
+        "reportUrl": ""
+    },
+    {
+        "id": "4c0bdc050339172b869b1f35c6a7faf308060af1784b1dd3593d2c015c986687",
+        "title": "Bank of Russia sets dollar rate at 79.82 rubles for October 29",
+        "summary": "The official euro rate was increased by 92 kopecks to 92.9395 rubles",
+        "source": "tass",
+        "date": "2025-10-29T00:05:24+09:00",
+        "url": "https://tass.com/economy/2036375",
+        "reportUrl": ""
+    },
+    {
+        "id": "b54e30956d6d68a400b753c3ffd4c2afca923646d41dab32cc20cf2bc77fcecb",
+        "title": "Extension of New START Treaty been off the table for ages now — Lavrov",
+        "summary": "On September 22, Russian President Vladimir Putin announced at a Security Council meeting that Moscow is ready to continue observing the quantitative limits set by the New START Treaty for an additional year after its expiration in February",
+        "source": "tass",
+        "date": "2025-10-29T00:05:04+09:00",
+        "url": "https://tass.com/politics/2036373",
+        "reportUrl": ""
+    },
+    {
+        "id": "f9a84e39f34085843309b7ba677888a14463296592b10d5caaf9a22b517cb5af",
+        "title": "Russian Security Council calls Europe 'region with limited sovereignty'",
+        "summary": "According to Russian Security Council Deputy Secretary Alexey Shevtsov, there was some hope in the 1960s and 1980s when European powers successfully resisted the US' attempts to dictate terms",
+        "source": "tass",
+        "date": "2025-10-29T00:02:03+09:00",
+        "url": "https://tass.com/politics/2036371",
+        "reportUrl": ""
+    },
+    {
+        "id": "fb0a7a4a8cc16d4f021c13205a155a72e89f9e549716e79cc784c3fb0fe8de65",
+        "title": "Russian cosmonauts conduct spacewalk to install injector — Roscosmos",
+        "summary": "The planned duration for this spacewalk is approximately 6 hours and 28 minutes",
+        "source": "tass",
+        "date": "2025-10-28T23:55:27+09:00",
+        "url": "https://tass.com/science/2036369",
+        "reportUrl": ""
+    },
+    {
+        "id": "6ff5ca480250df2040aa6cd3d55faad4298d4df898db757827156f0ae6b27dfd",
+        "title": "High Representative Schmidt set to leave Bosnia and Herzegovina — media",
+        "summary": "According to the news report, Christian Schmidt’s resignation follows coordinated efforts by Bosnian Serb and Bosnian Croat leaders Milorad Dodik and Dragan Covic",
+        "source": "tass",
+        "date": "2025-10-28T23:53:56+09:00",
+        "url": "https://tass.com/world/2036365",
+        "reportUrl": ""
+    },
+    {
+        "id": "bb51a133bb6a6d996d17d1ecb39964c5a9e751726fe37389bd78a6fd8e024eea",
+        "title": "Aquatic bioresources catch in Russia above 4 mln tons YTD — federal agency",
+        "summary": "The catch was over 3.1 mln metric tons in the Far Eastern basin",
+        "source": "tass",
+        "date": "2025-10-28T23:52:28+09:00",
+        "url": "https://tass.com/economy/2036363",
+        "reportUrl": ""
+    },
+    {
+        "id": "6f289360c83896cfb203f330635a679d55246913e2cfded71c9a65ced74eb1e7",
+        "title": "India sees potential for growth in food trade with Russia — Federation of Exporters",
+        "summary": "The organization noted that Indian-made products, including vegetable curries, ready-made meals, legumes, snacks, sweets, and other products in modern packaging, are already available on the Russian market",
+        "source": "tass",
+        "date": "2025-10-28T23:48:31+09:00",
+        "url": "https://tass.com/economy/2036361",
+        "reportUrl": ""
+    },
+    {
+        "id": "6ceae8e5999a4032877614dfe509178f1867d435882a94157d6021347988a7a9",
+        "title": "West seeking to repeat its aggression against Serbs in its confrontation with Russia",
+        "summary": "According to Milorad Dodik, what happened in the Balkans was \"a mere rehearsal\" ahead of confrontation with Russia",
+        "source": "tass",
+        "date": "2025-10-28T23:46:20+09:00",
+        "url": "https://tass.com/world/2036359",
+        "reportUrl": ""
+    },
+    {
+        "id": "aa4da72b6530e028a34168dddef4b8d244d368babd2642c566edb9d4bfdbf0bb",
+        "title": "Lithuania discovers 544 balloons with smuggled tobacco since year start",
+        "summary": "The smugglers who arrived to pick up the parcels were detained",
+        "source": "tass",
+        "date": "2025-10-28T23:44:11+09:00",
+        "url": "https://tass.com/society/2036357",
+        "reportUrl": ""
+    },
+    {
+        "id": "e86f0cc28ce14e1e5fc76cc5d09aba99abe50f972a60d4517ef06bbea0768c4e",
+        "title": "Putin to hold meeting on fisheries sector with Cabinet members",
+        "summary": "Head of the Federal Agency for Fisheries Ilya Shestakov and Governor of the Kamchatka Region Vladimir Solodov will deliver reports",
+        "source": "tass",
+        "date": "2025-10-28T23:43:31+09:00",
+        "url": "https://tass.com/politics/2036353",
+        "reportUrl": ""
+    },
+    {
+        "id": "28eb382374e504689ab77c3b33f5e634fde1bc80bc49c7fa653219ed05b3224f",
+        "title": "State Duma passes bill on training camps for reservists to protect important facilities",
+        "summary": "The new measures provide that, under a decree from the President of Russia, reservists can be sent to special training exercises to safeguard critical facilities and life-support infrastructure",
+        "source": "tass",
+        "date": "2025-10-28T23:43:27+09:00",
+        "url": "https://tass.com/politics/2036351",
+        "reportUrl": ""
+    },
+    {
+        "id": "2526b71555d433a47eb4e9c5cb52c55b8ef33f56b1e108403278380727ac878b",
+        "title": "Top Italian defense official acknowledges Ukraine’s inability to regain lost territories",
+        "summary": "Guido Crosetto pointed out that Russia would never negotiate the status of these territories, as it is enshrined in the Russian Constitution",
+        "source": "tass",
+        "date": "2025-10-28T23:42:39+09:00",
+        "url": "https://tass.com/world/2036355",
+        "reportUrl": ""
+    },
+    {
+        "id": "a6c81417ade014ee968c1c23f27773cc78eee174b6fc5561bf06ffecd44cf952",
+        "title": "Key rate cut cycle, recovery from overheating — Bank of Russia Governor in Duma",
+        "summary": "Elvira Nabiullina noted that the key rate reduction cycle will span the entire 2026",
+        "source": "tass",
+        "date": "2025-10-28T23:40:39+09:00",
+        "url": "https://tass.com/economy/2036349",
+        "reportUrl": ""
+    },
+    {
+        "id": "a09e3985012be059de08716978e377d0f9b8b7c35dbd15c8699b7aba21c52839",
+        "title": "Global security crisis can only be overcome through dialogue — Hungarian foreign minister",
+        "summary": "Peter Szijjarto emphasized that this situation could not be resolved by dividing states into blocs, politically isolating individual countries and entire continents, or through military confrontation",
+        "source": "tass",
+        "date": "2025-10-28T23:36:17+09:00",
+        "url": "https://tass.com/world/2036347",
+        "reportUrl": ""
+    },
+    {
+        "id": "54fce2a402b62f765eea19325fec064649c35ff9a99424b74c136d3936f636cb",
+        "title": "Details of collaboration between UAC, HAL being discussed — Rostec",
+        "summary": "According to the Russian corporation, the general memorandum of understanding was signed",
+        "source": "tass",
+        "date": "2025-10-28T23:29:58+09:00",
+        "url": "https://tass.com/economy/2036343",
+        "reportUrl": ""
+    },
+    {
+        "id": "e104cfc98e9714286925bdd3c43c905927248339881c4f25bd80d087bf90665b",
+        "title": "Russian government’s purchases of diamonds from Alrosa won’t be large this year — ministry",
+        "summary": "According to Deputy Finance Minister Alexey Moiseyev, plans for 2026 are still being defined",
+        "source": "tass",
+        "date": "2025-10-28T23:27:30+09:00",
+        "url": "https://tass.com/economy/2036341",
+        "reportUrl": ""
+    },
+    {
+        "id": "01340d4a1187c952ba380abf30739b9219587df7f52dbe219899b5643a1deb80",
+        "title": "Germans' dissatisfaction with Merz hits record high of 72% — survey",
+        "summary": "The low ratings of the ruling coalition and the chancellor are due not only to the ongoing discussions over Friedrich Merz's statements about migration, but also to the state of the country's economy",
+        "source": "tass",
+        "date": "2025-10-28T23:27:07+09:00",
+        "url": "https://tass.com/society/2036339",
+        "reportUrl": ""
+    },
+    {
+        "id": "27566eb596abb6aae11654b43fc4531215f280ff2551b509664df0ff2f31ccc5",
+        "title": "Poll reveals cheaper for Russians to keep cats as pets, not dogs",
+        "summary": "According to 70% of respondents, the main expense for pet owners is food",
+        "source": "tass",
+        "date": "2025-10-28T23:24:34+09:00",
+        "url": "https://tass.com/society/2036337",
+        "reportUrl": ""
+    },
+    {
+        "id": "ea30b59b18f18fbcad7d612c6626c0842e2a85e33338f093fcfb905a3314e8e9",
+        "title": "West escalates tensions, readying people for idea of conflict with Russia — Lukashenko",
+        "summary": "The Belarusian President urged to end the arms race and stressed that nations should not view each other through the sights of guns",
+        "source": "tass",
+        "date": "2025-10-28T23:22:40+09:00",
+        "url": "https://tass.com/world/2036335",
+        "reportUrl": ""
+    },
+    {
+        "id": "7cce0f33a908e5fa803bc7c91db71a4e051b9775a39ec634dfc087b854a6b1be",
+        "title": "Increasing number of Eurasians see need in removing obstacles for its development — Lavrov",
+        "summary": "The Russian Foreign Minister noted that the third Minsk International Conference on Eurasian Security is \"a promising discussion and expert platform where concrete recommendations are elaborated\"",
+        "source": "tass",
+        "date": "2025-10-28T23:20:28+09:00",
+        "url": "https://tass.com/politics/2036331",
+        "reportUrl": ""
+    },
+    {
+        "id": "99c2d22b70994643c50d4a3f5b35372137f325cf3f6a46fdb459b1b717f96495",
+        "title": "Kiev loses 1,420 troops along engagement line in past day — Russia’s top brass",
+        "summary": "Near the settlement of Kupyansk in the Kharkov Region, units of the 6th Army continued tightening the encirclement of the Ukrainian battlegroup",
+        "source": "tass",
+        "date": "2025-10-28T23:18:53+09:00",
+        "url": "https://tass.com/politics/2036333",
+        "reportUrl": ""
+    },
+    {
+        "id": "2681966f1007521a41fe8cfdcff5e162f5c4d0a511d284f5533719a6e4ba30e7",
+        "title": "Russian, Myanmar foreign ministers discuss expanding bilateral ties",
+        "summary": "The Russian Foreign Ministry emphasized that as a result of the meeting, the two diplomats signed an intergovernmental agreement on visa-free travel for Russian and Myanmar citizens",
+        "source": "tass",
+        "date": "2025-10-28T23:16:46+09:00",
+        "url": "https://tass.com/politics/2036329",
+        "reportUrl": ""
+    },
+    {
+        "id": "1a474c9035faaa3bce00c49a1227698e35d4977f8b28d83c8d62af53d7554af6",
+        "title": "Life pushes for new Eurasian multipolar space — Lavrov",
+        "summary": "The top Russian diplomat added that NATO seeks to \"stake out a presence in the Pacific Ocean, undermining the very foundations of the regional security architecture\"",
+        "source": "tass",
+        "date": "2025-10-28T23:10:47+09:00",
+        "url": "https://tass.com/politics/2036327",
+        "reportUrl": ""
+    },
+    {
+        "id": "d81cf06c886ae71eac71c35c4cdd92de7c06e13ff76ba9a35bd6a23399c57744",
+        "title": "Macron seeks to lead European 'war party' — head of Duma’s committee",
+        "summary": "Leonid Slutsky asserted that the French president has long been plotting military intervention",
+        "source": "tass",
+        "date": "2025-10-28T23:08:45+09:00",
+        "url": "https://tass.com/politics/2036323",
+        "reportUrl": ""
+    },
+    {
+        "id": "667b21c2fa5786714ad68e52555ebfb7a7b42ca59687c4169dac5f0028f4b1dc",
+        "title": "Apple becomes third company in history with market capitalization over $4 trillion",
+        "summary": "At 4:43 p.m. Moscow time, the company's shares were up 0.33%, reaching $269.71 per share",
+        "source": "tass",
+        "date": "2025-10-28T23:07:00+09:00",
+        "url": "https://tass.com/economy/2036325",
+        "reportUrl": ""
+    },
+    {
+        "id": "16dc8882a671619a6504e0e9fd7a9fe7141852db923990c397d33e4c85b6cac4",
+        "title": "Russia-US relations must change for New START to be replaced by another treaty — Lavrov",
+        "summary": "The Russian foreign minister noted that under former US President Joe Biden, \"there was no communication at all, while the Trump administration supports dialogue and believes that this is an essential responsibility of nuclear powers\"",
+        "source": "tass",
+        "date": "2025-10-28T23:05:52+09:00",
+        "url": "https://tass.com/politics/2036321",
+        "reportUrl": ""
+    },
+    {
+        "id": "8a71d79e8f53672ad75040533cd4dae8c9d52e5f1a6dc3ba3b9f45d7258bdb87",
+        "title": "Israel hampering Red Cross medics to search for hostages’ bodies in Gaza — Hamas",
+        "summary": "According to the Hamas official, the Israeli side \"is deliberately hampering the search operations\" to accuse Hamas of protracting the process",
+        "source": "tass",
+        "date": "2025-10-28T23:04:18+09:00",
+        "url": "https://tass.com/world/2036319",
+        "reportUrl": ""
+    },
+    {
+        "id": "682426f72f4c87f06d583b859a78943388d1bf1ed7413a54cbe7286717a8f443",
+        "title": "Sber expects higher profits in annual terms this year",
+        "summary": "The net profit of Sberbank under the International Financial Reporting Standardsgained 6.5% year on year in January - September 2025",
+        "source": "tass",
+        "date": "2025-10-28T23:01:39+09:00",
+        "url": "https://tass.com/economy/2036317",
+        "reportUrl": ""
+    },
+    {
+        "id": "f6362513e5a1a30b3f24f2b7a53fad948603ee139cb2ea6565a21d8bca679bab",
+        "title": "Russian MFA advises Macron to send soldiers for guarding museums instead of Ukraine",
+        "summary": "Maria Zakharova's remarks came in response to a report by Russia’s Foreign Intelligence Service stating that, on Macron’s orders, the French Armed Forces General Staff was preparing to send up to 2,000 soldiers and officers to Ukraine to assist Kiev",
+        "source": "tass",
+        "date": "2025-10-28T22:54:46+09:00",
+        "url": "https://tass.com/politics/2036313",
+        "reportUrl": ""
+    },
+    {
+        "id": "dfe0f8bbaa37e635feea6fe7f5788c75d6b1af3a7f68f68c4fab11d70b7aa694",
+        "title": "Duma passes law on year-round conscription",
+        "summary": "According to the bill, the actual dispatch of conscripts for military service will be carried out twice a year",
+        "source": "tass",
+        "date": "2025-10-28T22:54:16+09:00",
+        "url": "https://tass.com/politics/2036315",
+        "reportUrl": ""
+    },
+    {
+        "id": "aebed9055b456e3a8896764bef7ff25cccc44cae2ca8cb0861e0c572843ff31f",
+        "title": "Burevestnik, New START Treaty, security in Eurasia: what Lavrov told reporters",
+        "summary": "The Russian foreign minister also spoke about Moscow's expectations of the United States’ role in the Ukrainian settlement",
+        "source": "tass",
+        "date": "2025-10-28T22:50:38+09:00",
+        "url": "https://tass.com/politics/2036303",
+        "reportUrl": ""
+    },
+    {
+        "id": "52d76396a7d96f56a629a82d2b138e55133b1b0403f63d607a7d0641f01b277e",
+        "title": "Russian Agriculture Ministry keeps grain harvest outlook for 2025",
+        "summary": "Russia has 6% of areas left to gather harvest",
+        "source": "tass",
+        "date": "2025-10-28T22:47:19+09:00",
+        "url": "https://tass.com/economy/2036307",
+        "reportUrl": ""
+    },
+    {
+        "id": "ca126de31d3908f28b3210599200d338f3bb98054f252b13266325017cd2e552",
+        "title": "Sharp reduction in key rate will not make corporate loans cheaper — expert",
+        "summary": "Advisor to the governor of the Bank of Russia Kirill Tremasov stressed that a rate reduction is only possible with a sustained decline in inflation",
+        "source": "tass",
+        "date": "2025-10-28T22:45:28+09:00",
+        "url": "https://tass.com/economy/2036305",
+        "reportUrl": ""
+    },
+    {
+        "id": "bdca8db58e6d069fb59b0a22fb2c8e8e528745a8241be7c626c18b45a64a3388",
+        "title": "Russia may promote digital sovereignty among partner countries",
+        "summary": "Sergey Novikov emphasized that today only the United States, China, and Russia possess full-fledged digital sovereignty",
+        "source": "tass",
+        "date": "2025-10-28T22:40:44+09:00",
+        "url": "https://tass.com/economy/2036297",
+        "reportUrl": ""
+    },
+    {
+        "id": "de42590a835d355d482429a0b0770eb005f821f009b81bf45272da0553939586",
+        "title": "Szijjarto confirms to Lavrov Budapest's readiness to host Russia-US summit",
+        "summary": "\"During the discussion of Ukrainian issues, the importance of respecting the rights of national minorities, including linguistic and religious rights, which are systematically violated by the Kiev regime, was emphasized,\" the Russian Foreign Ministry said",
+        "source": "tass",
+        "date": "2025-10-28T22:36:38+09:00",
+        "url": "https://tass.com/politics/2036293",
+        "reportUrl": ""
+    },
+    {
+        "id": "3335dd71a566d17a88315634896f08d0d29e561fd7f06d385ed45359032071ad",
+        "title": "Top Hungarian diplomat says Lavrov assured him of Russia’s readiness for dialogue with US",
+        "summary": "The two top diplomats met at the Third Minsk International Conference on Eurasian Security",
+        "source": "tass",
+        "date": "2025-10-28T22:33:05+09:00",
+        "url": "https://tass.com/world/2036287",
+        "reportUrl": ""
+    },
+    {
+        "id": "f69ec3a3ca5e273408486a695ee8eba3b4502a92d0d0a8cadb33f45577775e0a",
+        "title": "Moscow to suppress Western attempts to disrupt Russia’s ties with South Caucasus — Lavrov",
+        "summary": "The foreign minister emphasized that Russia would never allow the goodwill of its allies and like-minded partners in Central Asia and the South Caucasus to be taken advantage of or manipulated",
+        "source": "tass",
+        "date": "2025-10-28T22:30:29+09:00",
+        "url": "https://tass.com/politics/2036285",
+        "reportUrl": ""
+    },
+    {
+        "id": "9077f2c55158056810b84ba5ce75ca981e761d5d4c55dca52149841b8e755f1e",
+        "title": "Belarus can play key role in stabilizing Europe — British politician",
+        "summary": "British Workers Party leader George Galloway described the current situation in Europe as a \"rocking boat\"",
+        "source": "tass",
+        "date": "2025-10-28T22:23:10+09:00",
+        "url": "https://tass.com/world/2036283",
+        "reportUrl": ""
+    },
+    {
+        "id": "595506ea286048ed21f61666182afb0b66742dd2643b94c97f148a8145da03fe",
+        "title": "State Duma calls on United States to engage in equal dialogue with Cuba",
+        "summary": "The Russian lawmakers reaffirmed their \"categorically negative\" attitude to the embargo",
+        "source": "tass",
+        "date": "2025-10-28T22:16:29+09:00",
+        "url": "https://tass.com/politics/2036281",
+        "reportUrl": ""
+    }
+]
