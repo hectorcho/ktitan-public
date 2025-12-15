@@ -1,0 +1,524 @@
+[
+    {
+        "id": "b06994739c5abd8503c9fc9762eca94da46d0ba1ee7b4b1f15ec7a35267d0d3f",
+        "title": "Trump Signs Executive Order to Neuter State A.I. Laws",
+        "summary": "The order would create one federal regulatory framework for artificial intelligence, Mr. Trump told reporters in the Oval Office.",
+        "source": "nytimes",
+        "date": "2025-12-12T09:16:49+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "fab9a4e6ea5d1e36f4caf6eec322cbd521723387c87bfb894bafa5ca90b07dd4",
+        "title": "President Trump signs an executive order that would override state laws deemed restrictive of artificial intelligence. “We have to be unified,” Trump said",
+        "summary": "The order would allow the Justice Department to punish states with rules deemed restrictive for AI, in a move to bring the U.S. under one federal standard.",
+        "source": "wsj",
+        "date": "2025-12-12T09:12:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/trump-signs-executive-order-to-curtail-state-ai-laws-4ffc09a9",
+        "reportUrl": ""
+    },
+    {
+        "id": "42d6afd411feaf4467e57640931718a5cffe7db98ba4006117568274820375b3",
+        "title": "100,000 in Washington State Ordered to Evacuate as Rivers Rise",
+        "summary": "Days of heavy rain pushed waterways to record flood levels in a mountainous region north of Seattle. “Do not wait,” local officials warned residents, urging them to seek higher ground.",
+        "source": "nytimes",
+        "date": "2025-12-12T08:46:51+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/weather/washington-flooding-rain-atmospheric-river.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "5205a9866a4135f27e398d3a5ad7f2281f2cfcb89bf99a1f1c2373a40bb54210",
+        "title": "Bay Area Gas Explosion Injures 6 and Starts Fire in City of Hayward",
+        "summary": "A gas line explosion in Hayward, Calif., sent multiple victims to the hospital and led to a fire that burned several houses. Two people remained unaccounted for, an official said.",
+        "source": "nytimes",
+        "date": "2025-12-12T08:43:56+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/us/hayward-california-gas-line-explosion.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "a555c811913f59beb71541cc6fcc2aeac9c164bdbf7152a7bb4ade38244fc6fd",
+        "title": "Indiana Senate Republicans Reject Trump’s Redistricting Effort",
+        "summary": "Republicans hold an overwhelming majority in the Indiana Senate, but more than a dozen of them defied the president’s wishes, voting against a map aimed at adding Republicans in Congress.",
+        "source": "nytimes",
+        "date": "2025-12-12T08:40:18+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/us/indiana-senate-redistricting-republicans.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "81448fc31cc68d06de47be0bcc43df56dc8b9f287e4d20a3ba1e5cb693bfb8d7",
+        "title": "Republicans Undercut Johnson, Circumventing Him to Force Votes",
+        "summary": "The speaker has repeatedly lost his grip on the House floor thanks to a once rare parliamentary maneuver that G.O.P. members are increasingly using to force action on legislation.",
+        "source": "nytimes",
+        "date": "2025-12-12T08:24:19+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/us/politics/republicans-undercut-speaker-johnson.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "2e506af044546d615170536adc9856c56704192dd04ac68643fe41784828c475",
+        "title": "Mike Lindell, a staunch supporter of President Trump, is running to be Minnesota’s next governor",
+        "summary": "The staunch supporter of President Trump has faced legal challenges for spreading false claims the 2020 presidential election was stolen.",
+        "source": "wsj",
+        "date": "2025-12-12T08:20:00+09:00",
+        "url": "https://www.wsj.com/politics/elections/mypillow-mike-lindell-minnesota-governor-0f79c55e",
+        "reportUrl": ""
+    },
+    {
+        "id": "e848b7b70cc7d32e944be06e2c93b5eaa7d25fa8819bf684fff849e59f71916e",
+        "title": "U.S. Issues New Sanctions Targeting Maduro’s Family and the Oil Sector",
+        "summary": "The United States is escalating its pressure campaign on Venezuela’s leader, Nicolás Maduro, after seizing an oil tanker off the coast.",
+        "source": "nytimes",
+        "date": "2025-12-12T08:15:43+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/us/politics/maduro-oil-sanctions-venezuela-tanker.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "8a7475f516d3297e8e56827b6c4e08d2d1d7a8f7d65734cf8e800fb3d4f67f98",
+        "title": "Federal Judge Blocks FEMA From Canceling Climate Resiliency Grants",
+        "summary": "A Thursday ruling said the Trump administration cannot eliminate the Building Resilient Infrastructure and Communities program without Congress.",
+        "source": "nytimes",
+        "date": "2025-12-12T08:08:38+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/climate/judge-blocks-fema-canceling-climate-grants.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "15129c6dab6b847a632d8f2004a1ee04f3cb3bf5cd0497f2ee192898e4becaf9",
+        "title": "Trump Panel Abruptly Postpones Release of FEMA Overhaul Recommendations",
+        "summary": "The group’s report had been expected to provide a road map for change after months of upheaval at the agency.",
+        "source": "nytimes",
+        "date": "2025-12-12T08:06:26+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/climate/trump-fema.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "bcd0c734e84b0ba73890adfd15e430f0330d296505720455abde9d20f77e3abe",
+        "title": "Affordable Care Act Subsidies Are Set to Expire",
+        "summary": "Also, Indiana Republicans rejected Trump’s redistricting push. Here’s the latest at the end of Thursday.",
+        "source": "nytimes",
+        "date": "2025-12-12T08:02:01+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/briefing/senate-health-care-indiana-voting-map.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "bdfb2e4caf34fe137d322f27c7f5ba9d69906eda9824c154c06249d5118f2273",
+        "title": "Nobel Peace Prize Winner Machado Says U.S. Helped Her Leave Venezuela",
+        "summary": "María Corina Machado reappeared on the global stage as the Trump administration ramped up its pressure campaign against President Nicolás Maduro.",
+        "source": "nytimes",
+        "date": "2025-12-12T07:59:24+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/world/americas/maria-corina-machado-nobel-venezuela-maduro-trump.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "e2445bd2e362fcba1b0194ce19e850c73aea4acfe8ed7988fd433a0e5855b856",
+        "title": "Do Kwon, Crypto Entrepreneur Who Caused 2022 Crash, Sentenced to 15 Years",
+        "summary": "Do Kwon, who designed the virtual currencies Luna and TerraUSD, which plunged in 2022, had pleaded guilty to fraud.",
+        "source": "nytimes",
+        "date": "2025-12-12T07:54:51+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/technology/crypto-do-kwon-sentenced-prison.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "8091ace5740ab9972b890199f5981dc66a98b25ec9598c5d286d8eb51a6ac974",
+        "title": "Democrat Eileen Higgins’s victory in the Miami mayor’s race Tuesday marked a rebuke of President Trump in the heart of a community that has become a nerve center of his movement.",
+        "summary": "The city’s voters sent clear messages on issues in a race that became a referendum on the president.",
+        "source": "wsj",
+        "date": "2025-12-12T07:52:00+09:00",
+        "url": "https://www.wsj.com/politics/elections/miami-a-power-center-for-trump-delivers-a-rebuke-of-the-president-03fcebe6",
+        "reportUrl": ""
+    },
+    {
+        "id": "e301a1691e6ab5c12255db26a8474817b1f2f71aef23eeddac8a5f3b6a47526c",
+        "title": "The Indiana Senate has rejected a redistricting plan in a rebuke to President Trump, who mounted a pressure campaign on Republican lawmakers to adopt new congressional maps",
+        "summary": "The president had urged Republican-controlled states to adopt new congressional maps that would benefit House GOP.",
+        "source": "wsj",
+        "date": "2025-12-12T07:52:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/indiana-redistricting-plan-rejected-in-rebuke-to-trump-07c53ac8",
+        "reportUrl": ""
+    },
+    {
+        "id": "77c9207a8e13161fa13d217abb5d886c199217e89bc8f16219574e96efd7e71e",
+        "title": "Opinion | New York’s Lack of AI Intelligence",
+        "summary": "Hochul can save the state—and U.S.—from stifling regulation.",
+        "source": "wsj",
+        "date": "2025-12-12T07:51:00+09:00",
+        "url": "https://www.wsj.com/opinion/new-york-artificial-intelligence-bill-kathy-hochul-albany-ea8b5d69",
+        "reportUrl": ""
+    },
+    {
+        "id": "865726d820c3242af47fdb26564aa14d8afb04a8eb02e4767a552c20fe9ab573",
+        "title": "Opinion | Trump May Be Losing His Touch",
+        "summary": "At the end of his 11th month, he’s surrounded by mood shifts, challenges and ominous signs.",
+        "source": "wsj",
+        "date": "2025-12-12T07:48:00+09:00",
+        "url": "https://www.wsj.com/opinion/trump-may-be-losing-his-touch-3d379205",
+        "reportUrl": ""
+    },
+    {
+        "id": "be8bd0598f90cd980eab47383527e650cd173d9015fc035ec2703792450bb34a",
+        "title": "Opinion | Another $12 Billion for a Tariff Bailout",
+        "summary": "Trump’s latest round of aid for U.S. farmers hurt by his global trade wars.",
+        "source": "wsj",
+        "date": "2025-12-12T07:42:00+09:00",
+        "url": "https://www.wsj.com/opinion/donald-trump-tariffs-bailout-trade-wars-soybeans-china-24d0696f",
+        "reportUrl": ""
+    },
+    {
+        "id": "768457391d528291b3cdb190bc48e7c1607d7f6c398b452043986068e14fcd25",
+        "title": "A Grand Jury Again Resists Trump’s Push to Reindict Letitia James",
+        "summary": "It was a striking rejection of the administration’s retribution campaign.",
+        "source": "nytimes",
+        "date": "2025-12-12T07:41:36+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/us/politics/grand-jury-letitia-james.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "47a101519efc86ecba355e2099699c6f21cf6452a0c3183e5364d6f2ea24a9de",
+        "title": "Abrego Garcia Freed from Immigration Detention After Court Ruling",
+        "summary": "A man who was mistakenly deported to El Salvador, then brought back to face criminal charges, was granted release in the U.S. for now.",
+        "source": "wsj",
+        "date": "2025-12-12T07:40:00+09:00",
+        "url": "https://www.wsj.com/us-news/law/kilmar-abrego-garcia-freed-immigration-9feff17e",
+        "reportUrl": ""
+    },
+    {
+        "id": "1a3ca294f2452964cb5974def0f5fb1cef6a51a804f7cb35b8cee2b78ca3490f",
+        "title": "Opinion | Rise of the Mamdani Clones",
+        "summary": "After the 2024 humiliation, the left is back. It could hurt the party in 2026.",
+        "source": "wsj",
+        "date": "2025-12-12T07:36:00+09:00",
+        "url": "https://www.wsj.com/opinion/rise-of-the-mamdani-clones-28d0db8b",
+        "reportUrl": ""
+    },
+    {
+        "id": "32006e2d1c04bafb5f4fc334be2dd2804daf4fee6803048b4b389faf393a25a1",
+        "title": "Opinion | The Economic Roots of Grade Inflation",
+        "summary": "Student evaluations subject professors to perverse incentives.",
+        "source": "wsj",
+        "date": "2025-12-12T07:34:00+09:00",
+        "url": "https://www.wsj.com/opinion/the-economic-roots-of-grade-inflation-45889e88",
+        "reportUrl": ""
+    },
+    {
+        "id": "3f4e37ec437ec417d5192cf6d6d0f017376a4fffa5aca0f03b713e7c96bffbc8",
+        "title": "Man Accused in Charlie Kirk Killing Makes First Court Appearance in Person",
+        "summary": "Tyler Robinson faces murder charges in Utah in the Sept. 10 assassination of Mr. Kirk, the political activist and ally of President Trump.",
+        "source": "nytimes",
+        "date": "2025-12-12T07:22:11+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/us/charlie-kirk-assassination-suspect-hearing.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "952e1a8533dfa733cca37f93b389bbc0f6ec266e3475c06cd596ccbf248cec59",
+        "title": "Opinion | Lewis Lists Treat Cops Worse Than Criminals",
+        "summary": "For testifying truthfully, Cory Novick landed on a blacklist and lost his job as a U.S. marshal.",
+        "source": "wsj",
+        "date": "2025-12-12T07:20:00+09:00",
+        "url": "https://www.wsj.com/opinion/lewis-lists-treat-cops-worse-than-criminals-2b1acd5a",
+        "reportUrl": ""
+    },
+    {
+        "id": "120e9a8c7e351b17b13797314d114e6e43b24c2b29cd3ef963dc57e446083279",
+        "title": "Grand Jury Declines Latest Attempt to Indict Letitia James",
+        "summary": "The Justice Department suffered another major setback in its attempt to revive a case against the Democratic official, after a judge dismissed the original fraud charges.",
+        "source": "wsj",
+        "date": "2025-12-12T07:13:00+09:00",
+        "url": "https://www.wsj.com/us-news/law/grand-jury-refuses-latest-attempt-to-indict-letitia-james-203e5202",
+        "reportUrl": ""
+    },
+    {
+        "id": "bdd437d7b394ba9b1a1506bea84ca1dc2d6b2c2089a32ccdeb435dbbe10c09a8",
+        "title": "S&P 500 Reaches Record High as Stocks Reverse Downturn",
+        "summary": "The S&amp;P 500 edged higher as investors shrugged off concerns over Oracle’s earnings. It was just enough.",
+        "source": "nytimes",
+        "date": "2025-12-12T07:03:21+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/business/sp-stocks-record.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "c89dfbc3f245a31093a0db5dcd36486a8479966b190e5e281467155f51c05418",
+        "title": "A Democratic effort to extend federal health-insurance subsidies failed in the Senate on Thursday",
+        "summary": "A rival GOP plan funding health accounts also fell short of advancing, leaving no clear path ahead.",
+        "source": "wsj",
+        "date": "2025-12-12T07:03:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/senate-to-vote-on-dueling-healthcare-proposals-2f6af573",
+        "reportUrl": ""
+    },
+    {
+        "id": "2edcc890732c920454eb22e4eda2d9ad5c26d6660c01fece3d58cc14ecf87a3d",
+        "title": "America Is Entering Its Third Civil War",
+        "summary": "Trump is not interested in refighting the Cold War. He is, in my view, interested in fighting the civilizational war over what is the American “home.”",
+        "source": "nytimes",
+        "date": "2025-12-12T07:00:05+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/opinion/trump-europe-security-strategy.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "d59bf0b87ce3dd330d425d4e11e137ae34960edd3868010bfea805e174f0c145",
+        "title": "Kristi Noem Testifies Before House Panel Amid Immigration Crackdown",
+        "summary": "Kristi Noem, the homeland security secretary, has overseen President Trump’s immigration policy, including efforts to detain more immigrants and pause visa applications.",
+        "source": "nytimes",
+        "date": "2025-12-12T06:38:24+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/us/politics/noem-house-hearing-immigration-crackdown.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "bddea1feeacb7e38c2d700523497272b066d6d2d7392f36074e3ffe15c226e96",
+        "title": "Bessent Accelerates Regulation Overhaul to Jumpstart Growth",
+        "summary": "The Treasury Secretary unveiled changes to the Financial Stability Oversight Council to ease “overregulation.”",
+        "source": "nytimes",
+        "date": "2025-12-12T06:33:20+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/us/politics/bessent-regulation.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "5d56b0b7ab8a812ad1b1cc661dbc4968af29f2eeb7c299d1240c86df369c5ade",
+        "title": "How Andrew Tate, Manosphere Star Accused of Rape and Trafficking, Was Freed",
+        "summary": "Barred from leaving Romania, Andrew Tate courted powerful figures on the American right, from Tucker Carlson to Barron Trump. Then an extraordinary order let him go.",
+        "source": "nytimes",
+        "date": "2025-12-12T06:08:29+09:00",
+        "url": "https://www.nytimes.com/2025/12/10/us/andrew-tate-barron-trump-romania.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "f69adfb7360b046fa97a83deba1909419124a884334e08f0bbb42217b4eddfea",
+        "title": "British Columbia Flooding Forces Hundreds to Evacuate",
+        "summary": "The atmospheric river over the Pacific Northwest brought a deluge to British Columbia, forcing road closures and evacuations in Canada.",
+        "source": "nytimes",
+        "date": "2025-12-12T06:04:36+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/world/canada/british-columbia-vancouver-floods.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "54c17733176f65183c5c9c5295b10a4cf15d8d27102c5e644de528bbf2b5dca3",
+        "title": "What Does the Oil Tanker Seizure Mean for Venezuela’s Economy?",
+        "summary": "Seizures of more tankers could put a stranglehold on Venezuela’s economy, which is exceptionally dependent on oil to keep the government running and pay for basic necessities.",
+        "source": "nytimes",
+        "date": "2025-12-12T05:39:02+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/world/americas/oil-tanker-venezuela-economy-chevron.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "09284b4679083d3f04429b20e236785e4d011b3038ce29ab134d4333ebec58a2",
+        "title": "Zelensky Says Revised U.S. Plan Still Calls for Ukraine to Leave Donbas",
+        "summary": "The Ukrainian leader rejected the demand, making clear that territorial issues remain unresolved as Ukraine and Europe sent a counterproposal to the United States.",
+        "source": "nytimes",
+        "date": "2025-12-12T05:05:11+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/world/europe/trump-ukraine-european-leaders.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "ff197045b9c1d6eecdc4224d529eda3aeec94ef2131f07f200bd2411acdc9659",
+        "title": "Can OpenAI Respond After Google Closes the A.I. Technology Gap?",
+        "summary": "A new technology release from OpenAI is supposed to top what Google recently produced. It also shows OpenAI is engaged in a new and more difficult competition.",
+        "source": "nytimes",
+        "date": "2025-12-12T04:58:47+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/technology/openai-google-ai-technology-gap.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "46a2add5d7bc9286345536538fb4d14fffbd38ba880ab39c5f2151c12cae578b",
+        "title": "This Isn’t the First Time the Fed Has Struggled for Independence",
+        "summary": "The Trump administration is threatening the Fed’s autonomy, which the central bank regained with the Treasury-Fed accord in 1951.",
+        "source": "nytimes",
+        "date": "2025-12-12T04:43:49+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/business/federal-reserve-independence-trump.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "2589c3430ed9464a7392ea0d1d9ddb9bce87887492e5765781a42904068d8d40",
+        "title": "Lecturer Sanctioned Over MAGA White Supremacy Lesson Is Back in Class",
+        "summary": "Some disciplinary measures have been imposed on the lecturer, including being monitored as she teaches a class on diversity and social justice.",
+        "source": "nytimes",
+        "date": "2025-12-12T04:37:23+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/us/indiana-university-professor-sanctioned-maga-white-supremacy-lesson.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "6d2dc348b2d24c5123a57cabf4d585c31cc7040d5138e62468f4be82dacf2861",
+        "title": "Ford’s Car of the Future, Hatched in a Skunk Works Near Los Angeles",
+        "summary": "Desperate to catch up with Chinese automakers, Ford is redesigning its fleet with a Silicon Valley-style team. Is it too late?",
+        "source": "nytimes",
+        "date": "2025-12-12T04:25:54+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/business/ford-electric-vehicles-china.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "78f8ba729a38739a5b7a7907076a6815519986617fa33f11a241b37dba71d692",
+        "title": "U.S. Helped to Weaken Report at U.N. Environment Talks, Participants Say",
+        "summary": "American officials joined Russia, Saudi Arabia and Iran in objecting to language on fossils fuels, biodiversity and plastics in a report that was three years in the making.",
+        "source": "nytimes",
+        "date": "2025-12-12T03:54:16+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/climate/unep-climate-report-trump-administration.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "5c78aae76359f12fafc2fec052da09dbe68b7bd0008e7de6e8fac04083ae4d79",
+        "title": "Texas Sues Medical-Tech Firm Epic Systems Over Parent Access to Child Records",
+        "summary": "The state’s Attorney General Ken Paxton filed a lawsuit that also alleges the company blocks competition.",
+        "source": "wsj",
+        "date": "2025-12-12T02:59:00+09:00",
+        "url": "https://www.wsj.com/us-news/law/texas-sues-medical-tech-firm-epic-systems-over-parent-access-to-child-records-4436fbc3",
+        "reportUrl": ""
+    },
+    {
+        "id": "a1f397ef98d326d4e43c19add861a36587a88900f9bee35bc5afe6dd4bdce353",
+        "title": "The Hollywood Studio Tour Has Become a Lot of Nothing",
+        "summary": "It’s hard to make a movie studio tour exciting when movies aren’t made there anymore. “A vibe of tiredness, like the end of something,” one guest said.",
+        "source": "nytimes",
+        "date": "2025-12-12T02:42:16+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/business/media/hollywood-tours.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "58555bb9820e01c765dd8ad263d44aa77ad790196d2305eff84a871dc69773c6",
+        "title": "Chicago is entangled in its fiercest budget battle in decades, and a central conflict among Democrats is over the mayor’s proposed $33-per-employee monthly “head tax” on large businesses",
+        "summary": "Brandon Johnson is at odds with moderates over his push for a monthly ‘head tax’ on large companies, which aims to help fill a $1.15 billion budget gap.",
+        "source": "wsj",
+        "date": "2025-12-12T02:09:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/chicago-democrats-feud-over-mayors-proposed-33-per-employee-tax-on-businesses-385cbd0a",
+        "reportUrl": ""
+    },
+    {
+        "id": "47ad043e40f2c05b93971bd2bdf18df5a27b1d122337f8241381669f43e0e204",
+        "title": "Chicago Democrats Feud Over Mayor’s Proposed $33-Per-Employee Tax on Businesses",
+        "summary": "Brandon Johnson is at odds with moderates over his push for a monthly ‘head tax’ on large companies, which aims to help fill a $1.15 billion budget gap.",
+        "source": "wsj",
+        "date": "2025-12-12T02:09:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/chicago-democrats-feud-over-mayors-proposed-33-per-employee-tax-on-businesses-385cbd0a",
+        "reportUrl": ""
+    },
+    {
+        "id": "a4de5c6ff045840c080b6983cd576557db9e0c598c223999bc4cf4787e4a31d5",
+        "title": "Trump’s Tariffs Shrank the U.S. Trade Deficit in September",
+        "summary": "The monthly trade deficit fell to its lowest level in five years after the president’s imposition of sweeping global tariffs. But it’s unclear whether the trend will persist.",
+        "source": "nytimes",
+        "date": "2025-12-12T02:06:12+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/business/economy/trump-tariffs-trade-deficit.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "e6ed484fae219141057c3dcbae5d9dbf942d88defc8d5015f91b52aa6378bffa",
+        "title": "Two progressives competing in the Democratic primary for the U.S. Senate are raising Texas Democrats’ hope that the party could win a statewide race next year.",
+        "summary": "Progressives have forced out centrists in the Lone Star State primary matchup for the Senate, where Democrats sense an opportunity.",
+        "source": "wsj",
+        "date": "2025-12-12T02:00:00+09:00",
+        "url": "https://www.wsj.com/politics/elections/a-bible-quoting-liberal-and-a-left-wing-antagonist-lead-longshot-bid-to-flip-texas-6c0de1a1",
+        "reportUrl": ""
+    },
+    {
+        "id": "1d54ca3079f44089e98bd7d6e68e7b531116b9d1cd97377537a11823c1bf1699",
+        "title": "Killer Whales Find an ‘Unlikely Friend’ in Dolphins",
+        "summary": "Off the coast of British Columbia, dolphins lead killer whales to salmon and earn their share of lunch, a new study reveals.",
+        "source": "nytimes",
+        "date": "2025-12-12T01:47:23+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/science/orcas-dolphins-fish.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "a65eaaccde8f61033d8018c54227d8f45c1621ed0d4c7ffb360ab8fc2e69dc50",
+        "title": "Philippines Typhoon Survivors Sue Shell Over Its Role in Climate Change",
+        "summary": "Claimants say the oil giant has known for decades that burning fossil fuel contributes to global warming, something the company disputes.",
+        "source": "wsj",
+        "date": "2025-12-12T01:18:00+09:00",
+        "url": "https://www.wsj.com/articles/philippines-typhoon-survivors-sue-shell-over-its-role-in-climate-change-17af87ca",
+        "reportUrl": ""
+    },
+    {
+        "id": "5a6bffda9c0e8b98e0f22387f01f5b055848f923f218e00e501f9b1bf4a13a9d",
+        "title": "A Battery Dream That Never Lost Its Charge",
+        "summary": "",
+        "source": "wsj",
+        "date": "2025-12-12T00:12:00+09:00",
+        "url": "https://www.wsj.com/business/energy-oil/a-battery-dream-that-never-lost-its-charge-01af3400",
+        "reportUrl": ""
+    },
+    {
+        "id": "2bce79249b6f3433e0fe7649cd315a04dc83cca4bcc39833bad455578f9ea58c",
+        "title": "My Favorite Performances of the Year",
+        "summary": "Actors took big swings in 2025. Here are some of the best.",
+        "source": "nytimes",
+        "date": "2025-12-11T21:48:25+09:00",
+        "url": "https://www.nytimes.com/2025/12/11/podcasts/cannonball-great-performers.html",
+        "reportUrl": ""
+    },
+    {
+        "id": "c584eb54306ba27c503bf4ab63e4626697b2fe42fa35abd7052ac38ac262b050",
+        "title": "A showdown on competing healthcare proposals is a sign of what’s to come. Read more in today’s WSJ Politics newsletter:",
+        "summary": "Plus, the Federal Reserve cuts interest rates, and Trump says CNN should be sold.",
+        "source": "wsj",
+        "date": "2025-12-11T20:57:00+09:00",
+        "url": "https://www.wsj.com/politics/elections/showdown-over-healthcare-vote-is-a-sign-of-whats-to-come-eaee43a9",
+        "reportUrl": ""
+    },
+    {
+        "id": "7b453f02c1fa8f0ce859947a8eddec9ee0077b592c9a6a731e1dece778378d58",
+        "title": "The Trump administration jettisoned a plan to honor the abolition of slavery, women’s suffrage and the civil-rights movement on quarters for the nation’s 250th birthday",
+        "summary": "The move comes as a controversial $1 Trump coin for the nation’s 250th birthday is also being considered.",
+        "source": "wsj",
+        "date": "2025-12-11T12:02:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/trump-administration-scraps-plan-to-mint-quarters-featuring-abolition-suffrage-073583d4",
+        "reportUrl": ""
+    },
+    {
+        "id": "4a935228411d4cf866329af5b8432c1454b5c37795d8d35936c129017216e7fd",
+        "title": "Trump Administration Scraps Plan to Mint Quarters Featuring Abolition, Suffrage",
+        "summary": "The move comes as a controversial $1 Trump coin for the nation’s 250th birthday is also being considered.",
+        "source": "wsj",
+        "date": "2025-12-11T12:02:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/trump-administration-scraps-plan-to-mint-quarters-featuring-abolition-suffrage-073583d4",
+        "reportUrl": ""
+    },
+    {
+        "id": "e4184f27161f66d1b181d4481bbcf18bf6db2689172b18b01d5462f11eb996f9",
+        "title": "President Trump is wielding one of the most sweeping of presidential powers—clemency—far differently in his second term than in his first: Here’s a visual breakdown",
+        "summary": "President Trump granted clemency to 1,600 people in 2025. Here’s a breakdown of what they have in common.",
+        "source": "wsj",
+        "date": "2025-12-11T12:00:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/a-visual-breakdown-of-trumps-pardon-spree-c8287388",
+        "reportUrl": ""
+    },
+    {
+        "id": "3f899ab6ad3fbcd6a3739d289d8c135ad15979f3172e426d572d20e83267fa2a",
+        "title": "More Republicans in the House and Senate are breaking with party leaders and saying the GOP should extend expiring Affordable Care Act subsidies",
+        "summary": "Some GOP lawmakers across the political spectrum are open to a short-term extension of ACA subsidies.",
+        "source": "wsj",
+        "date": "2025-12-11T08:21:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/some-republicans-break-with-leaders-in-healthcare-fight-362dc861",
+        "reportUrl": ""
+    },
+    {
+        "id": "3bf0b754689f0e6c56d38be1f06623f0e0ec6a7500713757619e8ebf7d16b2cf",
+        "title": "Citizens of countries including the U.K. and France will have to disclose five years of their social-media history to visit the U.S., even though they are covered by a visa waiver program",
+        "summary": "The proposal would apply to nations like the U.K., France and Japan that typically don’t need visas for short stays.",
+        "source": "wsj",
+        "date": "2025-12-11T07:37:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/trump-administration-wants-to-screen-foreign-visitors-social-media-history-for-entry-91d1a1ef",
+        "reportUrl": ""
+    },
+    {
+        "id": "096619c93e9cca53f5361375ffbd8deda968e716f8d6b260cc0087840439f179",
+        "title": "Judge Orders Trump Administration to End National Guard Deployment in Los Angeles",
+        "summary": "The ruling is a blow to President Trump’s deployment of troops to Democratic-controlled cities.",
+        "source": "wsj",
+        "date": "2025-12-11T05:21:00+09:00",
+        "url": "https://www.wsj.com/us-news/law/judge-orders-trump-administration-to-end-national-guard-deployment-in-los-angeles-ed420fce",
+        "reportUrl": ""
+    },
+    {
+        "id": "8671e7e3e779fe4cef8d742f28182ef53161308c8b425c51c8c1711ac2e755af",
+        "title": "President Trump visited a casino in Monroe County, Pa., where voters once bought into his economic vision. Do they still?",
+        "summary": "The president visited a casino in Monroe County, Pa., where voters once bought into his economic vision. Do they still?",
+        "source": "wsj",
+        "date": "2025-12-11T02:00:00+09:00",
+        "url": "https://www.wsj.com/politics/policy/trumps-economic-promises-test-patience-in-the-poconos-6a8174de",
+        "reportUrl": ""
+    },
+    {
+        "id": "03b3c66dbae9991498da80ae8e779f6252e7f4d511b60af6e66e98f705aac57d",
+        "title": "Are Refugees Good or Bad for the Economy? Here’s What the Numbers Say",
+        "summary": "They have high rates of entrepreneurship and over time produce more in tax revenues than they receive in government benefits, studies show.",
+        "source": "wsj",
+        "date": "2025-12-11T02:00:00+09:00",
+        "url": "https://www.wsj.com/economy/immigration-refugees-economy-charts-c0cd0782",
+        "reportUrl": ""
+    }
+]
