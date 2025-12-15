@@ -110,5 +110,40 @@
     "end": "2025-12-11",
     "location": "National Harbor, Maryland, USA",
     "description": ""
+  },
+  {
+    "title": "World Economic Forum Annual Meeting 2026",
+    "start": "2026-01-19",
+    "end": "2026-01-23",
+    "location": "Davos, Switzerland",
+    "description": ""
+  },
+  {
+    "title": "Consumer Electronics Show (CES) 2026",
+    "start": "2026-01-06",
+    "end": "2026-01-09",
+    "location": "Las Vegas, Nevada, USA",
+    "description": ""
+  },
+  {
+    "title": "DoD Maintenance Symposium 2026",
+    "start": "2026-01-20",
+    "end": "2026-01-23",
+    "location": "Louisville, Kentucky, USA",
+    "description": ""
+  },
+  {
+    "title": "Air & Space Forces Association (AFA) Warfare Symposium",
+    "start": "2026-02-23",
+    "end": "2026-02-25",
+    "location": "Aurora, Colorado, USA",
+    "description": ""
+  },
+  {
+    "title": "Future Solider Technology",
+    "start": "2026-03-09",
+    "end": "2026-03-11",
+    "location": "London, UK",
+    "description": ""
   }
 ]
