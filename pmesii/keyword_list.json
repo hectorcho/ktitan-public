@@ -1,42 +1,42 @@
 [
     {
         "type": "national",
-        "keyword": "미래연",
-        "quantity": 1
+        "keyword": "국제유가",
+        "quantity": 4
     },
     {
         "type": "national",
-        "keyword": "미래연",
-        "quantity": 1
+        "keyword": "코스피",
+        "quantity": 2
     },
     {
         "type": "national",
-        "keyword": "미래연",
-        "quantity": 1
+        "keyword": "환율",
+        "quantity": 2
     },
     {
         "type": "national",
-        "keyword": "미래연",
+        "keyword": "경제위기",
         "quantity": 1
     },
     {
         "type": "military",
-        "keyword": "미래연2",
+        "keyword": "이란",
+        "quantity": 5
+    },
+    {
+        "type": "military",
+        "keyword": "중동사태",
+        "quantity": 3
+    },
+    {
+        "type": "military",
+        "keyword": "드론",
         "quantity": 1
     },
     {
         "type": "military",
-        "keyword": "미래연2",
-        "quantity": 1
-    },
-    {
-        "type": "military",
-        "keyword": "미래연2",
-        "quantity": 1
-    },
-    {
-        "type": "military",
-        "keyword": "미래연2",
+        "keyword": "미국",
         "quantity": 1
     }
 ]
