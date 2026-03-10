@@ -6,7 +6,7 @@
     },
     {
         "type": "national",
-        "keyword": "코스피",
+        "keyword": "코스피/코스닥",
         "quantity": 2
     },
     {
@@ -16,27 +16,27 @@
     },
     {
         "type": "national",
-        "keyword": "경제위기",
+        "keyword": "반도체",
         "quantity": 1
     },
     {
         "type": "military",
-        "keyword": "이란",
-        "quantity": 5
-    },
-    {
-        "type": "military",
-        "keyword": "중동사태",
+        "keyword": "중동전쟁",
         "quantity": 3
     },
     {
         "type": "military",
-        "keyword": "드론",
+        "keyword": "한미연합훈련",
+        "quantity": 2
+    },
+    {
+        "type": "military",
+        "keyword": "김여정",
         "quantity": 1
     },
     {
         "type": "military",
-        "keyword": "미국",
+        "keyword": "수출",
         "quantity": 1
     }
 ]
